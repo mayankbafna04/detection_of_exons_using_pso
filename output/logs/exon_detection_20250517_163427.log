@@ -1,0 +1,347 @@
+2025-05-17 16:34:27,622 - root - WARNING - No GPU available. Using CPU.
+2025-05-17 16:34:27,622 - root - INFO - Downloading GenBank files
+2025-05-17 16:34:27,623 - data.downloader - INFO - Downloading batch 1/30 (10 accessions)
+2025-05-17 16:34:27,623 - data.downloader - INFO - Fetching records: Z49258, X73428, X66114, X14487, X64467, X01392, X04898, X01038, X05151, X52150
+2025-05-17 16:34:30,277 - data.downloader - INFO - Saved Z49258.1 to output/data/raw/Z49258.1.gb
+2025-05-17 16:34:30,278 - data.downloader - INFO - Saved X73428.1 to output/data/raw/X73428.1.gb
+2025-05-17 16:34:30,280 - data.downloader - INFO - Saved X66114.1 to output/data/raw/X66114.1.gb
+2025-05-17 16:34:30,282 - data.downloader - INFO - Saved X14487.1 to output/data/raw/X14487.1.gb
+2025-05-17 16:34:30,289 - data.downloader - INFO - Saved X64467.1 to output/data/raw/X64467.1.gb
+2025-05-17 16:34:30,291 - data.downloader - INFO - Saved X01392.1 to output/data/raw/X01392.1.gb
+2025-05-17 16:34:30,293 - data.downloader - INFO - Saved X04898.1 to output/data/raw/X04898.1.gb
+2025-05-17 16:34:30,294 - data.downloader - INFO - Saved X01038.1 to output/data/raw/X01038.1.gb
+2025-05-17 16:34:30,296 - data.downloader - INFO - Saved X05151.1 to output/data/raw/X05151.1.gb
+2025-05-17 16:34:30,298 - data.downloader - INFO - Saved X52150.1 to output/data/raw/X52150.1.gb
+2025-05-17 16:34:31,298 - data.downloader - INFO - Downloading batch 2/30 (10 accessions)
+2025-05-17 16:34:31,299 - data.downloader - INFO - Fetching records: X63600, X68793, X69907, X72861, X12706, X04143, Y00081, X54486, X52889, X06882
+2025-05-17 16:34:34,162 - data.downloader - INFO - Saved X63600.1 to output/data/raw/X63600.1.gb
+2025-05-17 16:34:34,178 - data.downloader - INFO - Saved X68793.1 to output/data/raw/X68793.1.gb
+2025-05-17 16:34:34,180 - data.downloader - INFO - Saved X69907.1 to output/data/raw/X69907.1.gb
+2025-05-17 16:34:34,189 - data.downloader - INFO - Saved X72861.1 to output/data/raw/X72861.1.gb
+2025-05-17 16:34:34,191 - data.downloader - INFO - Saved X12706.1 to output/data/raw/X12706.1.gb
+2025-05-17 16:34:34,193 - data.downloader - INFO - Saved X04143.1 to output/data/raw/X04143.1.gb
+2025-05-17 16:34:34,195 - data.downloader - INFO - Saved Y00081.1 to output/data/raw/Y00081.1.gb
+2025-05-17 16:34:34,198 - data.downloader - INFO - Saved X54486.1 to output/data/raw/X54486.1.gb
+2025-05-17 16:34:34,205 - data.downloader - INFO - Saved X52889.1 to output/data/raw/X52889.1.gb
+2025-05-17 16:34:34,207 - data.downloader - INFO - Saved X06882.1 to output/data/raw/X06882.1.gb
+2025-05-17 16:34:35,207 - data.downloader - INFO - Downloading batch 3/30 (10 accessions)
+2025-05-17 16:34:35,208 - data.downloader - INFO - Fetching records: X14974, X06180, X15334, X57152, Z26491, X62891, X52851, X14720, X52255, Z18859
+2025-05-17 16:34:37,846 - data.downloader - INFO - Saved X14974.1 to output/data/raw/X14974.1.gb
+2025-05-17 16:34:37,848 - data.downloader - INFO - Saved X06180.1 to output/data/raw/X06180.1.gb
+2025-05-17 16:34:37,849 - data.downloader - INFO - Saved X15334.1 to output/data/raw/X15334.1.gb
+2025-05-17 16:34:37,852 - data.downloader - INFO - Saved X57152.1 to output/data/raw/X57152.1.gb
+2025-05-17 16:34:37,857 - data.downloader - INFO - Saved Z26491.1 to output/data/raw/Z26491.1.gb
+2025-05-17 16:34:37,859 - data.downloader - INFO - Saved X62891.1 to output/data/raw/X62891.1.gb
+2025-05-17 16:34:37,861 - data.downloader - INFO - Saved X52851.1 to output/data/raw/X52851.1.gb
+2025-05-17 16:34:37,867 - data.downloader - INFO - Saved X14720.7 to output/data/raw/X14720.7.gb
+2025-05-17 16:34:37,873 - data.downloader - INFO - Saved X52255.1 to output/data/raw/X52255.1.gb
+2025-05-17 16:34:37,879 - data.downloader - INFO - Saved Z18859.1 to output/data/raw/Z18859.1.gb
+2025-05-17 16:34:38,884 - data.downloader - INFO - Downloading batch 4/30 (10 accessions)
+2025-05-17 16:34:38,884 - data.downloader - INFO - Fetching records: X68303, X02612, X78212, X84707, Z46254, X15215, X79198, Z48950, X76776, X02882
+2025-05-17 16:34:41,384 - data.downloader - INFO - Saved X68303.1 to output/data/raw/X68303.1.gb
+2025-05-17 16:34:41,386 - data.downloader - INFO - Saved X02612.1 to output/data/raw/X02612.1.gb
+2025-05-17 16:34:41,389 - data.downloader - INFO - Saved X78212.1 to output/data/raw/X78212.1.gb
+2025-05-17 16:34:41,394 - data.downloader - INFO - Saved X84707.1 to output/data/raw/X84707.1.gb
+2025-05-17 16:34:41,397 - data.downloader - INFO - Saved Z46254.0 to output/data/raw/Z46254.0.gb
+2025-05-17 16:34:41,398 - data.downloader - INFO - Saved X15215.1 to output/data/raw/X15215.1.gb
+2025-05-17 16:34:41,403 - data.downloader - INFO - Saved X79198.1 to output/data/raw/X79198.1.gb
+2025-05-17 16:34:41,413 - data.downloader - INFO - Saved Z48950.1 to output/data/raw/Z48950.1.gb
+2025-05-17 16:34:41,415 - data.downloader - INFO - Saved X76776.1 to output/data/raw/X76776.1.gb
+2025-05-17 16:34:41,417 - data.downloader - INFO - Saved X02882.1 to output/data/raw/X02882.1.gb
+2025-05-17 16:34:42,421 - data.downloader - INFO - Downloading batch 5/30 (10 accessions)
+2025-05-17 16:34:42,421 - data.downloader - INFO - Fetching records: X00492, X61755, Y00371, X60459, V00536, Z00010, X00695, X03833, X04500, X64532
+2025-05-17 16:34:45,120 - data.downloader - INFO - Saved X00492.1 to output/data/raw/X00492.1.gb
+2025-05-17 16:34:45,122 - data.downloader - INFO - Saved X61755.1 to output/data/raw/X61755.1.gb
+2025-05-17 16:34:45,124 - data.downloader - INFO - Saved Y00371.1 to output/data/raw/Y00371.1.gb
+2025-05-17 16:34:45,133 - data.downloader - INFO - Saved X60459.1 to output/data/raw/X60459.1.gb
+2025-05-17 16:34:45,135 - data.downloader - INFO - Saved V00536.1 to output/data/raw/V00536.1.gb
+2025-05-17 16:34:45,136 - data.downloader - INFO - Saved Z00010.1 to output/data/raw/Z00010.1.gb
+2025-05-17 16:34:45,138 - data.downloader - INFO - Saved X00695.1 to output/data/raw/X00695.1.gb
+2025-05-17 16:34:45,143 - data.downloader - INFO - Saved X03833.1 to output/data/raw/X03833.1.gb
+2025-05-17 16:34:45,151 - data.downloader - INFO - Saved X04500.1 to output/data/raw/X04500.1.gb
+2025-05-17 16:34:45,153 - data.downloader - INFO - Saved X64532.1 to output/data/raw/X64532.1.gb
+2025-05-17 16:34:46,154 - data.downloader - INFO - Downloading batch 6/30 (10 accessions)
+2025-05-17 16:34:46,154 - data.downloader - INFO - Fetching records: V00565, X03072, X14445, X52138, X04981, X62654, Y00477, X54489, Z14977, Z48051
+2025-05-17 16:34:49,109 - data.downloader - INFO - Saved V00565.1 to output/data/raw/V00565.1.gb
+2025-05-17 16:34:49,111 - data.downloader - INFO - Saved X03072.1 to output/data/raw/X03072.1.gb
+2025-05-17 16:34:49,113 - data.downloader - INFO - Saved X14445.1 to output/data/raw/X14445.1.gb
+2025-05-17 16:34:49,114 - data.downloader - INFO - Saved X52138.1 to output/data/raw/X52138.1.gb
+2025-05-17 16:34:49,119 - data.downloader - INFO - Saved X04981.1 to output/data/raw/X04981.1.gb
+2025-05-17 16:34:49,123 - data.downloader - INFO - Saved X62654.1 to output/data/raw/X62654.1.gb
+2025-05-17 16:34:49,126 - data.downloader - INFO - Saved Y00477.1 to output/data/raw/Y00477.1.gb
+2025-05-17 16:34:49,132 - data.downloader - INFO - Saved X54489.1 to output/data/raw/X54489.1.gb
+2025-05-17 16:34:49,139 - data.downloader - INFO - Saved Z14977.1 to output/data/raw/Z14977.1.gb
+2025-05-17 16:34:49,145 - data.downloader - INFO - Saved Z48051.1 to output/data/raw/Z48051.1.gb
+2025-05-17 16:34:50,150 - data.downloader - INFO - Downloading batch 7/30 (10 accessions)
+2025-05-17 16:34:50,150 - data.downloader - INFO - Fetching records: Z33457, Z29373, Y00067, X16277, X74614, X54156, X69438, X75755, X07881, X70872
+2025-05-17 16:34:52,188 - data.downloader - INFO - Saved Z33457.1 to output/data/raw/Z33457.1.gb
+2025-05-17 16:34:52,191 - data.downloader - INFO - Saved Z29373.1 to output/data/raw/Z29373.1.gb
+2025-05-17 16:34:52,192 - data.downloader - INFO - Saved Y00067.1 to output/data/raw/Y00067.1.gb
+2025-05-17 16:34:52,195 - data.downloader - INFO - Saved X16277.1 to output/data/raw/X16277.1.gb
+2025-05-17 16:34:52,199 - data.downloader - INFO - Saved X74614.1 to output/data/raw/X74614.1.gb
+2025-05-17 16:34:52,204 - data.downloader - INFO - Saved X54156.1 to output/data/raw/X54156.1.gb
+2025-05-17 16:34:52,206 - data.downloader - INFO - Saved X69438.1 to output/data/raw/X69438.1.gb
+2025-05-17 16:34:52,212 - data.downloader - INFO - Saved X75755.1 to output/data/raw/X75755.1.gb
+2025-05-17 16:34:52,214 - data.downloader - INFO - Saved X07881.1 to output/data/raw/X07881.1.gb
+2025-05-17 16:34:52,220 - data.downloader - INFO - Saved X70872.1 to output/data/raw/X70872.1.gb
+2025-05-17 16:34:53,222 - data.downloader - INFO - Downloading batch 8/30 (10 accessions)
+2025-05-17 16:34:53,222 - data.downloader - INFO - Fetching records: X62025, Z23102, U08198, U09954, U12421, U17969, U19765, U19816, U20325, U20499
+2025-05-17 16:34:55,091 - data.downloader - INFO - Saved X62025.1 to output/data/raw/X62025.1.gb
+2025-05-17 16:34:55,094 - data.downloader - INFO - Saved Z23102.1 to output/data/raw/Z23102.1.gb
+2025-05-17 16:34:55,095 - data.downloader - INFO - Saved U08198.1 to output/data/raw/U08198.1.gb
+2025-05-17 16:34:55,097 - data.downloader - INFO - Saved U09954.1 to output/data/raw/U09954.1.gb
+2025-05-17 16:34:55,102 - data.downloader - INFO - Saved U12421.1 to output/data/raw/U12421.1.gb
+2025-05-17 16:34:55,105 - data.downloader - INFO - Saved U17969.1 to output/data/raw/U17969.1.gb
+2025-05-17 16:34:55,108 - data.downloader - INFO - Saved U19765.1 to output/data/raw/U19765.1.gb
+2025-05-17 16:34:55,110 - data.downloader - INFO - Saved U19816.1 to output/data/raw/U19816.1.gb
+2025-05-17 16:34:55,112 - data.downloader - INFO - Saved U20325.1 to output/data/raw/U20325.1.gb
+2025-05-17 16:34:55,114 - data.downloader - INFO - Saved U20499.1 to output/data/raw/U20499.1.gb
+2025-05-17 16:34:56,115 - data.downloader - INFO - Downloading batch 9/30 (10 accessions)
+2025-05-17 16:34:56,115 - data.downloader - INFO - Fetching records: U20982, U23143, U23853, U25826, U26425, X56997, X76498, X69953, D25234, K02212
+2025-05-17 16:34:58,196 - data.downloader - INFO - Saved U20982.1 to output/data/raw/U20982.1.gb
+2025-05-17 16:34:58,198 - data.downloader - INFO - Saved U23143.1 to output/data/raw/U23143.1.gb
+2025-05-17 16:34:58,199 - data.downloader - INFO - Saved U23853.1 to output/data/raw/U23853.1.gb
+2025-05-17 16:34:58,201 - data.downloader - INFO - Saved U25826.1 to output/data/raw/U25826.1.gb
+2025-05-17 16:34:58,207 - data.downloader - INFO - Saved U26425.1 to output/data/raw/U26425.1.gb
+2025-05-17 16:34:58,210 - data.downloader - INFO - Saved X56997.1 to output/data/raw/X56997.1.gb
+2025-05-17 16:34:58,211 - data.downloader - INFO - Saved X76498.1 to output/data/raw/X76498.1.gb
+2025-05-17 16:34:58,214 - data.downloader - INFO - Saved X69953.1 to output/data/raw/X69953.1.gb
+2025-05-17 16:34:58,225 - data.downloader - INFO - Saved D25234.1 to output/data/raw/D25234.1.gb
+2025-05-17 16:34:58,228 - data.downloader - INFO - Saved K02212.1 to output/data/raw/K02212.1.gb
+2025-05-17 16:34:59,233 - data.downloader - INFO - Downloading batch 10/30 (10 accessions)
+2025-05-17 16:34:59,233 - data.downloader - INFO - Fetching records: M21540, M10277, M13792, M74493, M16110, M61831, J04809, M63420, K02043, J04982
+2025-05-17 16:35:02,213 - data.downloader - INFO - Saved M21540.1 to output/data/raw/M21540.1.gb
+2025-05-17 16:35:02,215 - data.downloader - INFO - Saved M10277.1 to output/data/raw/M10277.1.gb
+2025-05-17 16:35:02,220 - data.downloader - INFO - Saved M13792.1 to output/data/raw/M13792.1.gb
+2025-05-17 16:35:02,225 - data.downloader - INFO - Saved M74493.1 to output/data/raw/M74493.1.gb
+2025-05-17 16:35:02,234 - data.downloader - INFO - Saved M16110.1 to output/data/raw/M16110.1.gb
+2025-05-17 16:35:02,239 - data.downloader - INFO - Saved M61831.1 to output/data/raw/M61831.1.gb
+2025-05-17 16:35:02,241 - data.downloader - INFO - Saved J04809.1 to output/data/raw/J04809.1.gb
+2025-05-17 16:35:02,243 - data.downloader - INFO - Saved M63420.1 to output/data/raw/M63420.1.gb
+2025-05-17 16:35:02,247 - data.downloader - INFO - Saved K02043.1 to output/data/raw/K02043.1.gb
+2025-05-17 16:35:02,249 - data.downloader - INFO - Saved J04982.1 to output/data/raw/J04982.1.gb
+2025-05-17 16:35:03,254 - data.downloader - INFO - Downloading batch 11/30 (10 accessions)
+2025-05-17 16:35:03,254 - data.downloader - INFO - Fetching records: M14642, M20902, M10065, J05096, D28126, M27132, M64554, M38180, K01884, M01776
+2025-05-17 16:35:05,699 - data.downloader - INFO - Saved M14642.1 to output/data/raw/M14642.1.gb
+2025-05-17 16:35:05,700 - data.downloader - INFO - Saved M20902.1 to output/data/raw/M20902.1.gb
+2025-05-17 16:35:05,702 - data.downloader - INFO - Saved M10065.1 to output/data/raw/M10065.1.gb
+2025-05-17 16:35:05,709 - data.downloader - INFO - Saved J05096.1 to output/data/raw/J05096.1.gb
+2025-05-17 16:35:05,713 - data.downloader - INFO - Saved D28126.1 to output/data/raw/D28126.1.gb
+2025-05-17 16:35:05,716 - data.downloader - INFO - Saved M27132.1 to output/data/raw/M27132.1.gb
+2025-05-17 16:35:05,720 - data.downloader - INFO - Saved M64554.1 to output/data/raw/M64554.1.gb
+2025-05-17 16:35:05,726 - data.downloader - INFO - Saved M38180.1 to output/data/raw/M38180.1.gb
+2025-05-17 16:35:05,727 - data.downloader - INFO - Saved K01884.1 to output/data/raw/K01884.1.gb
+2025-05-17 16:35:06,733 - data.downloader - INFO - Downloading batch 12/30 (10 accessions)
+2025-05-17 16:35:06,733 - data.downloader - INFO - Fetching records: D26535, M27138, J05008, J04617, D13156, L29766, M18079, K02402, L13391, L24498
+2025-05-17 16:35:09,711 - data.downloader - INFO - Saved D26535.1 to output/data/raw/D26535.1.gb
+2025-05-17 16:35:09,713 - data.downloader - INFO - Saved M27138.1 to output/data/raw/M27138.1.gb
+2025-05-17 16:35:09,716 - data.downloader - INFO - Saved J05008.1 to output/data/raw/J05008.1.gb
+2025-05-17 16:35:09,721 - data.downloader - INFO - Saved J04617.1 to output/data/raw/J04617.1.gb
+2025-05-17 16:35:09,722 - data.downloader - INFO - Saved D13156.1 to output/data/raw/D13156.1.gb
+2025-05-17 16:35:09,728 - data.downloader - INFO - Saved L29766.1 to output/data/raw/L29766.1.gb
+2025-05-17 16:35:09,730 - data.downloader - INFO - Saved M18079.1 to output/data/raw/M18079.1.gb
+2025-05-17 16:35:09,738 - data.downloader - INFO - Saved K02402.1 to output/data/raw/K02402.1.gb
+2025-05-17 16:35:09,746 - data.downloader - INFO - Saved L13391.1 to output/data/raw/L13391.1.gb
+2025-05-17 16:35:09,748 - data.downloader - INFO - Saved L24498.1 to output/data/raw/L24498.1.gb
+2025-05-17 16:35:10,753 - data.downloader - INFO - Downloading batch 13/30 (10 accessions)
+2025-05-17 16:35:10,753 - data.downloader - INFO - Fetching records: L10822, K01254, L36861, J03059, M93280, M91463, M58600, L04132, M21339, M83665
+2025-05-17 16:35:13,354 - data.downloader - INFO - Saved L10822.1 to output/data/raw/L10822.1.gb
+2025-05-17 16:35:13,355 - data.downloader - INFO - Saved K01254.1 to output/data/raw/K01254.1.gb
+2025-05-17 16:35:13,357 - data.downloader - INFO - Saved L36861.1 to output/data/raw/L36861.1.gb
+2025-05-17 16:35:13,364 - data.downloader - INFO - Saved J03059.1 to output/data/raw/J03059.1.gb
+2025-05-17 16:35:13,368 - data.downloader - INFO - Saved M93280 to output/data/raw/M93280.gb
+2025-05-17 16:35:13,372 - data.downloader - INFO - Saved M91463.1 to output/data/raw/M91463.1.gb
+2025-05-17 16:35:13,381 - data.downloader - INFO - Saved M58600.1 to output/data/raw/M58600.1.gb
+2025-05-17 16:35:13,385 - data.downloader - INFO - Saved L04132.1 to output/data/raw/L04132.1.gb
+2025-05-17 16:35:13,398 - data.downloader - INFO - Saved M21339.1 to output/data/raw/M21339.1.gb
+2025-05-17 16:35:13,406 - data.downloader - INFO - Saved M83665.1 to output/data/raw/M83665.1.gb
+2025-05-17 16:35:14,407 - data.downloader - INFO - Downloading batch 14/30 (10 accessions)
+2025-05-17 16:35:14,408 - data.downloader - INFO - Fetching records: L17131, M26434, M18006, L39370, M27024, L35485, L05072, L14075, L19546, M23442
+2025-05-17 16:36:59,473 - data.downloader - ERROR - Error downloading batch ['L17131', 'M26434', 'M18006', 'L39370', 'M27024', 'L35485', 'L05072', 'L14075', 'L19546', 'M23442']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:36:59,476 - data.downloader - INFO - Downloading batch 15/30 (10 accessions)
+2025-05-17 16:36:59,477 - data.downloader - INFO - Fetching records: L39064, L33842, J05253, D16583, M22638, L11016, M37719, D49493, J04718, D90084
+2025-05-17 16:37:29,544 - data.downloader - ERROR - Error downloading batch ['L39064', 'L33842', 'J05253', 'D16583', 'M22638', 'L11016', 'M37719', 'D49493', 'J04718', 'D90084']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:37:29,546 - data.downloader - INFO - Downloading batch 16/30 (10 accessions)
+2025-05-17 16:37:29,546 - data.downloader - INFO - Fetching records: L25648, J05073, L12760, M27903, L39891, M11726, M31951, M30838, J00301, L34219
+2025-05-17 16:37:59,621 - data.downloader - ERROR - Error downloading batch ['L25648', 'J05073', 'L12760', 'M27903', 'L39891', 'M11726', 'M31951', 'M30838', 'J00301', 'L34219']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:37:59,623 - data.downloader - INFO - Downloading batch 17/30 (10 accessions)
+2025-05-17 16:37:59,623 - data.downloader - INFO - Fetching records: D00591, L11910, M32405, M89796, M96759, M18000, M81650, J00306, M24461, M64231
+2025-05-17 16:38:29,697 - data.downloader - ERROR - Error downloading batch ['D00591', 'L11910', 'M32405', 'M89796', 'M96759', 'M18000', 'M81650', 'J00306', 'M24461', 'M64231']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:38:29,699 - data.downloader - INFO - Downloading batch 18/30 (10 accessions)
+2025-05-17 16:38:29,699 - data.downloader - INFO - Fetching records: M32639, D32046, L13470, M96955, J02846, M11749, M59924, K03021, L14927, M37984
+2025-05-17 16:38:59,762 - data.downloader - ERROR - Error downloading batch ['M32639', 'D32046', 'L13470', 'M96955', 'J02846', 'M11749', 'M59924', 'K03021', 'L14927', 'M37984']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:38:59,764 - data.downloader - INFO - Downloading batch 19/30 (10 accessions)
+2025-05-17 16:38:59,764 - data.downloader - INFO - Fetching records: D00596, M21024, J03589, M73255, X57436, X80536, X14672, X65633, X63128, X66503
+2025-05-17 16:39:29,824 - data.downloader - ERROR - Error downloading batch ['D00596', 'M21024', 'J03589', 'M73255', 'X57436', 'X80536', 'X14672', 'X65633', 'X63128', 'X66503']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:39:29,826 - data.downloader - INFO - Downloading batch 20/30 (10 accessions)
+2025-05-17 16:39:29,826 - data.downloader - INFO - Fetching records: Z11162, Y00106, X52473, V01511, X68790, X65784, X55039, Z25587, X70251, X60542
+2025-05-17 16:39:59,902 - data.downloader - ERROR - Error downloading batch ['Z11162', 'Y00106', 'X52473', 'V01511', 'X68790', 'X65784', 'X55039', 'Z25587', 'X70251', 'X60542']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:39:59,904 - data.downloader - INFO - Downloading batch 21/30 (10 accessions)
+2025-05-17 16:39:59,904 - data.downloader - INFO - Fetching records: X60382, X55545, X55760, X62421, X68302, X12794, X16545, X55741, X80915, X66310
+2025-05-17 16:40:29,971 - data.downloader - ERROR - Error downloading batch ['X60382', 'X55545', 'X55760', 'X62421', 'X68302', 'X12794', 'X16545', 'X55741', 'X80915', 'X66310']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:40:29,973 - data.downloader - INFO - Downloading batch 22/30 (10 accessions)
+2025-05-17 16:40:29,973 - data.downloader - INFO - Fetching records: Z23091, X57130, X57127, X60481, X65858, X63337, X64994, X64995, X03473, X76786
+2025-05-17 16:41:00,037 - data.downloader - ERROR - Error downloading batch ['Z23091', 'X57130', 'X57127', 'X60481', 'X65858', 'X63337', 'X64994', 'X64995', 'X03473', 'X76786']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:41:00,040 - data.downloader - INFO - Downloading batch 23/30 (10 accessions)
+2025-05-17 16:41:00,040 - data.downloader - INFO - Fetching records: X00089, X15265, V00532, X55293, X52560, X60201, Z11901, X12458, X73424, V00571
+2025-05-17 16:41:30,103 - data.downloader - ERROR - Error downloading batch ['X00089', 'X15265', 'V00532', 'X55293', 'X52560', 'X60201', 'Z11901', 'X12458', 'X73424', 'V00571']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:41:30,107 - data.downloader - INFO - Downloading batch 24/30 (10 accessions)
+2025-05-17 16:41:30,107 - data.downloader - INFO - Fetching records: X05246, X13556, X83416, X53065, X79235, Z27113, X52259, X52075, X71135, X82554
+2025-05-17 16:42:00,182 - data.downloader - ERROR - Error downloading batch ['X05246', 'X13556', 'X83416', 'X53065', 'X79235', 'Z27113', 'X52259', 'X52075', 'X71135', 'X82554']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:42:00,186 - data.downloader - INFO - Downloading batch 25/30 (10 accessions)
+2025-05-17 16:42:00,186 - data.downloader - INFO - Fetching records: X55543, X73534, X82676, U01212, U03486, U03735, U10116, U10273, U10360, U10554
+2025-05-17 16:42:30,250 - data.downloader - ERROR - Error downloading batch ['X55543', 'X73534', 'X82676', 'U01212', 'U03486', 'U03735', 'U10116', 'U10273', 'U10360', 'U10554']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:42:30,252 - data.downloader - INFO - Downloading batch 26/30 (10 accessions)
+2025-05-17 16:42:30,252 - data.downloader - INFO - Fetching records: U11424, U13666, U13695, U16812, U17894, U18548, U20734, U21051, U22346, L10381
+2025-05-17 16:43:00,330 - data.downloader - ERROR - Error downloading batch ['U11424', 'U13666', 'U13695', 'U16812', 'U17894', 'U18548', 'U20734', 'U21051', 'U22346', 'L10381']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:43:00,334 - data.downloader - INFO - Downloading batch 27/30 (10 accessions)
+2025-05-17 16:43:00,334 - data.downloader - INFO - Fetching records: D13538, L19704, M11567, L18972, L37019, M35160, M27394, M90355, M90356, M92269
+2025-05-17 16:43:30,406 - data.downloader - ERROR - Error downloading batch ['D13538', 'L19704', 'M11567', 'L18972', 'L37019', 'M35160', 'M27394', 'M90355', 'M90356', 'M92269']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:43:30,408 - data.downloader - INFO - Downloading batch 28/30 (10 accessions)
+2025-05-17 16:43:30,408 - data.downloader - INFO - Fetching records: M31423, J00119, L15296, M28170, M14333, L35240, M60119, M90439, M55267, M60830
+2025-05-17 16:44:00,478 - data.downloader - ERROR - Error downloading batch ['M31423', 'J00119', 'L15296', 'M28170', 'M14333', 'L35240', 'M60119', 'M90439', 'M55267', 'M60830']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:44:00,481 - data.downloader - INFO - Downloading batch 29/30 (10 accessions)
+2025-05-17 16:44:00,481 - data.downloader - INFO - Fetching records: L10820, D16826, M69199, J04152, M86522, M16514, M22403, M80478, L36149, M60094
+2025-05-17 16:44:30,555 - data.downloader - ERROR - Error downloading batch ['L10820', 'D16826', 'M69199', 'J04152', 'M86522', 'M16514', 'M22403', 'M80478', 'L36149', 'M60094']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:44:30,558 - data.downloader - INFO - Downloading batch 30/30 (5 accessions)
+2025-05-17 16:44:30,558 - data.downloader - INFO - Fetching records: M97508, M64799, D29685, M22005, M26685
+2025-05-17 16:45:00,627 - data.downloader - ERROR - Error downloading batch ['M97508', 'M64799', 'D29685', 'M22005', 'M26685']: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2025-05-17 16:45:00,629 - root - INFO - Downloaded 129 GenBank files
+2025-05-17 16:45:00,629 - root - INFO - Extracting sequences from GenBank files
+2025-05-17 16:45:00,647 - data.extractor - INFO - Extracted 727 sequences from output/data/raw/Z49258.1.gb
+2025-05-17 16:45:00,653 - data.extractor - INFO - Extracted 48 sequences from output/data/raw/X73428.1.gb
+2025-05-17 16:45:00,656 - data.extractor - INFO - Extracted 49 sequences from output/data/raw/X66114.1.gb
+2025-05-17 16:45:00,665 - data.extractor - INFO - Extracted 128 sequences from output/data/raw/X14487.1.gb
+2025-05-17 16:45:00,676 - data.extractor - INFO - Extracted 317 sequences from output/data/raw/X64467.1.gb
+2025-05-17 16:45:00,680 - data.extractor - INFO - Extracted 120 sequences from output/data/raw/X01392.1.gb
+2025-05-17 16:45:00,686 - data.extractor - INFO - Extracted 66 sequences from output/data/raw/X04898.1.gb
+2025-05-17 16:45:00,688 - data.extractor - INFO - Extracted 43 sequences from output/data/raw/X01038.1.gb
+2025-05-17 16:45:00,691 - data.extractor - INFO - Extracted 75 sequences from output/data/raw/X05151.1.gb
+2025-05-17 16:45:00,695 - data.extractor - INFO - Extracted 71 sequences from output/data/raw/X52150.1.gb
+2025-05-17 16:45:00,700 - data.extractor - INFO - Extracted 85 sequences from output/data/raw/X63600.1.gb
+2025-05-17 16:45:00,708 - data.extractor - INFO - Extracted 283 sequences from output/data/raw/X68793.1.gb
+2025-05-17 16:45:00,713 - data.extractor - INFO - Extracted 188 sequences from output/data/raw/X69907.1.gb
+2025-05-17 16:45:00,722 - data.extractor - INFO - Extracted 72 sequences from output/data/raw/X72861.1.gb
+2025-05-17 16:45:00,725 - data.extractor - INFO - Extracted 63 sequences from output/data/raw/X12706.1.gb
+2025-05-17 16:45:00,726 - data.extractor - INFO - Extracted 32 sequences from output/data/raw/X04143.1.gb
+2025-05-17 16:45:00,730 - data.extractor - INFO - Extracted 118 sequences from output/data/raw/Y00081.1.gb
+2025-05-17 16:45:00,746 - data.extractor - INFO - Extracted 372 sequences from output/data/raw/X54486.1.gb
+2025-05-17 16:45:00,763 - data.extractor - INFO - Extracted 499 sequences from output/data/raw/X52889.1.gb
+2025-05-17 16:45:00,768 - data.extractor - INFO - Extracted 30 sequences from output/data/raw/X06882.1.gb
+2025-05-17 16:45:00,772 - data.extractor - INFO - Extracted 125 sequences from output/data/raw/X14974.1.gb
+2025-05-17 16:45:00,774 - data.extractor - INFO - Extracted 32 sequences from output/data/raw/X06180.1.gb
+2025-05-17 16:45:00,781 - data.extractor - INFO - Extracted 83 sequences from output/data/raw/X15334.1.gb
+2025-05-17 16:45:00,786 - data.extractor - INFO - Extracted 117 sequences from output/data/raw/X57152.1.gb
+2025-05-17 16:45:00,790 - data.extractor - INFO - Extracted 72 sequences from output/data/raw/Z26491.1.gb
+2025-05-17 16:45:00,796 - data.extractor - INFO - Extracted 69 sequences from output/data/raw/X62891.1.gb
+2025-05-17 16:45:00,802 - data.extractor - INFO - Extracted 133 sequences from output/data/raw/X52851.1.gb
+2025-05-17 16:45:00,820 - data.extractor - INFO - Extracted 701 sequences from output/data/raw/X14720.7.gb
+2025-05-17 16:45:00,824 - data.extractor - INFO - Extracted 144 sequences from output/data/raw/X52255.1.gb
+2025-05-17 16:45:00,833 - data.extractor - INFO - Extracted 198 sequences from output/data/raw/Z18859.1.gb
+2025-05-17 16:45:00,839 - data.extractor - INFO - Extracted 166 sequences from output/data/raw/X68303.1.gb
+2025-05-17 16:45:00,846 - data.extractor - INFO - Extracted 159 sequences from output/data/raw/X02612.1.gb
+2025-05-17 16:45:00,852 - data.extractor - INFO - Extracted 197 sequences from output/data/raw/X78212.1.gb
+2025-05-17 16:45:00,855 - data.extractor - INFO - Extracted 70 sequences from output/data/raw/X84707.1.gb
+2025-05-17 16:45:00,857 - data.extractor - INFO - Extracted 42 sequences from output/data/raw/Z46254.0.gb
+2025-05-17 16:45:00,864 - data.extractor - INFO - Extracted 143 sequences from output/data/raw/X15215.1.gb
+2025-05-17 16:45:00,879 - data.extractor - INFO - Extracted 354 sequences from output/data/raw/X79198.1.gb
+2025-05-17 16:45:00,881 - data.extractor - INFO - Extracted 64 sequences from output/data/raw/Z48950.1.gb
+2025-05-17 16:45:00,888 - data.extractor - INFO - Extracted 137 sequences from output/data/raw/X76776.1.gb
+2025-05-17 16:45:00,894 - data.extractor - INFO - Extracted 112 sequences from output/data/raw/X02882.1.gb
+2025-05-17 16:45:00,898 - data.extractor - INFO - Extracted 73 sequences from output/data/raw/X00492.1.gb
+2025-05-17 16:45:00,903 - data.extractor - INFO - Extracted 98 sequences from output/data/raw/X61755.1.gb
+2025-05-17 16:45:00,911 - data.extractor - INFO - Extracted 107 sequences from output/data/raw/Y00371.1.gb
+2025-05-17 16:45:00,929 - data.extractor - INFO - Extracted 657 sequences from output/data/raw/X60459.1.gb
+2025-05-17 16:45:00,934 - data.extractor - INFO - Extracted 118 sequences from output/data/raw/V00536.1.gb
+2025-05-17 16:45:00,937 - data.extractor - INFO - Extracted 46 sequences from output/data/raw/Z00010.1.gb
+2025-05-17 16:45:00,940 - data.extractor - INFO - Extracted 132 sequences from output/data/raw/X00695.1.gb
+2025-05-17 16:45:00,952 - data.extractor - INFO - Extracted 238 sequences from output/data/raw/X03833.1.gb
+2025-05-17 16:45:00,957 - data.extractor - INFO - Extracted 193 sequences from output/data/raw/X04500.1.gb
+2025-05-17 16:45:00,967 - data.extractor - INFO - Extracted 250 sequences from output/data/raw/X64532.1.gb
+2025-05-17 16:45:00,972 - data.extractor - INFO - Extracted 98 sequences from output/data/raw/V00565.1.gb
+2025-05-17 16:45:00,978 - data.extractor - INFO - Extracted 89 sequences from output/data/raw/X03072.1.gb
+2025-05-17 16:45:00,986 - data.extractor - INFO - Extracted 231 sequences from output/data/raw/X14445.1.gb
+2025-05-17 16:45:00,990 - data.extractor - INFO - Extracted 109 sequences from output/data/raw/X52138.1.gb
+2025-05-17 16:45:00,997 - data.extractor - INFO - Extracted 137 sequences from output/data/raw/X04981.1.gb
+2025-05-17 16:45:01,002 - data.extractor - INFO - Extracted 86 sequences from output/data/raw/X62654.1.gb
+2025-05-17 16:45:01,006 - data.extractor - INFO - Extracted 104 sequences from output/data/raw/Y00477.1.gb
+2025-05-17 16:45:01,012 - data.extractor - INFO - Extracted 36 sequences from output/data/raw/X54489.1.gb
+2025-05-17 16:45:01,017 - data.extractor - INFO - Extracted 115 sequences from output/data/raw/Z14977.1.gb
+2025-05-17 16:45:01,024 - data.extractor - INFO - Extracted 349 sequences from output/data/raw/Z48051.1.gb
+2025-05-17 16:45:01,030 - data.extractor - INFO - Extracted 59 sequences from output/data/raw/Z33457.1.gb
+2025-05-17 16:45:01,040 - data.extractor - INFO - Extracted 324 sequences from output/data/raw/Z29373.1.gb
+2025-05-17 16:45:01,049 - data.extractor - INFO - Extracted 123 sequences from output/data/raw/Y00067.1.gb
+2025-05-17 16:45:01,056 - data.extractor - INFO - Extracted 179 sequences from output/data/raw/X16277.1.gb
+2025-05-17 16:45:01,061 - data.extractor - INFO - Extracted 27 sequences from output/data/raw/X74614.1.gb
+2025-05-17 16:45:01,073 - data.extractor - INFO - Extracted 405 sequences from output/data/raw/X54156.1.gb
+2025-05-17 16:45:01,079 - data.extractor - INFO - Extracted 73 sequences from output/data/raw/X69438.1.gb
+2025-05-17 16:45:01,084 - data.extractor - INFO - Extracted 84 sequences from output/data/raw/X75755.1.gb
+2025-05-17 16:45:01,088 - data.extractor - INFO - Extracted 89 sequences from output/data/raw/X07881.1.gb
+2025-05-17 16:45:01,096 - data.extractor - INFO - Extracted 163 sequences from output/data/raw/X70872.1.gb
+2025-05-17 16:45:01,102 - data.extractor - INFO - Extracted 128 sequences from output/data/raw/X62025.1.gb
+2025-05-17 16:45:01,105 - data.extractor - INFO - Extracted 40 sequences from output/data/raw/Z23102.1.gb
+2025-05-17 16:45:01,107 - data.extractor - INFO - Extracted 45 sequences from output/data/raw/U08198.1.gb
+2025-05-17 16:45:01,115 - data.extractor - INFO - Extracted 109 sequences from output/data/raw/U09954.1.gb
+2025-05-17 16:45:01,120 - data.extractor - INFO - Extracted 84 sequences from output/data/raw/U12421.1.gb
+2025-05-17 16:45:01,124 - data.extractor - INFO - Extracted 96 sequences from output/data/raw/U17969.1.gb
+2025-05-17 16:45:01,132 - data.extractor - INFO - Extracted 137 sequences from output/data/raw/U19765.1.gb
+2025-05-17 16:45:01,136 - data.extractor - INFO - Extracted 64 sequences from output/data/raw/U19816.1.gb
+2025-05-17 16:45:01,139 - data.extractor - INFO - Extracted 48 sequences from output/data/raw/U20325.1.gb
+2025-05-17 16:45:01,148 - data.extractor - INFO - Extracted 167 sequences from output/data/raw/U20499.1.gb
+2025-05-17 16:45:01,153 - data.extractor - INFO - Extracted 91 sequences from output/data/raw/U20982.1.gb
+2025-05-17 16:45:01,156 - data.extractor - INFO - Extracted 76 sequences from output/data/raw/U23143.1.gb
+2025-05-17 16:45:01,161 - data.extractor - INFO - Extracted 44 sequences from output/data/raw/U23853.1.gb
+2025-05-17 16:45:01,166 - data.extractor - INFO - Extracted 109 sequences from output/data/raw/U25826.1.gb
+2025-05-17 16:45:01,181 - data.extractor - INFO - Extracted 384 sequences from output/data/raw/U26425.1.gb
+2025-05-17 16:45:01,188 - data.extractor - INFO - Extracted 90 sequences from output/data/raw/X56997.1.gb
+2025-05-17 16:45:01,190 - data.extractor - INFO - Extracted 65 sequences from output/data/raw/X76498.1.gb
+2025-05-17 16:45:01,201 - data.extractor - INFO - Extracted 195 sequences from output/data/raw/X69953.1.gb
+2025-05-17 16:45:01,203 - data.extractor - INFO - Extracted 13 sequences from output/data/raw/D25234.1.gb
+2025-05-17 16:45:01,212 - data.extractor - INFO - Extracted 243 sequences from output/data/raw/K02212.1.gb
+2025-05-17 16:45:01,216 - data.extractor - INFO - Extracted 97 sequences from output/data/raw/M21540.1.gb
+2025-05-17 16:45:01,222 - data.extractor - INFO - Extracted 71 sequences from output/data/raw/M10277.1.gb
+2025-05-17 16:45:01,246 - data.extractor - INFO - Extracted 733 sequences from output/data/raw/M13792.1.gb
+2025-05-17 16:45:01,250 - data.extractor - INFO - Extracted 102 sequences from output/data/raw/M74493.1.gb
+2025-05-17 16:45:01,265 - data.extractor - INFO - Extracted 550 sequences from output/data/raw/M16110.1.gb
+2025-05-17 16:45:01,268 - data.extractor - INFO - Extracted 43 sequences from output/data/raw/M61831.1.gb
+2025-05-17 16:45:01,274 - data.extractor - INFO - Extracted 243 sequences from output/data/raw/J04809.1.gb
+2025-05-17 16:45:01,283 - data.extractor - INFO - Extracted 151 sequences from output/data/raw/M63420.1.gb
+2025-05-17 16:45:01,287 - data.extractor - INFO - Extracted 53 sequences from output/data/raw/K02043.1.gb
+2025-05-17 16:45:01,294 - data.extractor - INFO - Extracted 114 sequences from output/data/raw/J04982.1.gb
+2025-05-17 16:45:01,297 - data.extractor - INFO - Extracted 71 sequences from output/data/raw/M14642.1.gb
+2025-05-17 16:45:01,303 - data.extractor - INFO - Extracted 106 sequences from output/data/raw/M20902.1.gb
+2025-05-17 16:45:01,307 - data.extractor - INFO - Extracted 109 sequences from output/data/raw/M10065.1.gb
+2025-05-17 16:45:01,329 - data.extractor - INFO - Extracted 532 sequences from output/data/raw/J05096.1.gb
+2025-05-17 16:45:01,345 - data.extractor - INFO - Extracted 359 sequences from output/data/raw/D28126.1.gb
+2025-05-17 16:45:01,352 - data.extractor - INFO - Extracted 202 sequences from output/data/raw/M27132.1.gb
+2025-05-17 16:45:01,370 - data.extractor - INFO - Extracted 663 sequences from output/data/raw/M64554.1.gb
+2025-05-17 16:45:01,374 - data.extractor - INFO - Extracted 187 sequences from output/data/raw/M38180.1.gb
+2025-05-17 16:45:01,379 - data.extractor - INFO - Extracted 19 sequences from output/data/raw/K01884.1.gb
+2025-05-17 16:45:01,390 - data.extractor - INFO - Extracted 450 sequences from output/data/raw/D26535.1.gb
+2025-05-17 16:45:01,398 - data.extractor - INFO - Extracted 95 sequences from output/data/raw/M27138.1.gb
+2025-05-17 16:45:01,405 - data.extractor - INFO - Extracted 248 sequences from output/data/raw/J05008.1.gb
+2025-05-17 16:45:01,414 - data.extractor - INFO - Extracted 92 sequences from output/data/raw/J04617.1.gb
+2025-05-17 16:45:01,416 - data.extractor - INFO - Extracted 36 sequences from output/data/raw/D13156.1.gb
+2025-05-17 16:45:01,432 - data.extractor - INFO - Extracted 494 sequences from output/data/raw/L29766.1.gb
+2025-05-17 16:45:01,436 - data.extractor - INFO - Extracted 103 sequences from output/data/raw/M18079.1.gb
+2025-05-17 16:45:01,455 - data.extractor - INFO - Extracted 760 sequences from output/data/raw/K02402.1.gb
+2025-05-17 16:45:01,461 - data.extractor - INFO - Extracted 145 sequences from output/data/raw/L13391.1.gb
+2025-05-17 16:45:01,465 - data.extractor - INFO - Extracted 106 sequences from output/data/raw/L24498.1.gb
+2025-05-17 16:45:01,470 - data.extractor - INFO - Extracted 94 sequences from output/data/raw/L10822.1.gb
+2025-05-17 16:45:01,473 - data.extractor - INFO - Extracted 23 sequences from output/data/raw/K01254.1.gb
+2025-05-17 16:45:01,479 - data.extractor - INFO - Extracted 80 sequences from output/data/raw/L36861.1.gb
+2025-05-17 16:45:01,488 - data.extractor - INFO - Extracted 176 sequences from output/data/raw/J03059.1.gb
+2025-05-17 16:45:01,496 - data.extractor - INFO - Extracted 155 sequences from output/data/raw/M93280.gb
+2025-05-17 16:45:01,503 - data.extractor - INFO - Extracted 167 sequences from output/data/raw/M91463.1.gb
+2025-05-17 16:45:01,515 - data.extractor - INFO - Extracted 315 sequences from output/data/raw/M58600.1.gb
+2025-05-17 16:45:01,521 - data.extractor - INFO - Extracted 150 sequences from output/data/raw/L04132.1.gb
+2025-05-17 16:45:01,529 - data.extractor - INFO - Extracted 176 sequences from output/data/raw/M21339.1.gb
+2025-05-17 16:45:01,532 - data.extractor - INFO - Extracted 85 sequences from output/data/raw/M83665.1.gb
+2025-05-17 16:45:01,533 - root - INFO - Extracted 21879 sequences with 3582 exons and 18297 introns
+2025-05-17 16:45:01,533 - root - INFO - Preprocessing data
+2025-05-17 16:45:02,534 - data.preprocessor - INFO - Encoded 21879 sequences with shape (21879, 100, 5)
+2025-05-17 16:45:02,609 - data.preprocessor - INFO - Applying SMOTE to balance classes. Original class distribution: [14637  2866]
+2025-05-17 16:45:03,171 - data.preprocessor - INFO - After SMOTE, class distribution: [14637 14637]
+2025-05-17 16:45:03,181 - root - INFO - Preprocessed data: 29274 training samples, 4376 test samples
+2025-05-17 16:45:03,183 - root - INFO - Optimizing model parameters with PSO
+2025-05-17 16:45:03,184 - model.optimizer - INFO - Starting PSO optimization

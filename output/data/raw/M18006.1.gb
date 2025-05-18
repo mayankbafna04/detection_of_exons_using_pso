@@ -1,0 +1,24 @@
+LOCUS       FVBFOKIB                  50 bp    DNA     linear   BCT 26-APR-1993
+DEFINITION  Flavobacterium okeanokoites FokI cleavage site F2/F7.
+ACCESSION   M18006
+VERSION     M18006.1
+KEYWORDS    .
+SOURCE      Planomicrobium okeanokoites
+  ORGANISM  Planomicrobium okeanokoites
+            Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Caryophanaceae;
+            Planomicrobium.
+REFERENCE   1  (bases 1 to 50)
+  AUTHORS   Sugisaki,H. and Kanazawa,S.
+  TITLE     New restriction endonucleases from Flavobacterium okeanokoites
+            (FokI) and Micrococcus luteus (MluI)
+  JOURNAL   Gene 16 (1-3), 73-78 (1981)
+   PUBMED   6282705
+COMMENT     Original source text: F.okeanokoites DNA, clone pAO43.
+FEATURES             Location/Qualifiers
+     source          1..50
+                     /organism="Planomicrobium okeanokoites"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:244"
+ORIGIN
+        1 tttagaagag gaggatggtg cgatggtccc tccctgaaca tcacgtatat
+//
