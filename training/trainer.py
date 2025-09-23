@@ -79,14 +79,7 @@ class ModelTrainer:
             tf.keras.backend.clear_session()
             model = self.model_builder(params)
             
-            # Create callbacks
-            early_stopping = tf.keras.callbacks.EarlyStopping(
-                monitor='val_auc',
-                patience=10,
-                mode='max',
-                restore_best_weights=True
-            )
-            
+            # Create callbacks (no early stopping as requested)
             model_checkpoint = tf.keras.callbacks.ModelCheckpoint(
                 filepath=os.path.join(self.output_dir, f"models/model_fold_{fold+1}.h5"),
                 monitor='val_auc',
@@ -100,36 +93,63 @@ class ModelTrainer:
                 epochs=epochs,
                 batch_size=batch_size,
                 validation_data=(X_val_fold, y_val_fold),
-                callbacks=[early_stopping, model_checkpoint],
+                callbacks=[model_checkpoint],
                 verbose=1
             )
             
-            # Plot training history
+            # Plot training history (accuracy, val_accuracy, loss, val_loss)
             self._plot_training_history(history, fold)
             
             # Evaluate on validation set
-            y_prob = model.predict(X_val_fold).ravel()
-            y_pred = (y_prob > 0.5).astype(int)
+            y_val_prob = model.predict(X_val_fold).ravel()
+            y_val_pred = (y_val_prob > 0.5).astype(int)
+            
+            # Evaluate on training set (per-fold training metrics)
+            y_train_prob = model.predict(X_train_fold).ravel()
+            y_train_pred = (y_train_prob > 0.5).astype(int)
             
             # Calculate metrics
             metrics = {
                 'fold': fold + 1,
-                'auc': roc_auc_score(y_val_fold, y_prob),
-                'f1': f1_score(y_val_fold, y_pred),
-                'precision': precision_score(y_val_fold, y_pred),
-                'recall': recall_score(y_val_fold, y_pred),
-                'confusion_matrix': confusion_matrix(y_val_fold, y_pred).tolist()
+                'train': {
+                    'auc': roc_auc_score(y_train_fold, y_train_prob),
+                    'f1': f1_score(y_train_fold, y_train_pred),
+                    'precision': precision_score(y_train_fold, y_train_pred),
+                    'recall': recall_score(y_train_fold, y_train_pred),
+                    'confusion_matrix': confusion_matrix(y_train_fold, y_train_pred).tolist()
+                },
+                'validation': {
+                    'auc': roc_auc_score(y_val_fold, y_val_prob),
+                    'f1': f1_score(y_val_fold, y_val_pred),
+                    'precision': precision_score(y_val_fold, y_val_pred),
+                    'recall': recall_score(y_val_fold, y_val_pred),
+                    'confusion_matrix': confusion_matrix(y_val_fold, y_val_pred).tolist()
+                }
             }
             
             fold_metrics.append(metrics)
-            self.logger.info(f"Fold {fold+1} metrics: AUC={metrics['auc']:.4f}, F1={metrics['f1']:.4f}")
+            self.logger.info(
+                f"Fold {fold+1} metrics: "
+                f"Train AUC={metrics['train']['auc']:.4f}, F1={metrics['train']['f1']:.4f} | "
+                f"Val AUC={metrics['validation']['auc']:.4f}, F1={metrics['validation']['f1']:.4f}"
+            )
             
-            # Save predictions for later analysis
+            # Save predictions for later analysis (for overall metrics on validation)
             all_y_true.extend(y_val_fold.tolist())
-            all_y_pred.extend(y_pred.tolist())
-            all_y_prob.extend(y_prob.tolist())
+            all_y_pred.extend(y_val_pred.tolist())
+            all_y_prob.extend(y_val_prob.tolist())
             
-        # Calculate overall metrics
+            # Plot ROC curves per fold for train and validation
+            self._plot_roc_curve(
+                y_train_fold, y_train_prob,
+                title=f"ROC Curve - Train Fold {fold+1}"
+            )
+            self._plot_roc_curve(
+                y_val_fold, y_val_prob,
+                title=f"ROC Curve - Validation Fold {fold+1}"
+            )
+            
+        # Calculate overall metrics (based on validation predictions)
         overall_metrics = {
             'auc': roc_auc_score(all_y_true, all_y_prob),
             'f1': f1_score(all_y_true, all_y_pred),
@@ -139,11 +159,11 @@ class ModelTrainer:
             'classification_report': classification_report(all_y_true, all_y_pred, output_dict=True)
         }
         
-        # Plot overall ROC curve
-        self._plot_roc_curve(all_y_true, all_y_prob)
+        # Plot overall ROC curve (validation across folds)
+        self._plot_roc_curve(all_y_true, all_y_prob, title="ROC Curve - Validation (All Folds)")
         
-        # Plot confusion matrix
-        self._plot_confusion_matrix(all_y_true, all_y_pred)
+        # Plot confusion matrix (validation across folds)
+        self._plot_confusion_matrix(all_y_true, all_y_pred, title="Confusion Matrix - Validation (All Folds)")
         
         # Save metrics
         results = {
@@ -188,14 +208,7 @@ class ModelTrainer:
         tf.keras.backend.clear_session()
         model = self.model_builder(params)
         
-        # Create callbacks
-        early_stopping = tf.keras.callbacks.EarlyStopping(
-            monitor='val_auc',
-            patience=10,
-            mode='max',
-            restore_best_weights=True
-        )
-        
+        # Create callbacks (no early stopping as requested)
         model_checkpoint = tf.keras.callbacks.ModelCheckpoint(
             filepath=os.path.join(self.output_dir, "models/final_model.h5"),
             monitor='val_auc',
@@ -209,11 +222,11 @@ class ModelTrainer:
             epochs=epochs,
             batch_size=batch_size,
             validation_split=0.1,  # Use a small validation set
-            callbacks=[early_stopping, model_checkpoint],
+            callbacks=[model_checkpoint],
             verbose=1
         )
         
-        # Plot training history
+        # Plot training history (accuracy, val_accuracy, loss, val_loss)
         self._plot_training_history(history, fold="final")
         
         # Evaluate on test set
@@ -251,10 +264,10 @@ class ModelTrainer:
         
     def _plot_training_history(self, history, fold):
         """Plot training history."""
-        plt.figure(figsize=(12, 5))
+        plt.figure(figsize=(18, 5))
         
         # Plot accuracy
-        plt.subplot(1, 2, 1)
+        plt.subplot(1, 3, 1)
         plt.plot(history.history['accuracy'])
         plt.plot(history.history['val_accuracy'])
         plt.title(f'Model Accuracy (Fold {fold})')
@@ -263,13 +276,22 @@ class ModelTrainer:
         plt.legend(['Train', 'Validation'], loc='upper left')
         
         # Plot AUC
-        plt.subplot(1, 2, 2)
+        plt.subplot(1, 3, 2)
         plt.plot(history.history['auc'])
         plt.plot(history.history['val_auc'])
         plt.title(f'Model AUC (Fold {fold})')
         plt.ylabel('AUC')
         plt.xlabel('Epoch')
         plt.legend(['Train', 'Validation'], loc='upper left')
+        
+        # Plot Loss
+        plt.subplot(1, 3, 3)
+        plt.plot(history.history['loss'])
+        plt.plot(history.history['val_loss'])
+        plt.title(f'Model Loss (Fold {fold})')
+        plt.ylabel('Loss')
+        plt.xlabel('Epoch')
+        plt.legend(['Train', 'Validation'], loc='upper right')
         
         plt.tight_layout()
         plt.savefig(os.path.join(self.output_dir, f"plots/training_history_fold_{fold}.png"))

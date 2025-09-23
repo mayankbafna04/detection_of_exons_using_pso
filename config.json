@@ -326,7 +326,7 @@
   },
   "training": {
     "n_folds": 5,
-    "epochs": 100,
+    "epochs": 50,
     "batch_size": 32
   },
   "pso": {
