@@ -1,0 +1,655 @@
+2025-09-23 15:15:09,616 - root - WARNING - No GPU available. Using CPU.
+2025-09-23 15:15:09,616 - root - INFO - Downloading GenBank files
+2025-09-23 15:15:09,617 - data.downloader - INFO - Downloading batch 1/30 (10 accessions)
+2025-09-23 15:15:09,617 - data.downloader - INFO - Fetching records: Z49258, X73428, X66114, X14487, X64467, X01392, X04898, X01038, X05151, X52150
+2025-09-23 15:15:17,123 - data.downloader - INFO - Saved Z49258.1 to output/data/raw/Z49258.1.gb
+2025-09-23 15:15:17,126 - data.downloader - INFO - Saved X73428.1 to output/data/raw/X73428.1.gb
+2025-09-23 15:15:17,129 - data.downloader - INFO - Saved X66114.1 to output/data/raw/X66114.1.gb
+2025-09-23 15:15:17,134 - data.downloader - INFO - Saved X14487.1 to output/data/raw/X14487.1.gb
+2025-09-23 15:15:17,142 - data.downloader - INFO - Saved X64467.1 to output/data/raw/X64467.1.gb
+2025-09-23 15:15:17,144 - data.downloader - INFO - Saved X01392.1 to output/data/raw/X01392.1.gb
+2025-09-23 15:15:17,146 - data.downloader - INFO - Saved X04898.1 to output/data/raw/X04898.1.gb
+2025-09-23 15:15:17,148 - data.downloader - INFO - Saved X01038.1 to output/data/raw/X01038.1.gb
+2025-09-23 15:15:17,150 - data.downloader - INFO - Saved X05151.1 to output/data/raw/X05151.1.gb
+2025-09-23 15:15:17,152 - data.downloader - INFO - Saved X52150.1 to output/data/raw/X52150.1.gb
+2025-09-23 15:15:18,156 - data.downloader - INFO - Downloading batch 2/30 (10 accessions)
+2025-09-23 15:15:18,156 - data.downloader - INFO - Fetching records: X63600, X68793, X69907, X72861, X12706, X04143, Y00081, X54486, X52889, X06882
+2025-09-23 15:15:24,608 - data.downloader - INFO - Saved X63600.1 to output/data/raw/X63600.1.gb
+2025-09-23 15:15:24,612 - data.downloader - INFO - Saved X68793.1 to output/data/raw/X68793.1.gb
+2025-09-23 15:15:24,614 - data.downloader - INFO - Saved X69907.1 to output/data/raw/X69907.1.gb
+2025-09-23 15:15:24,619 - data.downloader - INFO - Saved X72861.1 to output/data/raw/X72861.1.gb
+2025-09-23 15:15:24,624 - data.downloader - INFO - Saved X12706.1 to output/data/raw/X12706.1.gb
+2025-09-23 15:15:24,628 - data.downloader - INFO - Saved X04143.1 to output/data/raw/X04143.1.gb
+2025-09-23 15:15:24,633 - data.downloader - INFO - Saved Y00081.1 to output/data/raw/Y00081.1.gb
+2025-09-23 15:15:24,643 - data.downloader - INFO - Saved X54486.1 to output/data/raw/X54486.1.gb
+2025-09-23 15:15:24,654 - data.downloader - INFO - Saved X52889.1 to output/data/raw/X52889.1.gb
+2025-09-23 15:15:24,657 - data.downloader - INFO - Saved X06882.1 to output/data/raw/X06882.1.gb
+2025-09-23 15:15:25,660 - data.downloader - INFO - Downloading batch 3/30 (10 accessions)
+2025-09-23 15:15:25,661 - data.downloader - INFO - Fetching records: X14974, X06180, X15334, X57152, Z26491, X62891, X52851, X14720, X52255, Z18859
+2025-09-23 15:15:33,486 - data.downloader - INFO - Saved X14974.1 to output/data/raw/X14974.1.gb
+2025-09-23 15:15:33,487 - data.downloader - INFO - Saved X06180.1 to output/data/raw/X06180.1.gb
+2025-09-23 15:15:33,489 - data.downloader - INFO - Saved X15334.1 to output/data/raw/X15334.1.gb
+2025-09-23 15:15:33,493 - data.downloader - INFO - Saved X57152.1 to output/data/raw/X57152.1.gb
+2025-09-23 15:15:33,504 - data.downloader - INFO - Saved Z26491.1 to output/data/raw/Z26491.1.gb
+2025-09-23 15:15:33,506 - data.downloader - INFO - Saved X62891.1 to output/data/raw/X62891.1.gb
+2025-09-23 15:15:33,515 - data.downloader - INFO - Saved X52851.1 to output/data/raw/X52851.1.gb
+2025-09-23 15:15:33,523 - data.downloader - INFO - Saved X14720.7 to output/data/raw/X14720.7.gb
+2025-09-23 15:15:33,525 - data.downloader - INFO - Saved X52255.1 to output/data/raw/X52255.1.gb
+2025-09-23 15:15:33,527 - data.downloader - INFO - Saved Z18859.1 to output/data/raw/Z18859.1.gb
+2025-09-23 15:15:34,530 - data.downloader - INFO - Downloading batch 4/30 (10 accessions)
+2025-09-23 15:15:34,530 - data.downloader - INFO - Fetching records: X68303, X02612, X78212, X84707, Z46254, X15215, X79198, Z48950, X76776, X02882
+2025-09-23 15:15:36,860 - data.downloader - INFO - Saved X68303.1 to output/data/raw/X68303.1.gb
+2025-09-23 15:15:36,863 - data.downloader - INFO - Saved X02612.1 to output/data/raw/X02612.1.gb
+2025-09-23 15:15:36,872 - data.downloader - INFO - Saved X78212.1 to output/data/raw/X78212.1.gb
+2025-09-23 15:15:36,875 - data.downloader - INFO - Saved X84707.1 to output/data/raw/X84707.1.gb
+2025-09-23 15:15:36,876 - data.downloader - INFO - Saved Z46254.0 to output/data/raw/Z46254.0.gb
+2025-09-23 15:15:36,880 - data.downloader - INFO - Saved X15215.1 to output/data/raw/X15215.1.gb
+2025-09-23 15:15:36,890 - data.downloader - INFO - Saved X79198.1 to output/data/raw/X79198.1.gb
+2025-09-23 15:15:36,891 - data.downloader - INFO - Saved Z48950.1 to output/data/raw/Z48950.1.gb
+2025-09-23 15:15:36,894 - data.downloader - INFO - Saved X76776.1 to output/data/raw/X76776.1.gb
+2025-09-23 15:15:36,897 - data.downloader - INFO - Saved X02882.1 to output/data/raw/X02882.1.gb
+2025-09-23 15:15:37,897 - data.downloader - INFO - Downloading batch 5/30 (10 accessions)
+2025-09-23 15:15:37,897 - data.downloader - INFO - Fetching records: X00492, X61755, Y00371, X60459, V00536, Z00010, X00695, X03833, X04500, X64532
+2025-09-23 15:15:41,177 - data.downloader - INFO - Saved X00492.1 to output/data/raw/X00492.1.gb
+2025-09-23 15:15:41,179 - data.downloader - INFO - Saved X61755.1 to output/data/raw/X61755.1.gb
+2025-09-23 15:15:41,181 - data.downloader - INFO - Saved Y00371.1 to output/data/raw/Y00371.1.gb
+2025-09-23 15:15:41,192 - data.downloader - INFO - Saved X60459.1 to output/data/raw/X60459.1.gb
+2025-09-23 15:15:41,194 - data.downloader - INFO - Saved V00536.1 to output/data/raw/V00536.1.gb
+2025-09-23 15:15:41,196 - data.downloader - INFO - Saved Z00010.1 to output/data/raw/Z00010.1.gb
+2025-09-23 15:15:41,199 - data.downloader - INFO - Saved X00695.1 to output/data/raw/X00695.1.gb
+2025-09-23 15:15:41,202 - data.downloader - INFO - Saved X03833.1 to output/data/raw/X03833.1.gb
+2025-09-23 15:15:41,210 - data.downloader - INFO - Saved X04500.1 to output/data/raw/X04500.1.gb
+2025-09-23 15:15:41,218 - data.downloader - INFO - Saved X64532.1 to output/data/raw/X64532.1.gb
+2025-09-23 15:15:42,221 - data.downloader - INFO - Downloading batch 6/30 (10 accessions)
+2025-09-23 15:15:42,221 - data.downloader - INFO - Fetching records: V00565, X03072, X14445, X52138, X04981, X62654, Y00477, X54489, Z14977, Z48051
+2025-09-23 15:15:48,270 - data.downloader - INFO - Saved V00565.1 to output/data/raw/V00565.1.gb
+2025-09-23 15:15:48,272 - data.downloader - INFO - Saved X03072.1 to output/data/raw/X03072.1.gb
+2025-09-23 15:15:48,274 - data.downloader - INFO - Saved X14445.1 to output/data/raw/X14445.1.gb
+2025-09-23 15:15:48,277 - data.downloader - INFO - Saved X52138.1 to output/data/raw/X52138.1.gb
+2025-09-23 15:15:48,284 - data.downloader - INFO - Saved X04981.1 to output/data/raw/X04981.1.gb
+2025-09-23 15:15:48,287 - data.downloader - INFO - Saved X62654.1 to output/data/raw/X62654.1.gb
+2025-09-23 15:15:48,288 - data.downloader - INFO - Saved Y00477.1 to output/data/raw/Y00477.1.gb
+2025-09-23 15:15:48,290 - data.downloader - INFO - Saved X54489.1 to output/data/raw/X54489.1.gb
+2025-09-23 15:15:48,298 - data.downloader - INFO - Saved Z14977.1 to output/data/raw/Z14977.1.gb
+2025-09-23 15:15:48,300 - data.downloader - INFO - Saved Z48051.1 to output/data/raw/Z48051.1.gb
+2025-09-23 15:15:49,305 - data.downloader - INFO - Downloading batch 7/30 (10 accessions)
+2025-09-23 15:15:49,305 - data.downloader - INFO - Fetching records: Z33457, Z29373, Y00067, X16277, X74614, X54156, X69438, X75755, X07881, X70872
+2025-09-23 15:15:54,304 - data.downloader - INFO - Saved Z33457.1 to output/data/raw/Z33457.1.gb
+2025-09-23 15:15:54,309 - data.downloader - INFO - Saved Z29373.1 to output/data/raw/Z29373.1.gb
+2025-09-23 15:15:54,313 - data.downloader - INFO - Saved Y00067.1 to output/data/raw/Y00067.1.gb
+2025-09-23 15:15:54,317 - data.downloader - INFO - Saved X16277.1 to output/data/raw/X16277.1.gb
+2025-09-23 15:15:54,318 - data.downloader - INFO - Saved X74614.1 to output/data/raw/X74614.1.gb
+2025-09-23 15:15:54,323 - data.downloader - INFO - Saved X54156.1 to output/data/raw/X54156.1.gb
+2025-09-23 15:15:54,324 - data.downloader - INFO - Saved X69438.1 to output/data/raw/X69438.1.gb
+2025-09-23 15:15:54,326 - data.downloader - INFO - Saved X75755.1 to output/data/raw/X75755.1.gb
+2025-09-23 15:15:54,333 - data.downloader - INFO - Saved X07881.1 to output/data/raw/X07881.1.gb
+2025-09-23 15:15:54,336 - data.downloader - INFO - Saved X70872.1 to output/data/raw/X70872.1.gb
+2025-09-23 15:15:55,340 - data.downloader - INFO - Downloading batch 8/30 (10 accessions)
+2025-09-23 15:15:55,340 - data.downloader - INFO - Fetching records: X62025, Z23102, U08198, U09954, U12421, U17969, U19765, U19816, U20325, U20499
+2025-09-23 15:16:01,317 - data.downloader - INFO - Saved X62025.1 to output/data/raw/X62025.1.gb
+2025-09-23 15:16:01,319 - data.downloader - INFO - Saved Z23102.1 to output/data/raw/Z23102.1.gb
+2025-09-23 15:16:01,321 - data.downloader - INFO - Saved U08198.1 to output/data/raw/U08198.1.gb
+2025-09-23 15:16:01,329 - data.downloader - INFO - Saved U09954.1 to output/data/raw/U09954.1.gb
+2025-09-23 15:16:01,332 - data.downloader - INFO - Saved U12421.1 to output/data/raw/U12421.1.gb
+2025-09-23 15:16:01,334 - data.downloader - INFO - Saved U17969.1 to output/data/raw/U17969.1.gb
+2025-09-23 15:16:01,336 - data.downloader - INFO - Saved U19765.1 to output/data/raw/U19765.1.gb
+2025-09-23 15:16:01,339 - data.downloader - INFO - Saved U19816.1 to output/data/raw/U19816.1.gb
+2025-09-23 15:16:01,345 - data.downloader - INFO - Saved U20325.1 to output/data/raw/U20325.1.gb
+2025-09-23 15:16:01,347 - data.downloader - INFO - Saved U20499.1 to output/data/raw/U20499.1.gb
+2025-09-23 15:16:02,350 - data.downloader - INFO - Downloading batch 9/30 (10 accessions)
+2025-09-23 15:16:02,351 - data.downloader - INFO - Fetching records: U20982, U23143, U23853, U25826, U26425, X56997, X76498, X69953, D25234, K02212
+2025-09-23 15:16:09,884 - data.downloader - INFO - Saved U20982.1 to output/data/raw/U20982.1.gb
+2025-09-23 15:16:09,886 - data.downloader - INFO - Saved U23143.1 to output/data/raw/U23143.1.gb
+2025-09-23 15:16:09,887 - data.downloader - INFO - Saved U23853.1 to output/data/raw/U23853.1.gb
+2025-09-23 15:16:09,891 - data.downloader - INFO - Saved U25826.1 to output/data/raw/U25826.1.gb
+2025-09-23 15:16:09,898 - data.downloader - INFO - Saved U26425.1 to output/data/raw/U26425.1.gb
+2025-09-23 15:16:09,908 - data.downloader - INFO - Saved X56997.1 to output/data/raw/X56997.1.gb
+2025-09-23 15:16:09,914 - data.downloader - INFO - Saved X76498.1 to output/data/raw/X76498.1.gb
+2025-09-23 15:16:09,930 - data.downloader - INFO - Saved X69953.1 to output/data/raw/X69953.1.gb
+2025-09-23 15:16:09,933 - data.downloader - INFO - Saved D25234.1 to output/data/raw/D25234.1.gb
+2025-09-23 15:16:09,941 - data.downloader - INFO - Saved K02212.1 to output/data/raw/K02212.1.gb
+2025-09-23 15:16:10,946 - data.downloader - INFO - Downloading batch 10/30 (10 accessions)
+2025-09-23 15:16:10,946 - data.downloader - INFO - Fetching records: M21540, M10277, M13792, M74493, M16110, M61831, J04809, M63420, K02043, J04982
+2025-09-23 15:16:16,402 - data.downloader - INFO - Saved M21540.1 to output/data/raw/M21540.1.gb
+2025-09-23 15:16:16,404 - data.downloader - INFO - Saved M10277.1 to output/data/raw/M10277.1.gb
+2025-09-23 15:16:16,412 - data.downloader - INFO - Saved M13792.1 to output/data/raw/M13792.1.gb
+2025-09-23 15:16:16,417 - data.downloader - INFO - Saved M74493.1 to output/data/raw/M74493.1.gb
+2025-09-23 15:16:16,429 - data.downloader - INFO - Saved M16110.1 to output/data/raw/M16110.1.gb
+2025-09-23 15:16:16,430 - data.downloader - INFO - Saved M61831.1 to output/data/raw/M61831.1.gb
+2025-09-23 15:16:16,446 - data.downloader - INFO - Saved J04809.1 to output/data/raw/J04809.1.gb
+2025-09-23 15:16:16,449 - data.downloader - INFO - Saved M63420.1 to output/data/raw/M63420.1.gb
+2025-09-23 15:16:16,457 - data.downloader - INFO - Saved K02043.1 to output/data/raw/K02043.1.gb
+2025-09-23 15:16:16,462 - data.downloader - INFO - Saved J04982.1 to output/data/raw/J04982.1.gb
+2025-09-23 15:16:17,466 - data.downloader - INFO - Downloading batch 11/30 (10 accessions)
+2025-09-23 15:16:17,467 - data.downloader - INFO - Fetching records: M14642, M20902, M10065, J05096, D28126, M27132, M64554, M38180, K01884, M01776
+2025-09-23 15:16:22,893 - data.downloader - INFO - Saved M14642.1 to output/data/raw/M14642.1.gb
+2025-09-23 15:16:22,895 - data.downloader - INFO - Saved M20902.1 to output/data/raw/M20902.1.gb
+2025-09-23 15:16:22,897 - data.downloader - INFO - Saved M10065.1 to output/data/raw/M10065.1.gb
+2025-09-23 15:16:22,903 - data.downloader - INFO - Saved J05096.1 to output/data/raw/J05096.1.gb
+2025-09-23 15:16:22,914 - data.downloader - INFO - Saved D28126.1 to output/data/raw/D28126.1.gb
+2025-09-23 15:16:22,925 - data.downloader - INFO - Saved M27132.1 to output/data/raw/M27132.1.gb
+2025-09-23 15:16:22,934 - data.downloader - INFO - Saved M64554.1 to output/data/raw/M64554.1.gb
+2025-09-23 15:16:22,938 - data.downloader - INFO - Saved M38180.1 to output/data/raw/M38180.1.gb
+2025-09-23 15:16:22,940 - data.downloader - INFO - Saved K01884.1 to output/data/raw/K01884.1.gb
+2025-09-23 15:16:23,945 - data.downloader - INFO - Downloading batch 12/30 (10 accessions)
+2025-09-23 15:16:23,945 - data.downloader - INFO - Fetching records: D26535, M27138, J05008, J04617, D13156, L29766, M18079, K02402, L13391, L24498
+2025-09-23 15:16:31,544 - data.downloader - INFO - Saved D26535.1 to output/data/raw/D26535.1.gb
+2025-09-23 15:16:31,546 - data.downloader - INFO - Saved M27138.1 to output/data/raw/M27138.1.gb
+2025-09-23 15:16:31,548 - data.downloader - INFO - Saved J05008.1 to output/data/raw/J05008.1.gb
+2025-09-23 15:16:31,557 - data.downloader - INFO - Saved J04617.1 to output/data/raw/J04617.1.gb
+2025-09-23 15:16:31,560 - data.downloader - INFO - Saved D13156.1 to output/data/raw/D13156.1.gb
+2025-09-23 15:16:31,566 - data.downloader - INFO - Saved L29766.1 to output/data/raw/L29766.1.gb
+2025-09-23 15:16:31,569 - data.downloader - INFO - Saved M18079.1 to output/data/raw/M18079.1.gb
+2025-09-23 15:16:31,582 - data.downloader - INFO - Saved K02402.1 to output/data/raw/K02402.1.gb
+2025-09-23 15:16:31,584 - data.downloader - INFO - Saved L13391.1 to output/data/raw/L13391.1.gb
+2025-09-23 15:16:31,586 - data.downloader - INFO - Saved L24498.1 to output/data/raw/L24498.1.gb
+2025-09-23 15:16:32,588 - data.downloader - INFO - Downloading batch 13/30 (10 accessions)
+2025-09-23 15:16:32,588 - data.downloader - INFO - Fetching records: L10822, K01254, L36861, J03059, M93280, M91463, M58600, L04132, M21339, M83665
+2025-09-23 15:16:39,704 - data.downloader - INFO - Saved L10822.1 to output/data/raw/L10822.1.gb
+2025-09-23 15:16:39,705 - data.downloader - INFO - Saved K01254.1 to output/data/raw/K01254.1.gb
+2025-09-23 15:16:39,707 - data.downloader - INFO - Saved L36861.1 to output/data/raw/L36861.1.gb
+2025-09-23 15:16:39,710 - data.downloader - INFO - Saved J03059.1 to output/data/raw/J03059.1.gb
+2025-09-23 15:16:39,723 - data.downloader - INFO - Saved M93280 to output/data/raw/M93280.gb
+2025-09-23 15:16:39,726 - data.downloader - INFO - Saved M91463.1 to output/data/raw/M91463.1.gb
+2025-09-23 15:16:39,732 - data.downloader - INFO - Saved M58600.1 to output/data/raw/M58600.1.gb
+2025-09-23 15:16:39,740 - data.downloader - INFO - Saved L04132.1 to output/data/raw/L04132.1.gb
+2025-09-23 15:16:39,742 - data.downloader - INFO - Saved M21339.1 to output/data/raw/M21339.1.gb
+2025-09-23 15:16:39,744 - data.downloader - INFO - Saved M83665.1 to output/data/raw/M83665.1.gb
+2025-09-23 15:16:40,747 - data.downloader - INFO - Downloading batch 14/30 (10 accessions)
+2025-09-23 15:16:40,748 - data.downloader - INFO - Fetching records: L17131, M26434, M18006, L39370, M27024, L35485, L05072, L14075, L19546, M23442
+2025-09-23 15:16:45,221 - data.downloader - INFO - Saved L17131.1 to output/data/raw/L17131.1.gb
+2025-09-23 15:16:45,232 - data.downloader - INFO - Saved M26434.1 to output/data/raw/M26434.1.gb
+2025-09-23 15:16:45,234 - data.downloader - INFO - Saved M18006.1 to output/data/raw/M18006.1.gb
+2025-09-23 15:16:45,236 - data.downloader - INFO - Saved L39370.1 to output/data/raw/L39370.1.gb
+2025-09-23 15:16:45,238 - data.downloader - INFO - Saved M27024.1 to output/data/raw/M27024.1.gb
+2025-09-23 15:16:45,244 - data.downloader - INFO - Saved L35485.1 to output/data/raw/L35485.1.gb
+2025-09-23 15:16:45,247 - data.downloader - INFO - Saved L05072.1 to output/data/raw/L05072.1.gb
+2025-09-23 15:16:45,255 - data.downloader - INFO - Saved L14075.1 to output/data/raw/L14075.1.gb
+2025-09-23 15:16:45,264 - data.downloader - INFO - Saved L19546.1 to output/data/raw/L19546.1.gb
+2025-09-23 15:16:45,267 - data.downloader - INFO - Saved M23442.1 to output/data/raw/M23442.1.gb
+2025-09-23 15:16:46,272 - data.downloader - INFO - Downloading batch 15/30 (10 accessions)
+2025-09-23 15:16:46,273 - data.downloader - INFO - Fetching records: L39064, L33842, J05253, D16583, M22638, L11016, M37719, D49493, J04718, D90084
+2025-09-23 15:16:48,738 - data.downloader - INFO - Saved L39064.1 to output/data/raw/L39064.1.gb
+2025-09-23 15:16:48,741 - data.downloader - INFO - Saved L33842.1 to output/data/raw/L33842.1.gb
+2025-09-23 15:16:48,743 - data.downloader - INFO - Saved J05253.1 to output/data/raw/J05253.1.gb
+2025-09-23 15:16:48,764 - data.downloader - INFO - Saved D16583.1 to output/data/raw/D16583.1.gb
+2025-09-23 15:16:48,766 - data.downloader - INFO - Saved M22638.1 to output/data/raw/M22638.1.gb
+2025-09-23 15:16:48,768 - data.downloader - INFO - Saved L11016.1 to output/data/raw/L11016.1.gb
+2025-09-23 15:16:48,785 - data.downloader - INFO - Saved M37719.1 to output/data/raw/M37719.1.gb
+2025-09-23 15:16:48,796 - data.downloader - INFO - Saved D49493.1 to output/data/raw/D49493.1.gb
+2025-09-23 15:16:48,808 - data.downloader - INFO - Saved J04718.1 to output/data/raw/J04718.1.gb
+2025-09-23 15:16:48,816 - data.downloader - INFO - Saved D90084.1 to output/data/raw/D90084.1.gb
+2025-09-23 15:16:49,821 - data.downloader - INFO - Downloading batch 16/30 (10 accessions)
+2025-09-23 15:16:49,821 - data.downloader - INFO - Fetching records: L25648, J05073, L12760, M27903, L39891, M11726, M31951, M30838, J00301, L34219
+2025-09-23 15:16:57,396 - data.downloader - INFO - Saved L25648.1 to output/data/raw/L25648.1.gb
+2025-09-23 15:16:57,398 - data.downloader - INFO - Saved J05073.1 to output/data/raw/J05073.1.gb
+2025-09-23 15:16:57,400 - data.downloader - INFO - Saved L12760.1 to output/data/raw/L12760.1.gb
+2025-09-23 15:16:57,403 - data.downloader - INFO - Saved M27903.1 to output/data/raw/M27903.1.gb
+2025-09-23 15:16:57,418 - data.downloader - INFO - Saved L39891.1 to output/data/raw/L39891.1.gb
+2025-09-23 15:16:57,421 - data.downloader - INFO - Saved M11726.1 to output/data/raw/M11726.1.gb
+2025-09-23 15:16:57,425 - data.downloader - INFO - Saved M31951.1 to output/data/raw/M31951.1.gb
+2025-09-23 15:16:57,428 - data.downloader - INFO - Saved M30838.1 to output/data/raw/M30838.1.gb
+2025-09-23 15:16:57,430 - data.downloader - INFO - Saved J00301.1 to output/data/raw/J00301.1.gb
+2025-09-23 15:16:57,436 - data.downloader - INFO - Saved L34219.1 to output/data/raw/L34219.1.gb
+2025-09-23 15:16:58,440 - data.downloader - INFO - Downloading batch 17/30 (10 accessions)
+2025-09-23 15:16:58,440 - data.downloader - INFO - Fetching records: D00591, L11910, M32405, M89796, M96759, M18000, M81650, J00306, M24461, M64231
+2025-09-23 15:17:08,466 - data.downloader - INFO - Saved D00591.1 to output/data/raw/D00591.1.gb
+2025-09-23 15:17:08,488 - data.downloader - INFO - Saved L11910.1 to output/data/raw/L11910.1.gb
+2025-09-23 15:17:08,489 - data.downloader - INFO - Saved M32405.1 to output/data/raw/M32405.1.gb
+2025-09-23 15:17:08,491 - data.downloader - INFO - Saved M89796.1 to output/data/raw/M89796.1.gb
+2025-09-23 15:17:08,493 - data.downloader - INFO - Saved M96759.1 to output/data/raw/M96759.1.gb
+2025-09-23 15:17:08,497 - data.downloader - INFO - Saved M18000.1 to output/data/raw/M18000.1.gb
+2025-09-23 15:17:08,503 - data.downloader - INFO - Saved M81650.1 to output/data/raw/M81650.1.gb
+2025-09-23 15:17:08,505 - data.downloader - INFO - Saved J00306.1 to output/data/raw/J00306.1.gb
+2025-09-23 15:17:08,507 - data.downloader - INFO - Saved M24461.1 to output/data/raw/M24461.1.gb
+2025-09-23 15:17:08,510 - data.downloader - INFO - Saved M64231.1 to output/data/raw/M64231.1.gb
+2025-09-23 15:17:09,514 - data.downloader - INFO - Downloading batch 18/30 (10 accessions)
+2025-09-23 15:17:09,514 - data.downloader - INFO - Fetching records: M32639, D32046, L13470, M96955, J02846, M11749, M59924, K03021, L14927, M37984
+2025-09-23 15:17:20,947 - data.downloader - INFO - Saved M32639.1 to output/data/raw/M32639.1.gb
+2025-09-23 15:17:20,949 - data.downloader - INFO - Saved D32046.1 to output/data/raw/D32046.1.gb
+2025-09-23 15:17:20,951 - data.downloader - INFO - Saved L13470.1 to output/data/raw/L13470.1.gb
+2025-09-23 15:17:20,955 - data.downloader - INFO - Saved M96955.1 to output/data/raw/M96955.1.gb
+2025-09-23 15:17:20,966 - data.downloader - INFO - Saved J02846.1 to output/data/raw/J02846.1.gb
+2025-09-23 15:17:20,967 - data.downloader - INFO - Saved M11749.1 to output/data/raw/M11749.1.gb
+2025-09-23 15:17:20,969 - data.downloader - INFO - Saved M59924.1 to output/data/raw/M59924.1.gb
+2025-09-23 15:17:20,982 - data.downloader - INFO - Saved K03021.1 to output/data/raw/K03021.1.gb
+2025-09-23 15:17:20,983 - data.downloader - INFO - Saved L14927.1 to output/data/raw/L14927.1.gb
+2025-09-23 15:17:20,985 - data.downloader - INFO - Saved M37984.1 to output/data/raw/M37984.1.gb
+2025-09-23 15:17:21,987 - data.downloader - INFO - Downloading batch 19/30 (10 accessions)
+2025-09-23 15:17:21,987 - data.downloader - INFO - Fetching records: D00596, M21024, J03589, M73255, X57436, X80536, X14672, X65633, X63128, X66503
+2025-09-23 15:17:29,654 - data.downloader - INFO - Saved D00596.1 to output/data/raw/D00596.1.gb
+2025-09-23 15:17:29,656 - data.downloader - INFO - Saved M21024.1 to output/data/raw/M21024.1.gb
+2025-09-23 15:17:29,658 - data.downloader - INFO - Saved J03589.1 to output/data/raw/J03589.1.gb
+2025-09-23 15:17:29,660 - data.downloader - INFO - Saved M73255.1 to output/data/raw/M73255.1.gb
+2025-09-23 15:17:29,665 - data.downloader - INFO - Saved X57436.1 to output/data/raw/X57436.1.gb
+2025-09-23 15:17:29,669 - data.downloader - INFO - Saved X80536.1 to output/data/raw/X80536.1.gb
+2025-09-23 15:17:29,670 - data.downloader - INFO - Saved X14672.1 to output/data/raw/X14672.1.gb
+2025-09-23 15:17:29,672 - data.downloader - INFO - Saved X65633.1 to output/data/raw/X65633.1.gb
+2025-09-23 15:17:29,679 - data.downloader - INFO - Saved X63128.1 to output/data/raw/X63128.1.gb
+2025-09-23 15:17:29,680 - data.downloader - INFO - Saved X66503.1 to output/data/raw/X66503.1.gb
+2025-09-23 15:17:30,682 - data.downloader - INFO - Downloading batch 20/30 (10 accessions)
+2025-09-23 15:17:30,682 - data.downloader - INFO - Fetching records: Z11162, Y00106, X52473, V01511, X68790, X65784, X55039, Z25587, X70251, X60542
+2025-09-23 15:17:39,788 - data.downloader - INFO - Saved Z11162.1 to output/data/raw/Z11162.1.gb
+2025-09-23 15:17:39,789 - data.downloader - INFO - Saved Y00106.1 to output/data/raw/Y00106.1.gb
+2025-09-23 15:17:39,790 - data.downloader - INFO - Saved X52473.1 to output/data/raw/X52473.1.gb
+2025-09-23 15:17:39,792 - data.downloader - INFO - Saved V01511.1 to output/data/raw/V01511.1.gb
+2025-09-23 15:17:39,794 - data.downloader - INFO - Saved X68790.1 to output/data/raw/X68790.1.gb
+2025-09-23 15:17:39,800 - data.downloader - INFO - Saved X65784.1 to output/data/raw/X65784.1.gb
+2025-09-23 15:17:39,803 - data.downloader - INFO - Saved X55039.1 to output/data/raw/X55039.1.gb
+2025-09-23 15:17:39,804 - data.downloader - INFO - Saved Z25587.1 to output/data/raw/Z25587.1.gb
+2025-09-23 15:17:39,806 - data.downloader - INFO - Saved X70251.1 to output/data/raw/X70251.1.gb
+2025-09-23 15:17:39,811 - data.downloader - INFO - Saved X60542.1 to output/data/raw/X60542.1.gb
+2025-09-23 15:17:40,816 - data.downloader - INFO - Downloading batch 21/30 (10 accessions)
+2025-09-23 15:17:40,816 - data.downloader - INFO - Fetching records: X60382, X55545, X55760, X62421, X68302, X12794, X16545, X55741, X80915, X66310
+2025-09-23 15:17:46,893 - data.downloader - INFO - Saved X60382.1 to output/data/raw/X60382.1.gb
+2025-09-23 15:17:46,895 - data.downloader - INFO - Saved X55545.1 to output/data/raw/X55545.1.gb
+2025-09-23 15:17:46,898 - data.downloader - INFO - Saved X55760.1 to output/data/raw/X55760.1.gb
+2025-09-23 15:17:46,901 - data.downloader - INFO - Saved X62421.1 to output/data/raw/X62421.1.gb
+2025-09-23 15:17:46,903 - data.downloader - INFO - Saved X68302.1 to output/data/raw/X68302.1.gb
+2025-09-23 15:17:46,906 - data.downloader - INFO - Saved X12794.1 to output/data/raw/X12794.1.gb
+2025-09-23 15:17:46,908 - data.downloader - INFO - Saved X16545.1 to output/data/raw/X16545.1.gb
+2025-09-23 15:17:46,910 - data.downloader - INFO - Saved X55741.1 to output/data/raw/X55741.1.gb
+2025-09-23 15:17:46,913 - data.downloader - INFO - Saved X80915.1 to output/data/raw/X80915.1.gb
+2025-09-23 15:17:46,917 - data.downloader - INFO - Saved X66310.1 to output/data/raw/X66310.1.gb
+2025-09-23 15:17:47,920 - data.downloader - INFO - Downloading batch 22/30 (10 accessions)
+2025-09-23 15:17:47,920 - data.downloader - INFO - Fetching records: Z23091, X57130, X57127, X60481, X65858, X63337, X64994, X64995, X03473, X76786
+2025-09-23 15:17:50,315 - data.downloader - INFO - Saved Z23091.1 to output/data/raw/Z23091.1.gb
+2025-09-23 15:17:50,316 - data.downloader - INFO - Saved X57130.1 to output/data/raw/X57130.1.gb
+2025-09-23 15:17:50,318 - data.downloader - INFO - Saved X57127.1 to output/data/raw/X57127.1.gb
+2025-09-23 15:17:50,319 - data.downloader - INFO - Saved X60481.1 to output/data/raw/X60481.1.gb
+2025-09-23 15:17:50,321 - data.downloader - INFO - Saved X65858.1 to output/data/raw/X65858.1.gb
+2025-09-23 15:17:50,324 - data.downloader - INFO - Saved X63337.1 to output/data/raw/X63337.1.gb
+2025-09-23 15:17:50,327 - data.downloader - INFO - Saved X64994.1 to output/data/raw/X64994.1.gb
+2025-09-23 15:17:50,329 - data.downloader - INFO - Saved X64995.1 to output/data/raw/X64995.1.gb
+2025-09-23 15:17:50,331 - data.downloader - INFO - Saved X03473.1 to output/data/raw/X03473.1.gb
+2025-09-23 15:17:50,332 - data.downloader - INFO - Saved X76786.1 to output/data/raw/X76786.1.gb
+2025-09-23 15:17:51,335 - data.downloader - INFO - Downloading batch 23/30 (10 accessions)
+2025-09-23 15:17:51,335 - data.downloader - INFO - Fetching records: X00089, X15265, V00532, X55293, X52560, X60201, Z11901, X12458, X73424, V00571
+2025-09-23 15:17:56,455 - data.downloader - INFO - Saved X00089.1 to output/data/raw/X00089.1.gb
+2025-09-23 15:17:56,456 - data.downloader - INFO - Saved X15265.1 to output/data/raw/X15265.1.gb
+2025-09-23 15:17:56,457 - data.downloader - INFO - Saved V00532.1 to output/data/raw/V00532.1.gb
+2025-09-23 15:17:56,459 - data.downloader - INFO - Saved X55293.1 to output/data/raw/X55293.1.gb
+2025-09-23 15:17:56,460 - data.downloader - INFO - Saved X52560.1 to output/data/raw/X52560.1.gb
+2025-09-23 15:17:56,466 - data.downloader - INFO - Saved X60201.1 to output/data/raw/X60201.1.gb
+2025-09-23 15:17:56,469 - data.downloader - INFO - Saved Z11901.1 to output/data/raw/Z11901.1.gb
+2025-09-23 15:17:56,471 - data.downloader - INFO - Saved X12458.1 to output/data/raw/X12458.1.gb
+2025-09-23 15:17:56,474 - data.downloader - INFO - Saved X73424.1 to output/data/raw/X73424.1.gb
+2025-09-23 15:17:56,479 - data.downloader - INFO - Saved V00571.1 to output/data/raw/V00571.1.gb
+2025-09-23 15:17:57,491 - data.downloader - INFO - Downloading batch 24/30 (10 accessions)
+2025-09-23 15:17:57,492 - data.downloader - INFO - Fetching records: X05246, X13556, X83416, X53065, X79235, Z27113, X52259, X52075, X71135, X82554
+2025-09-23 15:18:01,231 - data.downloader - INFO - Saved X05246.1 to output/data/raw/X05246.1.gb
+2025-09-23 15:18:01,232 - data.downloader - INFO - Saved X13556.1 to output/data/raw/X13556.1.gb
+2025-09-23 15:18:01,233 - data.downloader - INFO - Saved X83416.1 to output/data/raw/X83416.1.gb
+2025-09-23 15:18:01,234 - data.downloader - INFO - Saved X79235.1 to output/data/raw/X79235.1.gb
+2025-09-23 15:18:01,235 - data.downloader - INFO - Saved Z27113.1 to output/data/raw/Z27113.1.gb
+2025-09-23 15:18:01,236 - data.downloader - INFO - Saved X52259.1 to output/data/raw/X52259.1.gb
+2025-09-23 15:18:01,245 - data.downloader - INFO - Saved X52075.1 to output/data/raw/X52075.1.gb
+2025-09-23 15:18:01,247 - data.downloader - INFO - Saved X71135.1 to output/data/raw/X71135.1.gb
+2025-09-23 15:18:01,248 - data.downloader - INFO - Saved X82554.1 to output/data/raw/X82554.1.gb
+2025-09-23 15:18:02,252 - data.downloader - INFO - Downloading batch 25/30 (10 accessions)
+2025-09-23 15:18:02,254 - data.downloader - INFO - Fetching records: X55543, X73534, X82676, U01212, U03486, U03735, U10116, U10273, U10360, U10554
+2025-09-23 15:18:08,169 - data.downloader - INFO - Saved X55543.1 to output/data/raw/X55543.1.gb
+2025-09-23 15:18:08,171 - data.downloader - INFO - Saved X73534.1 to output/data/raw/X73534.1.gb
+2025-09-23 15:18:08,172 - data.downloader - INFO - Saved X82676.1 to output/data/raw/X82676.1.gb
+2025-09-23 15:18:08,174 - data.downloader - INFO - Saved U01212.1 to output/data/raw/U01212.1.gb
+2025-09-23 15:18:08,179 - data.downloader - INFO - Saved U03486.2 to output/data/raw/U03486.2.gb
+2025-09-23 15:18:08,183 - data.downloader - INFO - Saved U03735.1 to output/data/raw/U03735.1.gb
+2025-09-23 15:18:08,192 - data.downloader - INFO - Saved U10116.1 to output/data/raw/U10116.1.gb
+2025-09-23 15:18:08,198 - data.downloader - INFO - Saved U10273.1 to output/data/raw/U10273.1.gb
+2025-09-23 15:18:08,200 - data.downloader - INFO - Saved U10360.1 to output/data/raw/U10360.1.gb
+2025-09-23 15:18:08,206 - data.downloader - INFO - Saved U10554.1 to output/data/raw/U10554.1.gb
+2025-09-23 15:18:09,214 - data.downloader - INFO - Downloading batch 26/30 (10 accessions)
+2025-09-23 15:18:09,214 - data.downloader - INFO - Fetching records: U11424, U13666, U13695, U16812, U17894, U18548, U20734, U21051, U22346, L10381
+2025-09-23 15:18:15,922 - data.downloader - INFO - Saved U11424.1 to output/data/raw/U11424.1.gb
+2025-09-23 15:18:15,923 - data.downloader - INFO - Saved U13666.1 to output/data/raw/U13666.1.gb
+2025-09-23 15:18:15,924 - data.downloader - INFO - Saved U13695.1 to output/data/raw/U13695.1.gb
+2025-09-23 15:18:15,925 - data.downloader - INFO - Saved U16812.1 to output/data/raw/U16812.1.gb
+2025-09-23 15:18:15,927 - data.downloader - INFO - Saved U17894.1 to output/data/raw/U17894.1.gb
+2025-09-23 15:18:15,932 - data.downloader - INFO - Saved U18548.1 to output/data/raw/U18548.1.gb
+2025-09-23 15:18:15,935 - data.downloader - INFO - Saved U20734.1 to output/data/raw/U20734.1.gb
+2025-09-23 15:18:15,936 - data.downloader - INFO - Saved U21051.1 to output/data/raw/U21051.1.gb
+2025-09-23 15:18:15,939 - data.downloader - INFO - Saved U22346.1 to output/data/raw/U22346.1.gb
+2025-09-23 15:18:15,941 - data.downloader - INFO - Saved L10381.1 to output/data/raw/L10381.1.gb
+2025-09-23 15:18:16,942 - data.downloader - INFO - Downloading batch 27/30 (10 accessions)
+2025-09-23 15:18:16,942 - data.downloader - INFO - Fetching records: D13538, L19704, M11567, L18972, L37019, M35160, M27394, M90355, M90356, M92269
+2025-09-23 15:18:33,078 - data.downloader - INFO - Saved D13538.1 to output/data/raw/D13538.1.gb
+2025-09-23 15:18:33,080 - data.downloader - INFO - Saved L19704.1 to output/data/raw/L19704.1.gb
+2025-09-23 15:18:33,081 - data.downloader - INFO - Saved M11567.1 to output/data/raw/M11567.1.gb
+2025-09-23 15:18:33,083 - data.downloader - INFO - Saved L18972.1 to output/data/raw/L18972.1.gb
+2025-09-23 15:18:33,085 - data.downloader - INFO - Saved L37019.1 to output/data/raw/L37019.1.gb
+2025-09-23 15:18:33,090 - data.downloader - INFO - Saved M35160.1 to output/data/raw/M35160.1.gb
+2025-09-23 15:18:33,091 - data.downloader - INFO - Saved M27394.1 to output/data/raw/M27394.1.gb
+2025-09-23 15:18:33,095 - data.downloader - INFO - Saved M90355.2 to output/data/raw/M90355.2.gb
+2025-09-23 15:18:33,097 - data.downloader - INFO - Saved M90356.2 to output/data/raw/M90356.2.gb
+2025-09-23 15:18:33,106 - data.downloader - INFO - Saved M92269.1 to output/data/raw/M92269.1.gb
+2025-09-23 15:18:34,108 - data.downloader - INFO - Downloading batch 28/30 (10 accessions)
+2025-09-23 15:18:34,109 - data.downloader - INFO - Fetching records: M31423, J00119, L15296, M28170, M14333, L35240, M60119, M90439, M55267, M60830
+2025-09-23 15:18:37,204 - data.downloader - INFO - Saved M31423.1 to output/data/raw/M31423.1.gb
+2025-09-23 15:18:37,205 - data.downloader - INFO - Saved J00119.1 to output/data/raw/J00119.1.gb
+2025-09-23 15:18:37,206 - data.downloader - INFO - Saved L15296.1 to output/data/raw/L15296.1.gb
+2025-09-23 15:18:37,207 - data.downloader - INFO - Saved M28170.1 to output/data/raw/M28170.1.gb
+2025-09-23 15:18:37,209 - data.downloader - INFO - Saved M14333.1 to output/data/raw/M14333.1.gb
+2025-09-23 15:18:37,211 - data.downloader - INFO - Saved L35240.1 to output/data/raw/L35240.1.gb
+2025-09-23 15:18:37,216 - data.downloader - INFO - Saved M60119.1 to output/data/raw/M60119.1.gb
+2025-09-23 15:18:37,217 - data.downloader - INFO - Saved M90439.1 to output/data/raw/M90439.1.gb
+2025-09-23 15:18:37,220 - data.downloader - INFO - Saved M55267.1 to output/data/raw/M55267.1.gb
+2025-09-23 15:18:37,222 - data.downloader - INFO - Saved M60830.1 to output/data/raw/M60830.1.gb
+2025-09-23 15:18:38,227 - data.downloader - INFO - Downloading batch 29/30 (10 accessions)
+2025-09-23 15:18:38,227 - data.downloader - INFO - Fetching records: L10820, D16826, M69199, J04152, M86522, M16514, M22403, M80478, L36149, M60094
+2025-09-23 15:18:47,293 - data.downloader - INFO - Saved L10820.1 to output/data/raw/L10820.1.gb
+2025-09-23 15:18:47,295 - data.downloader - INFO - Saved D16826.1 to output/data/raw/D16826.1.gb
+2025-09-23 15:18:47,296 - data.downloader - INFO - Saved M69199.1 to output/data/raw/M69199.1.gb
+2025-09-23 15:18:47,298 - data.downloader - INFO - Saved J04152.1 to output/data/raw/J04152.1.gb
+2025-09-23 15:18:47,303 - data.downloader - INFO - Saved M86522.1 to output/data/raw/M86522.1.gb
+2025-09-23 15:18:47,307 - data.downloader - INFO - Saved M16514.1 to output/data/raw/M16514.1.gb
+2025-09-23 15:18:47,309 - data.downloader - INFO - Saved M22403.1 to output/data/raw/M22403.1.gb
+2025-09-23 15:18:47,311 - data.downloader - INFO - Saved M80478.1 to output/data/raw/M80478.1.gb
+2025-09-23 15:18:47,317 - data.downloader - INFO - Saved L36149.1 to output/data/raw/L36149.1.gb
+2025-09-23 15:18:47,318 - data.downloader - INFO - Saved M60094.1 to output/data/raw/M60094.1.gb
+2025-09-23 15:18:48,318 - data.downloader - INFO - Downloading batch 30/30 (5 accessions)
+2025-09-23 15:18:48,318 - data.downloader - INFO - Fetching records: M97508, M64799, D29685, M22005, M26685
+2025-09-23 15:18:53,177 - data.downloader - INFO - Saved M97508.1 to output/data/raw/M97508.1.gb
+2025-09-23 15:18:53,179 - data.downloader - INFO - Saved M64799.1 to output/data/raw/M64799.1.gb
+2025-09-23 15:18:53,182 - data.downloader - INFO - Saved D29685.1 to output/data/raw/D29685.1.gb
+2025-09-23 15:18:53,186 - data.downloader - INFO - Saved M22005.1 to output/data/raw/M22005.1.gb
+2025-09-23 15:18:53,189 - data.downloader - INFO - Saved M26685.1 to output/data/raw/M26685.1.gb
+2025-09-23 15:18:54,191 - root - INFO - Downloaded 293 GenBank files
+2025-09-23 15:18:54,192 - root - INFO - Extracting sequences from GenBank files
+2025-09-23 15:18:54,219 - data.extractor - INFO - Extracted 727 sequences from output/data/raw/Z49258.1.gb
+2025-09-23 15:18:54,220 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X73428.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,222 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X66114.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,223 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X14487.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,227 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X64467.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,228 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X01392.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,230 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X04898.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,231 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X01038.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,234 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X05151.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,235 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X52150.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,237 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X63600.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,240 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X68793.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,243 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X69907.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,244 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X72861.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,246 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X12706.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,248 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X04143.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,252 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Y00081.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,254 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X54486.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,261 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X52889.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,263 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X06882.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,274 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X14974.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,278 - data.extractor - INFO - Extracted 32 sequences from output/data/raw/X06180.1.gb
+2025-09-23 15:18:54,286 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X15334.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,289 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X57152.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,291 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z26491.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,295 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X62891.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,306 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X52851.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,321 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X14720.7.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,325 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X52255.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,327 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z18859.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,332 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X68303.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,346 - data.extractor - INFO - Extracted 159 sequences from output/data/raw/X02612.1.gb
+2025-09-23 15:18:54,352 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X78212.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,359 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X84707.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,360 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z46254.0.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,362 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X15215.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,375 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X79198.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,377 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z48950.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,380 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X76776.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,386 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X02882.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,393 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X00492.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,396 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X61755.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,402 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Y00371.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,411 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X60459.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,414 - data.extractor - ERROR - Error extracting sequences from output/data/raw/V00536.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,420 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z00010.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,449 - data.extractor - INFO - Extracted 132 sequences from output/data/raw/X00695.1.gb
+2025-09-23 15:18:54,456 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X03833.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,461 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X04500.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,468 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X64532.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,480 - data.extractor - INFO - Extracted 98 sequences from output/data/raw/V00565.1.gb
+2025-09-23 15:18:54,487 - data.extractor - INFO - Extracted 89 sequences from output/data/raw/X03072.1.gb
+2025-09-23 15:18:54,496 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X14445.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,501 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X52138.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,509 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X04981.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,511 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X62654.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,515 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Y00477.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,520 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X54489.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,527 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z14977.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,536 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z48051.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,544 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z33457.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,551 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z29373.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,556 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Y00067.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,562 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X16277.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,564 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X74614.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,576 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X54156.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,577 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X69438.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,580 - data.extractor - INFO - Extracted 84 sequences from output/data/raw/X75755.1.gb
+2025-09-23 15:18:54,585 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X07881.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,587 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X70872.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,595 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X62025.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,598 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z23102.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,603 - data.extractor - INFO - Extracted 45 sequences from output/data/raw/U08198.1.gb
+2025-09-23 15:18:54,610 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U09954.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,613 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U12421.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,618 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U17969.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,620 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U19765.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,626 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U19816.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,628 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U20325.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,630 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U20499.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,635 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U20982.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,638 - data.extractor - INFO - Extracted 76 sequences from output/data/raw/U23143.1.gb
+2025-09-23 15:18:54,645 - data.extractor - INFO - Extracted 44 sequences from output/data/raw/U23853.1.gb
+2025-09-23 15:18:54,648 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U25826.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,661 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U26425.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,664 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X56997.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,669 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X76498.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,677 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X69953.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,678 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D25234.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,681 - data.extractor - ERROR - Error extracting sequences from output/data/raw/K02212.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,685 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M21540.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,686 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M10277.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,698 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M13792.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,703 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M74493.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,730 - data.extractor - INFO - Extracted 550 sequences from output/data/raw/M16110.1.gb
+2025-09-23 15:18:54,733 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M61831.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,735 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J04809.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,737 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M63420.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,747 - data.extractor - ERROR - Error extracting sequences from output/data/raw/K02043.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,752 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J04982.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,757 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M14642.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,761 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M20902.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,768 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M10065.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,777 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J05096.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,781 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D28126.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,786 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M27132.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,794 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M64554.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,797 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M38180.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,802 - data.extractor - ERROR - Error extracting sequences from output/data/raw/K01884.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,810 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D26535.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,812 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M27138.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,820 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J05008.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,826 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J04617.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,828 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D13156.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,832 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L29766.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,835 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M18079.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,844 - data.extractor - ERROR - Error extracting sequences from output/data/raw/K02402.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,847 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L13391.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,860 - data.extractor - INFO - Extracted 106 sequences from output/data/raw/L24498.1.gb
+2025-09-23 15:18:54,862 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L10822.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,865 - data.extractor - ERROR - Error extracting sequences from output/data/raw/K01254.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,869 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L36861.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,877 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J03059.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,879 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M93280.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,886 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M91463.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,888 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M58600.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,895 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L04132.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,901 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M21339.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,909 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M83665.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,913 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L17131.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,929 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M26434.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,930 - data.extractor - INFO - Extracted 0 sequences from output/data/raw/M18006.1.gb
+2025-09-23 15:18:54,933 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L39370.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,936 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M27024.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,942 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L35485.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,946 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L05072.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,952 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L14075.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,955 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L19546.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,961 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M23442.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,967 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L39064.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,972 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L33842.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,976 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J05253.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,979 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D16583.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,984 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M22638.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,985 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L11016.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:54,986 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M37719.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,994 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D49493.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:54,998 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J04718.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,005 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D90084.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,010 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L25648.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,012 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J05073.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,020 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L12760.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,026 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M27903.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,035 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L39891.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,036 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M11726.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,037 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M31951.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,202 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M30838.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,207 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J00301.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,210 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L34219.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,214 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D00591.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,235 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L11910.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,237 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M32405.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,238 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M89796.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,240 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M96759.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,243 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M18000.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,247 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M81650.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,249 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J00306.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,252 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M24461.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,254 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M64231.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,257 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M32639.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,259 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D32046.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,262 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L13470.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,266 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M96955.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,269 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J02846.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,271 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M11749.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,273 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M59924.1.gb: 'WithinPosition' object has no attribute 'position'
+2025-09-23 15:18:55,278 - data.extractor - ERROR - Error extracting sequences from output/data/raw/K03021.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,282 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L14927.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,284 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M37984.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,304 - data.extractor - ERROR - Error extracting sequences from output/data/raw/D00596.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,310 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M21024.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,312 - data.extractor - ERROR - Error extracting sequences from output/data/raw/J03589.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,317 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M73255.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,327 - data.extractor - INFO - Extracted 72 sequences from output/data/raw/X57436.1.gb
+2025-09-23 15:18:55,329 - data.extractor - INFO - Extracted 33 sequences from output/data/raw/X80536.1.gb
+2025-09-23 15:18:55,332 - data.extractor - INFO - Extracted 36 sequences from output/data/raw/X14672.1.gb
+2025-09-23 15:18:55,335 - data.extractor - INFO - Extracted 36 sequences from output/data/raw/X65633.1.gb
+2025-09-23 15:18:55,343 - data.extractor - INFO - Extracted 30 sequences from output/data/raw/X63128.1.gb
+2025-09-23 15:18:55,347 - data.extractor - INFO - Extracted 37 sequences from output/data/raw/X66503.1.gb
+2025-09-23 15:18:55,356 - data.extractor - INFO - Extracted 51 sequences from output/data/raw/Z11162.1.gb
+2025-09-23 15:18:55,367 - data.extractor - INFO - Extracted 45 sequences from output/data/raw/Y00106.1.gb
+2025-09-23 15:18:55,373 - data.extractor - INFO - Extracted 25 sequences from output/data/raw/X52473.1.gb
+2025-09-23 15:18:55,378 - data.extractor - ERROR - Error extracting sequences from output/data/raw/V01511.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,381 - data.extractor - INFO - Extracted 15 sequences from output/data/raw/X68790.1.gb
+2025-09-23 15:18:55,383 - data.extractor - INFO - Extracted 8 sequences from output/data/raw/X65784.1.gb
+2025-09-23 15:18:55,401 - data.extractor - INFO - Extracted 73 sequences from output/data/raw/X55039.1.gb
+2025-09-23 15:18:55,407 - data.extractor - INFO - Extracted 60 sequences from output/data/raw/Z25587.1.gb
+2025-09-23 15:18:55,411 - data.extractor - INFO - Extracted 24 sequences from output/data/raw/X70251.1.gb
+2025-09-23 15:18:55,416 - data.extractor - INFO - Extracted 13 sequences from output/data/raw/X60542.1.gb
+2025-09-23 15:18:55,422 - data.extractor - INFO - Extracted 63 sequences from output/data/raw/X60382.1.gb
+2025-09-23 15:18:55,434 - data.extractor - INFO - Extracted 24 sequences from output/data/raw/X55545.1.gb
+2025-09-23 15:18:55,439 - data.extractor - INFO - Extracted 65 sequences from output/data/raw/X55760.1.gb
+2025-09-23 15:18:55,444 - data.extractor - INFO - Extracted 29 sequences from output/data/raw/X62421.1.gb
+2025-09-23 15:18:55,449 - data.extractor - INFO - Extracted 60 sequences from output/data/raw/X68302.1.gb
+2025-09-23 15:18:55,453 - data.extractor - INFO - Extracted 46 sequences from output/data/raw/X12794.1.gb
+2025-09-23 15:18:55,456 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X16545.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,462 - data.extractor - INFO - Extracted 10 sequences from output/data/raw/X55741.1.gb
+2025-09-23 15:18:55,473 - data.extractor - INFO - Extracted 53 sequences from output/data/raw/X80915.1.gb
+2025-09-23 15:18:55,480 - data.extractor - INFO - Extracted 64 sequences from output/data/raw/X66310.1.gb
+2025-09-23 15:18:55,482 - data.extractor - ERROR - Error extracting sequences from output/data/raw/Z23091.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,483 - data.extractor - INFO - Extracted 19 sequences from output/data/raw/X57130.1.gb
+2025-09-23 15:18:55,485 - data.extractor - INFO - Extracted 16 sequences from output/data/raw/X57127.1.gb
+2025-09-23 15:18:55,498 - data.extractor - INFO - Extracted 12 sequences from output/data/raw/X60481.1.gb
+2025-09-23 15:18:55,501 - data.extractor - INFO - Extracted 43 sequences from output/data/raw/X65858.1.gb
+2025-09-23 15:18:55,507 - data.extractor - INFO - Extracted 23 sequences from output/data/raw/X63337.1.gb
+2025-09-23 15:18:55,511 - data.extractor - INFO - Extracted 36 sequences from output/data/raw/X64994.1.gb
+2025-09-23 15:18:55,516 - data.extractor - INFO - Extracted 27 sequences from output/data/raw/X64995.1.gb
+2025-09-23 15:18:55,523 - data.extractor - INFO - Extracted 49 sequences from output/data/raw/X03473.1.gb
+2025-09-23 15:18:55,525 - data.extractor - INFO - Extracted 28 sequences from output/data/raw/X76786.1.gb
+2025-09-23 15:18:55,530 - data.extractor - INFO - Extracted 16 sequences from output/data/raw/X00089.1.gb
+2025-09-23 15:18:55,532 - data.extractor - INFO - Extracted 33 sequences from output/data/raw/X15265.1.gb
+2025-09-23 15:18:55,533 - data.extractor - INFO - Extracted 36 sequences from output/data/raw/V00532.1.gb
+2025-09-23 15:18:55,535 - data.extractor - INFO - Extracted 19 sequences from output/data/raw/X55293.1.gb
+2025-09-23 15:18:55,541 - data.extractor - INFO - Extracted 37 sequences from output/data/raw/X52560.1.gb
+2025-09-23 15:18:55,544 - data.extractor - INFO - Extracted 26 sequences from output/data/raw/X60201.1.gb
+2025-09-23 15:18:55,549 - data.extractor - INFO - Extracted 38 sequences from output/data/raw/Z11901.1.gb
+2025-09-23 15:18:55,551 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X12458.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,557 - data.extractor - INFO - Extracted 35 sequences from output/data/raw/X73424.1.gb
+2025-09-23 15:18:55,562 - data.extractor - ERROR - Error extracting sequences from output/data/raw/V00571.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,566 - data.extractor - INFO - Extracted 37 sequences from output/data/raw/X05246.1.gb
+2025-09-23 15:18:55,569 - data.extractor - INFO - Extracted 30 sequences from output/data/raw/X13556.1.gb
+2025-09-23 15:18:55,575 - data.extractor - ERROR - Error extracting sequences from output/data/raw/X83416.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,580 - data.extractor - INFO - Extracted 8 sequences from output/data/raw/X79235.1.gb
+2025-09-23 15:18:55,582 - data.extractor - INFO - Extracted 9 sequences from output/data/raw/Z27113.1.gb
+2025-09-23 15:18:55,583 - data.extractor - INFO - Extracted 9 sequences from output/data/raw/X52259.1.gb
+2025-09-23 15:18:55,589 - data.extractor - INFO - Extracted 129 sequences from output/data/raw/X52075.1.gb
+2025-09-23 15:18:55,591 - data.extractor - INFO - Extracted 49 sequences from output/data/raw/X71135.1.gb
+2025-09-23 15:18:55,595 - data.extractor - INFO - Extracted 29 sequences from output/data/raw/X82554.1.gb
+2025-09-23 15:18:55,599 - data.extractor - INFO - Extracted 35 sequences from output/data/raw/X55543.1.gb
+2025-09-23 15:18:55,603 - data.extractor - INFO - Extracted 71 sequences from output/data/raw/X73534.1.gb
+2025-09-23 15:18:55,614 - data.extractor - INFO - Extracted 77 sequences from output/data/raw/X82676.1.gb
+2025-09-23 15:18:55,617 - data.extractor - INFO - Extracted 73 sequences from output/data/raw/U01212.1.gb
+2025-09-23 15:18:55,618 - data.extractor - INFO - Extracted 24 sequences from output/data/raw/U03486.2.gb
+2025-09-23 15:18:55,622 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U03735.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,623 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U10116.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,625 - data.extractor - INFO - Extracted 48 sequences from output/data/raw/U10273.1.gb
+2025-09-23 15:18:55,629 - data.extractor - INFO - Extracted 14 sequences from output/data/raw/U10360.1.gb
+2025-09-23 15:18:55,632 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U10554.1.gb: 'BeforePosition' object has no attribute 'position'
+2025-09-23 15:18:55,634 - data.extractor - INFO - Extracted 37 sequences from output/data/raw/U11424.1.gb
+2025-09-23 15:18:55,635 - data.extractor - INFO - Extracted 27 sequences from output/data/raw/U13666.1.gb
+2025-09-23 15:18:55,640 - data.extractor - INFO - Extracted 60 sequences from output/data/raw/U13695.1.gb
+2025-09-23 15:18:55,645 - data.extractor - INFO - Extracted 128 sequences from output/data/raw/U16812.1.gb
+2025-09-23 15:18:55,649 - data.extractor - INFO - Extracted 41 sequences from output/data/raw/U17894.1.gb
+2025-09-23 15:18:55,650 - data.extractor - ERROR - Error extracting sequences from output/data/raw/U18548.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,658 - data.extractor - INFO - Extracted 171 sequences from output/data/raw/U20734.1.gb
+2025-09-23 15:18:55,661 - data.extractor - INFO - Extracted 57 sequences from output/data/raw/U21051.1.gb
+2025-09-23 15:18:55,667 - data.extractor - INFO - Extracted 82 sequences from output/data/raw/U22346.1.gb
+2025-09-23 15:18:55,669 - data.extractor - INFO - Extracted 57 sequences from output/data/raw/L10381.1.gb
+2025-09-23 15:18:55,675 - data.extractor - INFO - Extracted 26 sequences from output/data/raw/D13538.1.gb
+2025-09-23 15:18:55,681 - data.extractor - INFO - Extracted 49 sequences from output/data/raw/L19704.1.gb
+2025-09-23 15:18:55,683 - data.extractor - INFO - Extracted 92 sequences from output/data/raw/M11567.1.gb
+2025-09-23 15:18:55,690 - data.extractor - INFO - Extracted 54 sequences from output/data/raw/L18972.1.gb
+2025-09-23 15:18:55,698 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L37019.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,700 - data.extractor - INFO - Extracted 33 sequences from output/data/raw/M35160.1.gb
+2025-09-23 15:18:55,702 - data.extractor - INFO - Extracted 21 sequences from output/data/raw/M27394.1.gb
+2025-09-23 15:18:55,713 - data.extractor - INFO - Extracted 10 sequences from output/data/raw/M90355.2.gb
+2025-09-23 15:18:55,716 - data.extractor - INFO - Extracted 13 sequences from output/data/raw/M90356.2.gb
+2025-09-23 15:18:55,718 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M92269.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,723 - data.extractor - INFO - Extracted 47 sequences from output/data/raw/M31423.1.gb
+2025-09-23 15:18:55,725 - data.extractor - INFO - Extracted 25 sequences from output/data/raw/J00119.1.gb
+2025-09-23 15:18:55,731 - data.extractor - INFO - Extracted 67 sequences from output/data/raw/L15296.1.gb
+2025-09-23 15:18:55,733 - data.extractor - INFO - Extracted 40 sequences from output/data/raw/M28170.1.gb
+2025-09-23 15:18:55,735 - data.extractor - INFO - Extracted 51 sequences from output/data/raw/M14333.1.gb
+2025-09-23 15:18:55,740 - data.extractor - INFO - Extracted 33 sequences from output/data/raw/L35240.1.gb
+2025-09-23 15:18:55,750 - data.extractor - INFO - Extracted 185 sequences from output/data/raw/M60119.1.gb
+2025-09-23 15:18:55,752 - data.extractor - INFO - Extracted 22 sequences from output/data/raw/M90439.1.gb
+2025-09-23 15:18:55,757 - data.extractor - INFO - Extracted 34 sequences from output/data/raw/M55267.1.gb
+2025-09-23 15:18:55,758 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M60830.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,765 - data.extractor - ERROR - Error extracting sequences from output/data/raw/L10820.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,766 - data.extractor - INFO - Extracted 25 sequences from output/data/raw/D16826.1.gb
+2025-09-23 15:18:55,768 - data.extractor - INFO - Extracted 16 sequences from output/data/raw/M69199.1.gb
+2025-09-23 15:18:55,774 - data.extractor - INFO - Extracted 44 sequences from output/data/raw/J04152.1.gb
+2025-09-23 15:18:55,775 - data.extractor - INFO - Extracted 34 sequences from output/data/raw/M86522.1.gb
+2025-09-23 15:18:55,782 - data.extractor - INFO - Extracted 27 sequences from output/data/raw/M16514.1.gb
+2025-09-23 15:18:55,783 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M22403.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,784 - data.extractor - ERROR - Error extracting sequences from output/data/raw/M80478.1.gb: 'ExactPosition' object has no attribute 'position'
+2025-09-23 15:18:55,790 - data.extractor - INFO - Extracted 24 sequences from output/data/raw/L36149.1.gb
+2025-09-23 15:18:55,791 - data.extractor - INFO - Extracted 34 sequences from output/data/raw/M60094.1.gb
+2025-09-23 15:18:55,793 - data.extractor - INFO - Extracted 42 sequences from output/data/raw/M97508.1.gb
+2025-09-23 15:18:55,799 - data.extractor - INFO - Extracted 22 sequences from output/data/raw/M64799.1.gb
+2025-09-23 15:18:55,801 - data.extractor - INFO - Extracted 46 sequences from output/data/raw/D29685.1.gb
+2025-09-23 15:18:55,806 - data.extractor - INFO - Extracted 7 sequences from output/data/raw/M22005.1.gb
+2025-09-23 15:18:55,808 - data.extractor - INFO - Extracted 7 sequences from output/data/raw/M26685.1.gb
+2025-09-23 15:18:55,808 - root - INFO - Extracted 6039 sequences with 0 exons and 6039 introns
+2025-09-23 15:18:55,808 - root - INFO - Preprocessing data
+2025-09-23 15:18:56,115 - data.preprocessor - INFO - Encoded 6039 sequences with shape (6039, 100, 5)
+2025-09-23 15:18:56,147 - data.preprocessor - INFO - Applying SMOTE to balance classes. Original class distribution: [4831]
+2025-09-23 15:18:56,164 - root - ERROR - An error occurred: The target 'y' needs to have more than 1 class. Got 1 class instead

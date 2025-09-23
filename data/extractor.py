@@ -36,15 +36,30 @@ class SequenceExtractor:
             # Get the full sequence
             full_sequence = str(record.seq)
             
-            # Create a binary mask for exons
+            # Create a binary mask for exons (or coding regions)
             exon_mask = np.zeros(len(full_sequence), dtype=int)
             
-            # Mark exon regions in the mask
+            # Mark exon/CDS regions in the mask, handling fuzzy and compound locations
+            positive_feature_types = {"exon", "CDS"}
             for feature in record.features:
-                if feature.type == "exon":
-                    start = feature.location.start.position
-                    end = feature.location.end.position
-                    exon_mask[start:end] = 1
+                if feature.type in positive_feature_types:
+                    location = feature.location
+                    try:
+                        # CompoundLocation (joined parts)
+                        parts = getattr(location, 'parts', None)
+                        if parts:
+                            for part in parts:
+                                start_idx = int(part.start)
+                                end_idx = int(part.end)
+                                if start_idx < end_idx:
+                                    exon_mask[start_idx:end_idx] = 1
+                        else:
+                            start_idx = int(location.start)
+                            end_idx = int(location.end)
+                            if start_idx < end_idx:
+                                exon_mask[start_idx:end_idx] = 1
+                    except Exception as le:
+                        self.logger.debug(f"Skipping feature with unparsable location in {file_path}: {le}")
             
             # Apply sliding window
             sequences = []
@@ -54,13 +69,15 @@ class SequenceExtractor:
                 window_seq = full_sequence[i:i+self.window_size]
                 window_mask = exon_mask[i:i+self.window_size]
                 
-                # Label is 1 if at least 50% of the window is exon
+                # Label is 1 if at least 50% of the window is exon/coding
                 label = 1 if np.mean(window_mask) >= 0.5 else 0
                 
                 sequences.append(window_seq)
                 labels.append(label)
             
-            self.logger.info(f"Extracted {len(sequences)} sequences from {file_path}")
+            pos_count = int(np.sum(labels))
+            neg_count = len(labels) - pos_count
+            self.logger.info(f"Extracted {len(sequences)} sequences from {file_path} (pos={pos_count}, neg={neg_count})")
             return sequences, labels
             
         except Exception as e:

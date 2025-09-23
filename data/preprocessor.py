@@ -86,13 +86,22 @@ class SequencePreprocessor:
         X = self.encode_sequences(sequences)
         y = np.array(labels)
         
+        unique_classes = np.unique(y)
+        stratify_param = y if unique_classes.size > 1 else None
+        if stratify_param is None:
+            self.logger.warning("Only one class present in labels. Proceeding without stratification and SMOTE.")
+        
         # Split data
         X_train, X_test, y_train, y_test = train_test_split(
-            X, y, test_size=test_size, random_state=self.random_state, stratify=y
+            X, y, test_size=test_size, random_state=self.random_state, stratify=stratify_param
         )
         
-        # Balance training data
-        X_train_balanced, y_train_balanced = self.balance_classes(X_train, y_train)
+        # Balance training data only if more than one class
+        if np.unique(y_train).size > 1:
+            X_train_balanced, y_train_balanced = self.balance_classes(X_train, y_train)
+        else:
+            self.logger.warning("Skipping SMOTE because training data has a single class.")
+            X_train_balanced, y_train_balanced = X_train, y_train
         
         return {
             'X_train': X_train_balanced,

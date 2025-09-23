@@ -1,0 +1,660 @@
+2025-09-23 15:23:16,414 - root - WARNING - No GPU available. Using CPU.
+2025-09-23 15:23:16,415 - root - INFO - Downloading GenBank files
+2025-09-23 15:23:16,415 - data.downloader - INFO - Downloading batch 1/30 (10 accessions)
+2025-09-23 15:23:16,416 - data.downloader - INFO - Fetching records: Z49258, X73428, X66114, X14487, X64467, X01392, X04898, X01038, X05151, X52150
+2025-09-23 15:23:19,238 - data.downloader - INFO - Saved Z49258.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z49258.1.gb
+2025-09-23 15:23:19,240 - data.downloader - INFO - Saved X73428.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X73428.1.gb
+2025-09-23 15:23:19,244 - data.downloader - INFO - Saved X66114.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X66114.1.gb
+2025-09-23 15:23:19,250 - data.downloader - INFO - Saved X14487.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14487.1.gb
+2025-09-23 15:23:19,263 - data.downloader - INFO - Saved X64467.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X64467.1.gb
+2025-09-23 15:23:19,298 - data.downloader - INFO - Saved X01392.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X01392.1.gb
+2025-09-23 15:23:19,307 - data.downloader - INFO - Saved X04898.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X04898.1.gb
+2025-09-23 15:23:19,313 - data.downloader - INFO - Saved X01038.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X01038.1.gb
+2025-09-23 15:23:19,323 - data.downloader - INFO - Saved X05151.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X05151.1.gb
+2025-09-23 15:23:19,328 - data.downloader - INFO - Saved X52150.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52150.1.gb
+2025-09-23 15:23:20,333 - data.downloader - INFO - Downloading batch 2/30 (10 accessions)
+2025-09-23 15:23:20,334 - data.downloader - INFO - Fetching records: X63600, X68793, X69907, X72861, X12706, X04143, Y00081, X54486, X52889, X06882
+2025-09-23 15:23:22,681 - data.downloader - INFO - Saved X63600.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X63600.1.gb
+2025-09-23 15:23:22,684 - data.downloader - INFO - Saved X68793.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X68793.1.gb
+2025-09-23 15:23:22,689 - data.downloader - INFO - Saved X69907.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X69907.1.gb
+2025-09-23 15:23:22,715 - data.downloader - INFO - Saved X72861.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X72861.1.gb
+2025-09-23 15:23:22,728 - data.downloader - INFO - Saved X12706.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X12706.1.gb
+2025-09-23 15:23:22,730 - data.downloader - INFO - Saved X04143.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X04143.1.gb
+2025-09-23 15:23:22,733 - data.downloader - INFO - Saved Y00081.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00081.1.gb
+2025-09-23 15:23:22,738 - data.downloader - INFO - Saved X54486.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X54486.1.gb
+2025-09-23 15:23:22,747 - data.downloader - INFO - Saved X52889.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52889.1.gb
+2025-09-23 15:23:22,748 - data.downloader - INFO - Saved X06882.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X06882.1.gb
+2025-09-23 15:23:23,749 - data.downloader - INFO - Downloading batch 3/30 (10 accessions)
+2025-09-23 15:23:23,749 - data.downloader - INFO - Fetching records: X14974, X06180, X15334, X57152, Z26491, X62891, X52851, X14720, X52255, Z18859
+2025-09-23 15:23:26,107 - data.downloader - INFO - Saved X14974.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14974.1.gb
+2025-09-23 15:23:26,108 - data.downloader - INFO - Saved X06180.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X06180.1.gb
+2025-09-23 15:23:26,110 - data.downloader - INFO - Saved X15334.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X15334.1.gb
+2025-09-23 15:23:26,112 - data.downloader - INFO - Saved X57152.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X57152.1.gb
+2025-09-23 15:23:26,129 - data.downloader - INFO - Saved Z26491.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z26491.1.gb
+2025-09-23 15:23:26,147 - data.downloader - INFO - Saved X62891.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X62891.1.gb
+2025-09-23 15:23:26,152 - data.downloader - INFO - Saved X52851.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52851.1.gb
+2025-09-23 15:23:26,161 - data.downloader - INFO - Saved X14720.7 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14720.7.gb
+2025-09-23 15:23:26,164 - data.downloader - INFO - Saved X52255.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52255.1.gb
+2025-09-23 15:23:26,170 - data.downloader - INFO - Saved Z18859.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z18859.1.gb
+2025-09-23 15:23:27,171 - data.downloader - INFO - Downloading batch 4/30 (10 accessions)
+2025-09-23 15:23:27,172 - data.downloader - INFO - Fetching records: X68303, X02612, X78212, X84707, Z46254, X15215, X79198, Z48950, X76776, X02882
+2025-09-23 15:23:29,632 - data.downloader - INFO - Saved X68303.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X68303.1.gb
+2025-09-23 15:23:29,634 - data.downloader - INFO - Saved X02612.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X02612.1.gb
+2025-09-23 15:23:29,639 - data.downloader - INFO - Saved X78212.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X78212.1.gb
+2025-09-23 15:23:29,641 - data.downloader - INFO - Saved X84707.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X84707.1.gb
+2025-09-23 15:23:29,643 - data.downloader - INFO - Saved Z46254.0 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z46254.0.gb
+2025-09-23 15:23:29,647 - data.downloader - INFO - Saved X15215.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X15215.1.gb
+2025-09-23 15:23:29,661 - data.downloader - INFO - Saved X79198.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X79198.1.gb
+2025-09-23 15:23:29,665 - data.downloader - INFO - Saved Z48950.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z48950.1.gb
+2025-09-23 15:23:29,678 - data.downloader - INFO - Saved X76776.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X76776.1.gb
+2025-09-23 15:23:29,681 - data.downloader - INFO - Saved X02882.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X02882.1.gb
+2025-09-23 15:23:30,682 - data.downloader - INFO - Downloading batch 5/30 (10 accessions)
+2025-09-23 15:23:30,683 - data.downloader - INFO - Fetching records: X00492, X61755, Y00371, X60459, V00536, Z00010, X00695, X03833, X04500, X64532
+2025-09-23 15:23:33,198 - data.downloader - INFO - Saved X00492.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X00492.1.gb
+2025-09-23 15:23:33,201 - data.downloader - INFO - Saved X61755.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X61755.1.gb
+2025-09-23 15:23:33,206 - data.downloader - INFO - Saved Y00371.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00371.1.gb
+2025-09-23 15:23:33,217 - data.downloader - INFO - Saved X60459.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60459.1.gb
+2025-09-23 15:23:33,226 - data.downloader - INFO - Saved V00536.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V00536.1.gb
+2025-09-23 15:23:33,234 - data.downloader - INFO - Saved Z00010.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z00010.1.gb
+2025-09-23 15:23:33,244 - data.downloader - INFO - Saved X00695.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X00695.1.gb
+2025-09-23 15:23:33,255 - data.downloader - INFO - Saved X03833.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X03833.1.gb
+2025-09-23 15:23:33,260 - data.downloader - INFO - Saved X04500.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X04500.1.gb
+2025-09-23 15:23:33,264 - data.downloader - INFO - Saved X64532.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X64532.1.gb
+2025-09-23 15:23:34,265 - data.downloader - INFO - Downloading batch 6/30 (10 accessions)
+2025-09-23 15:23:34,265 - data.downloader - INFO - Fetching records: V00565, X03072, X14445, X52138, X04981, X62654, Y00477, X54489, Z14977, Z48051
+2025-09-23 15:23:36,996 - data.downloader - INFO - Saved V00565.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V00565.1.gb
+2025-09-23 15:23:36,997 - data.downloader - INFO - Saved X03072.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X03072.1.gb
+2025-09-23 15:23:36,999 - data.downloader - INFO - Saved X14445.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14445.1.gb
+2025-09-23 15:23:37,001 - data.downloader - INFO - Saved X52138.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52138.1.gb
+2025-09-23 15:23:37,004 - data.downloader - INFO - Saved X04981.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X04981.1.gb
+2025-09-23 15:23:37,006 - data.downloader - INFO - Saved X62654.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X62654.1.gb
+2025-09-23 15:23:37,010 - data.downloader - INFO - Saved Y00477.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00477.1.gb
+2025-09-23 15:23:37,011 - data.downloader - INFO - Saved X54489.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X54489.1.gb
+2025-09-23 15:23:37,020 - data.downloader - INFO - Saved Z14977.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z14977.1.gb
+2025-09-23 15:23:37,024 - data.downloader - INFO - Saved Z48051.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z48051.1.gb
+2025-09-23 15:23:38,029 - data.downloader - INFO - Downloading batch 7/30 (10 accessions)
+2025-09-23 15:23:38,030 - data.downloader - INFO - Fetching records: Z33457, Z29373, Y00067, X16277, X74614, X54156, X69438, X75755, X07881, X70872
+2025-09-23 15:23:40,451 - data.downloader - INFO - Saved Z33457.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z33457.1.gb
+2025-09-23 15:23:40,455 - data.downloader - INFO - Saved Z29373.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z29373.1.gb
+2025-09-23 15:23:40,459 - data.downloader - INFO - Saved Y00067.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00067.1.gb
+2025-09-23 15:23:40,465 - data.downloader - INFO - Saved X16277.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X16277.1.gb
+2025-09-23 15:23:40,468 - data.downloader - INFO - Saved X74614.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X74614.1.gb
+2025-09-23 15:23:40,479 - data.downloader - INFO - Saved X54156.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X54156.1.gb
+2025-09-23 15:23:40,481 - data.downloader - INFO - Saved X69438.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X69438.1.gb
+2025-09-23 15:23:40,586 - data.downloader - INFO - Saved X75755.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X75755.1.gb
+2025-09-23 15:23:40,594 - data.downloader - INFO - Saved X07881.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X07881.1.gb
+2025-09-23 15:23:40,601 - data.downloader - INFO - Saved X70872.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X70872.1.gb
+2025-09-23 15:23:41,602 - data.downloader - INFO - Downloading batch 8/30 (10 accessions)
+2025-09-23 15:23:41,603 - data.downloader - INFO - Fetching records: X62025, Z23102, U08198, U09954, U12421, U17969, U19765, U19816, U20325, U20499
+2025-09-23 15:23:43,604 - data.downloader - INFO - Saved X62025.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X62025.1.gb
+2025-09-23 15:23:43,606 - data.downloader - INFO - Saved Z23102.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z23102.1.gb
+2025-09-23 15:23:43,608 - data.downloader - INFO - Saved U08198.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U08198.1.gb
+2025-09-23 15:23:43,609 - data.downloader - INFO - Saved U09954.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U09954.1.gb
+2025-09-23 15:23:43,612 - data.downloader - INFO - Saved U12421.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U12421.1.gb
+2025-09-23 15:23:43,615 - data.downloader - INFO - Saved U17969.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U17969.1.gb
+2025-09-23 15:23:43,624 - data.downloader - INFO - Saved U19765.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U19765.1.gb
+2025-09-23 15:23:43,626 - data.downloader - INFO - Saved U19816.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U19816.1.gb
+2025-09-23 15:23:43,627 - data.downloader - INFO - Saved U20325.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U20325.1.gb
+2025-09-23 15:23:43,635 - data.downloader - INFO - Saved U20499.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U20499.1.gb
+2025-09-23 15:23:44,639 - data.downloader - INFO - Downloading batch 9/30 (10 accessions)
+2025-09-23 15:23:44,639 - data.downloader - INFO - Fetching records: U20982, U23143, U23853, U25826, U26425, X56997, X76498, X69953, D25234, K02212
+2025-09-23 15:23:47,042 - data.downloader - INFO - Saved U20982.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U20982.1.gb
+2025-09-23 15:23:47,044 - data.downloader - INFO - Saved U23143.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U23143.1.gb
+2025-09-23 15:23:47,045 - data.downloader - INFO - Saved U23853.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U23853.1.gb
+2025-09-23 15:23:47,048 - data.downloader - INFO - Saved U25826.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U25826.1.gb
+2025-09-23 15:23:47,053 - data.downloader - INFO - Saved U26425.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U26425.1.gb
+2025-09-23 15:23:47,055 - data.downloader - INFO - Saved X56997.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X56997.1.gb
+2025-09-23 15:23:47,057 - data.downloader - INFO - Saved X76498.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X76498.1.gb
+2025-09-23 15:23:47,060 - data.downloader - INFO - Saved X69953.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X69953.1.gb
+2025-09-23 15:23:47,061 - data.downloader - INFO - Saved D25234.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D25234.1.gb
+2025-09-23 15:23:47,068 - data.downloader - INFO - Saved K02212.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K02212.1.gb
+2025-09-23 15:23:48,073 - data.downloader - INFO - Downloading batch 10/30 (10 accessions)
+2025-09-23 15:23:48,073 - data.downloader - INFO - Fetching records: M21540, M10277, M13792, M74493, M16110, M61831, J04809, M63420, K02043, J04982
+2025-09-23 15:23:50,410 - data.downloader - INFO - Saved M21540.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M21540.1.gb
+2025-09-23 15:23:50,412 - data.downloader - INFO - Saved M10277.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M10277.1.gb
+2025-09-23 15:23:50,420 - data.downloader - INFO - Saved M13792.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M13792.1.gb
+2025-09-23 15:23:50,425 - data.downloader - INFO - Saved M74493.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M74493.1.gb
+2025-09-23 15:23:50,440 - data.downloader - INFO - Saved M16110.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M16110.1.gb
+2025-09-23 15:23:50,443 - data.downloader - INFO - Saved M61831.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M61831.1.gb
+2025-09-23 15:23:50,452 - data.downloader - INFO - Saved J04809.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04809.1.gb
+2025-09-23 15:23:50,456 - data.downloader - INFO - Saved M63420.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M63420.1.gb
+2025-09-23 15:23:50,458 - data.downloader - INFO - Saved K02043.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K02043.1.gb
+2025-09-23 15:23:50,461 - data.downloader - INFO - Saved J04982.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04982.1.gb
+2025-09-23 15:23:51,464 - data.downloader - INFO - Downloading batch 11/30 (10 accessions)
+2025-09-23 15:23:51,465 - data.downloader - INFO - Fetching records: M14642, M20902, M10065, J05096, D28126, M27132, M64554, M38180, K01884, M01776
+2025-09-23 15:23:54,119 - data.downloader - INFO - Saved M14642.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M14642.1.gb
+2025-09-23 15:23:54,121 - data.downloader - INFO - Saved M20902.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M20902.1.gb
+2025-09-23 15:23:54,124 - data.downloader - INFO - Saved M10065.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M10065.1.gb
+2025-09-23 15:23:54,130 - data.downloader - INFO - Saved J05096.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J05096.1.gb
+2025-09-23 15:23:54,136 - data.downloader - INFO - Saved D28126.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D28126.1.gb
+2025-09-23 15:23:54,144 - data.downloader - INFO - Saved M27132.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27132.1.gb
+2025-09-23 15:23:54,149 - data.downloader - INFO - Saved M64554.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M64554.1.gb
+2025-09-23 15:23:54,155 - data.downloader - INFO - Saved M38180.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M38180.1.gb
+2025-09-23 15:23:54,156 - data.downloader - INFO - Saved K01884.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K01884.1.gb
+2025-09-23 15:23:55,160 - data.downloader - INFO - Downloading batch 12/30 (10 accessions)
+2025-09-23 15:23:55,160 - data.downloader - INFO - Fetching records: D26535, M27138, J05008, J04617, D13156, L29766, M18079, K02402, L13391, L24498
+2025-09-23 15:23:57,801 - data.downloader - INFO - Saved D26535.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D26535.1.gb
+2025-09-23 15:23:57,804 - data.downloader - INFO - Saved M27138.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27138.1.gb
+2025-09-23 15:23:57,806 - data.downloader - INFO - Saved J05008.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J05008.1.gb
+2025-09-23 15:23:57,809 - data.downloader - INFO - Saved J04617.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04617.1.gb
+2025-09-23 15:23:57,811 - data.downloader - INFO - Saved D13156.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D13156.1.gb
+2025-09-23 15:23:57,819 - data.downloader - INFO - Saved L29766.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L29766.1.gb
+2025-09-23 15:23:57,826 - data.downloader - INFO - Saved M18079.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M18079.1.gb
+2025-09-23 15:23:57,835 - data.downloader - INFO - Saved K02402.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K02402.1.gb
+2025-09-23 15:23:57,838 - data.downloader - INFO - Saved L13391.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L13391.1.gb
+2025-09-23 15:23:57,840 - data.downloader - INFO - Saved L24498.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L24498.1.gb
+2025-09-23 15:23:58,842 - data.downloader - INFO - Downloading batch 13/30 (10 accessions)
+2025-09-23 15:23:58,843 - data.downloader - INFO - Fetching records: L10822, K01254, L36861, J03059, M93280, M91463, M58600, L04132, M21339, M83665
+2025-09-23 15:24:01,134 - data.downloader - INFO - Saved L10822.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L10822.1.gb
+2025-09-23 15:24:01,135 - data.downloader - INFO - Saved K01254.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K01254.1.gb
+2025-09-23 15:24:01,136 - data.downloader - INFO - Saved L36861.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L36861.1.gb
+2025-09-23 15:24:01,139 - data.downloader - INFO - Saved J03059.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J03059.1.gb
+2025-09-23 15:24:01,141 - data.downloader - INFO - Saved M93280 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M93280.gb
+2025-09-23 15:24:01,144 - data.downloader - INFO - Saved M91463.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M91463.1.gb
+2025-09-23 15:24:01,152 - data.downloader - INFO - Saved M58600.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M58600.1.gb
+2025-09-23 15:24:01,157 - data.downloader - INFO - Saved L04132.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L04132.1.gb
+2025-09-23 15:24:01,161 - data.downloader - INFO - Saved M21339.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M21339.1.gb
+2025-09-23 15:24:01,165 - data.downloader - INFO - Saved M83665.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M83665.1.gb
+2025-09-23 15:24:02,169 - data.downloader - INFO - Downloading batch 14/30 (10 accessions)
+2025-09-23 15:24:02,169 - data.downloader - INFO - Fetching records: L17131, M26434, M18006, L39370, M27024, L35485, L05072, L14075, L19546, M23442
+2025-09-23 15:24:05,031 - data.downloader - INFO - Saved L17131.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L17131.1.gb
+2025-09-23 15:24:05,046 - data.downloader - INFO - Saved M26434.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M26434.1.gb
+2025-09-23 15:24:05,047 - data.downloader - INFO - Saved M18006.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M18006.1.gb
+2025-09-23 15:24:05,049 - data.downloader - INFO - Saved L39370.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L39370.1.gb
+2025-09-23 15:24:05,054 - data.downloader - INFO - Saved M27024.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27024.1.gb
+2025-09-23 15:24:05,060 - data.downloader - INFO - Saved L35485.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L35485.1.gb
+2025-09-23 15:24:05,063 - data.downloader - INFO - Saved L05072.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L05072.1.gb
+2025-09-23 15:24:05,073 - data.downloader - INFO - Saved L14075.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L14075.1.gb
+2025-09-23 15:24:05,078 - data.downloader - INFO - Saved L19546.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L19546.1.gb
+2025-09-23 15:24:05,080 - data.downloader - INFO - Saved M23442.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M23442.1.gb
+2025-09-23 15:24:06,082 - data.downloader - INFO - Downloading batch 15/30 (10 accessions)
+2025-09-23 15:24:06,082 - data.downloader - INFO - Fetching records: L39064, L33842, J05253, D16583, M22638, L11016, M37719, D49493, J04718, D90084
+2025-09-23 15:24:08,494 - data.downloader - INFO - Saved L39064.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L39064.1.gb
+2025-09-23 15:24:08,501 - data.downloader - INFO - Saved L33842.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L33842.1.gb
+2025-09-23 15:24:08,509 - data.downloader - INFO - Saved J05253.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J05253.1.gb
+2025-09-23 15:24:08,534 - data.downloader - INFO - Saved D16583.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D16583.1.gb
+2025-09-23 15:24:08,541 - data.downloader - INFO - Saved M22638.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M22638.1.gb
+2025-09-23 15:24:08,568 - data.downloader - INFO - Saved L11016.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L11016.1.gb
+2025-09-23 15:24:08,592 - data.downloader - INFO - Saved M37719.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M37719.1.gb
+2025-09-23 15:24:08,618 - data.downloader - INFO - Saved D49493.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D49493.1.gb
+2025-09-23 15:24:08,644 - data.downloader - INFO - Saved J04718.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04718.1.gb
+2025-09-23 15:24:08,670 - data.downloader - INFO - Saved D90084.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D90084.1.gb
+2025-09-23 15:24:09,680 - data.downloader - INFO - Downloading batch 16/30 (10 accessions)
+2025-09-23 15:24:09,680 - data.downloader - INFO - Fetching records: L25648, J05073, L12760, M27903, L39891, M11726, M31951, M30838, J00301, L34219
+2025-09-23 15:24:11,973 - data.downloader - INFO - Saved L25648.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L25648.1.gb
+2025-09-23 15:24:11,979 - data.downloader - INFO - Saved J05073.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J05073.1.gb
+2025-09-23 15:24:11,990 - data.downloader - INFO - Saved L12760.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L12760.1.gb
+2025-09-23 15:24:11,994 - data.downloader - INFO - Saved M27903.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27903.1.gb
+2025-09-23 15:24:12,017 - data.downloader - INFO - Saved L39891.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L39891.1.gb
+2025-09-23 15:24:12,019 - data.downloader - INFO - Saved M11726.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M11726.1.gb
+2025-09-23 15:24:12,023 - data.downloader - INFO - Saved M31951.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M31951.1.gb
+2025-09-23 15:24:12,030 - data.downloader - INFO - Saved M30838.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M30838.1.gb
+2025-09-23 15:24:12,034 - data.downloader - INFO - Saved J00301.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J00301.1.gb
+2025-09-23 15:24:12,039 - data.downloader - INFO - Saved L34219.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L34219.1.gb
+2025-09-23 15:24:13,040 - data.downloader - INFO - Downloading batch 17/30 (10 accessions)
+2025-09-23 15:24:13,040 - data.downloader - INFO - Fetching records: D00591, L11910, M32405, M89796, M96759, M18000, M81650, J00306, M24461, M64231
+2025-09-23 15:24:16,795 - data.downloader - INFO - Saved D00591.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D00591.1.gb
+2025-09-23 15:24:16,846 - data.downloader - INFO - Saved L11910.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L11910.1.gb
+2025-09-23 15:24:16,850 - data.downloader - INFO - Saved M32405.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M32405.1.gb
+2025-09-23 15:24:16,863 - data.downloader - INFO - Saved M89796.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M89796.1.gb
+2025-09-23 15:24:16,867 - data.downloader - INFO - Saved M96759.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M96759.1.gb
+2025-09-23 15:24:16,874 - data.downloader - INFO - Saved M18000.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M18000.1.gb
+2025-09-23 15:24:16,877 - data.downloader - INFO - Saved M81650.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M81650.1.gb
+2025-09-23 15:24:16,881 - data.downloader - INFO - Saved J00306.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J00306.1.gb
+2025-09-23 15:24:16,889 - data.downloader - INFO - Saved M24461.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M24461.1.gb
+2025-09-23 15:24:16,893 - data.downloader - INFO - Saved M64231.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M64231.1.gb
+2025-09-23 15:24:17,903 - data.downloader - INFO - Downloading batch 18/30 (10 accessions)
+2025-09-23 15:24:17,911 - data.downloader - INFO - Fetching records: M32639, D32046, L13470, M96955, J02846, M11749, M59924, K03021, L14927, M37984
+2025-09-23 15:24:20,971 - data.downloader - INFO - Saved M32639.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M32639.1.gb
+2025-09-23 15:24:20,974 - data.downloader - INFO - Saved D32046.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D32046.1.gb
+2025-09-23 15:24:20,981 - data.downloader - INFO - Saved L13470.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L13470.1.gb
+2025-09-23 15:24:20,989 - data.downloader - INFO - Saved M96955.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M96955.1.gb
+2025-09-23 15:24:20,993 - data.downloader - INFO - Saved J02846.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J02846.1.gb
+2025-09-23 15:24:21,004 - data.downloader - INFO - Saved M11749.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M11749.1.gb
+2025-09-23 15:24:21,007 - data.downloader - INFO - Saved M59924.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M59924.1.gb
+2025-09-23 15:24:21,025 - data.downloader - INFO - Saved K03021.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K03021.1.gb
+2025-09-23 15:24:21,029 - data.downloader - INFO - Saved L14927.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L14927.1.gb
+2025-09-23 15:24:21,033 - data.downloader - INFO - Saved M37984.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M37984.1.gb
+2025-09-23 15:24:22,056 - data.downloader - INFO - Downloading batch 19/30 (10 accessions)
+2025-09-23 15:24:22,057 - data.downloader - INFO - Fetching records: D00596, M21024, J03589, M73255, X57436, X80536, X14672, X65633, X63128, X66503
+2025-09-23 15:24:24,024 - data.downloader - INFO - Saved D00596.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D00596.1.gb
+2025-09-23 15:24:24,029 - data.downloader - INFO - Saved M21024.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M21024.1.gb
+2025-09-23 15:24:24,034 - data.downloader - INFO - Saved J03589.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J03589.1.gb
+2025-09-23 15:24:24,038 - data.downloader - INFO - Saved M73255.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M73255.1.gb
+2025-09-23 15:24:24,040 - data.downloader - INFO - Saved X57436.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X57436.1.gb
+2025-09-23 15:24:24,044 - data.downloader - INFO - Saved X80536.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X80536.1.gb
+2025-09-23 15:24:24,050 - data.downloader - INFO - Saved X14672.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14672.1.gb
+2025-09-23 15:24:24,054 - data.downloader - INFO - Saved X65633.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X65633.1.gb
+2025-09-23 15:24:24,058 - data.downloader - INFO - Saved X63128.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X63128.1.gb
+2025-09-23 15:24:24,060 - data.downloader - INFO - Saved X66503.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X66503.1.gb
+2025-09-23 15:24:25,092 - data.downloader - INFO - Downloading batch 20/30 (10 accessions)
+2025-09-23 15:24:25,095 - data.downloader - INFO - Fetching records: Z11162, Y00106, X52473, V01511, X68790, X65784, X55039, Z25587, X70251, X60542
+2025-09-23 15:24:26,900 - data.downloader - INFO - Saved Z11162.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z11162.1.gb
+2025-09-23 15:24:26,902 - data.downloader - INFO - Saved Y00106.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00106.1.gb
+2025-09-23 15:24:26,904 - data.downloader - INFO - Saved X52473.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52473.1.gb
+2025-09-23 15:24:26,909 - data.downloader - INFO - Saved V01511.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V01511.1.gb
+2025-09-23 15:24:26,911 - data.downloader - INFO - Saved X68790.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X68790.1.gb
+2025-09-23 15:24:26,913 - data.downloader - INFO - Saved X65784.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X65784.1.gb
+2025-09-23 15:24:26,916 - data.downloader - INFO - Saved X55039.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55039.1.gb
+2025-09-23 15:24:26,919 - data.downloader - INFO - Saved Z25587.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z25587.1.gb
+2025-09-23 15:24:26,921 - data.downloader - INFO - Saved X70251.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X70251.1.gb
+2025-09-23 15:24:26,922 - data.downloader - INFO - Saved X60542.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60542.1.gb
+2025-09-23 15:24:27,927 - data.downloader - INFO - Downloading batch 21/30 (10 accessions)
+2025-09-23 15:24:27,928 - data.downloader - INFO - Fetching records: X60382, X55545, X55760, X62421, X68302, X12794, X16545, X55741, X80915, X66310
+2025-09-23 15:24:29,884 - data.downloader - INFO - Saved X60382.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60382.1.gb
+2025-09-23 15:24:29,886 - data.downloader - INFO - Saved X55545.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55545.1.gb
+2025-09-23 15:24:29,887 - data.downloader - INFO - Saved X55760.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55760.1.gb
+2025-09-23 15:24:29,890 - data.downloader - INFO - Saved X62421.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X62421.1.gb
+2025-09-23 15:24:29,893 - data.downloader - INFO - Saved X68302.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X68302.1.gb
+2025-09-23 15:24:29,894 - data.downloader - INFO - Saved X12794.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X12794.1.gb
+2025-09-23 15:24:29,896 - data.downloader - INFO - Saved X16545.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X16545.1.gb
+2025-09-23 15:24:29,898 - data.downloader - INFO - Saved X55741.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55741.1.gb
+2025-09-23 15:24:29,900 - data.downloader - INFO - Saved X80915.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X80915.1.gb
+2025-09-23 15:24:29,902 - data.downloader - INFO - Saved X66310.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X66310.1.gb
+2025-09-23 15:24:30,907 - data.downloader - INFO - Downloading batch 22/30 (10 accessions)
+2025-09-23 15:24:30,908 - data.downloader - INFO - Fetching records: Z23091, X57130, X57127, X60481, X65858, X63337, X64994, X64995, X03473, X76786
+2025-09-23 15:24:32,874 - data.downloader - INFO - Saved Z23091.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z23091.1.gb
+2025-09-23 15:24:32,876 - data.downloader - INFO - Saved X57130.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X57130.1.gb
+2025-09-23 15:24:32,878 - data.downloader - INFO - Saved X57127.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X57127.1.gb
+2025-09-23 15:24:32,882 - data.downloader - INFO - Saved X60481.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60481.1.gb
+2025-09-23 15:24:32,885 - data.downloader - INFO - Saved X65858.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X65858.1.gb
+2025-09-23 15:24:32,886 - data.downloader - INFO - Saved X63337.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X63337.1.gb
+2025-09-23 15:24:32,892 - data.downloader - INFO - Saved X64994.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X64994.1.gb
+2025-09-23 15:24:32,894 - data.downloader - INFO - Saved X64995.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X64995.1.gb
+2025-09-23 15:24:32,895 - data.downloader - INFO - Saved X03473.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X03473.1.gb
+2025-09-23 15:24:32,901 - data.downloader - INFO - Saved X76786.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X76786.1.gb
+2025-09-23 15:24:33,905 - data.downloader - INFO - Downloading batch 23/30 (10 accessions)
+2025-09-23 15:24:33,906 - data.downloader - INFO - Fetching records: X00089, X15265, V00532, X55293, X52560, X60201, Z11901, X12458, X73424, V00571
+2025-09-23 15:24:35,958 - data.downloader - INFO - Saved X00089.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X00089.1.gb
+2025-09-23 15:24:35,960 - data.downloader - INFO - Saved X15265.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X15265.1.gb
+2025-09-23 15:24:35,962 - data.downloader - INFO - Saved V00532.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V00532.1.gb
+2025-09-23 15:24:35,965 - data.downloader - INFO - Saved X55293.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55293.1.gb
+2025-09-23 15:24:35,968 - data.downloader - INFO - Saved X52560.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52560.1.gb
+2025-09-23 15:24:35,970 - data.downloader - INFO - Saved X60201.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60201.1.gb
+2025-09-23 15:24:35,973 - data.downloader - INFO - Saved Z11901.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z11901.1.gb
+2025-09-23 15:24:35,978 - data.downloader - INFO - Saved X12458.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X12458.1.gb
+2025-09-23 15:24:35,981 - data.downloader - INFO - Saved X73424.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X73424.1.gb
+2025-09-23 15:24:35,983 - data.downloader - INFO - Saved V00571.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V00571.1.gb
+2025-09-23 15:24:36,984 - data.downloader - INFO - Downloading batch 24/30 (10 accessions)
+2025-09-23 15:24:36,985 - data.downloader - INFO - Fetching records: X05246, X13556, X83416, X53065, X79235, Z27113, X52259, X52075, X71135, X82554
+2025-09-23 15:24:39,050 - data.downloader - INFO - Saved X05246.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X05246.1.gb
+2025-09-23 15:24:39,052 - data.downloader - INFO - Saved X13556.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X13556.1.gb
+2025-09-23 15:24:39,053 - data.downloader - INFO - Saved X83416.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X83416.1.gb
+2025-09-23 15:24:39,055 - data.downloader - INFO - Saved X79235.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X79235.1.gb
+2025-09-23 15:24:39,061 - data.downloader - INFO - Saved Z27113.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z27113.1.gb
+2025-09-23 15:24:39,063 - data.downloader - INFO - Saved X52259.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52259.1.gb
+2025-09-23 15:24:39,069 - data.downloader - INFO - Saved X52075.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52075.1.gb
+2025-09-23 15:24:39,072 - data.downloader - INFO - Saved X71135.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X71135.1.gb
+2025-09-23 15:24:39,075 - data.downloader - INFO - Saved X82554.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X82554.1.gb
+2025-09-23 15:24:40,080 - data.downloader - INFO - Downloading batch 25/30 (10 accessions)
+2025-09-23 15:24:40,081 - data.downloader - INFO - Fetching records: X55543, X73534, X82676, U01212, U03486, U03735, U10116, U10273, U10360, U10554
+2025-09-23 15:24:42,418 - data.downloader - INFO - Saved X55543.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55543.1.gb
+2025-09-23 15:24:42,421 - data.downloader - INFO - Saved X73534.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X73534.1.gb
+2025-09-23 15:24:42,446 - data.downloader - INFO - Saved X82676.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X82676.1.gb
+2025-09-23 15:24:42,473 - data.downloader - INFO - Saved U01212.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U01212.1.gb
+2025-09-23 15:24:42,501 - data.downloader - INFO - Saved U03486.2 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U03486.2.gb
+2025-09-23 15:24:42,511 - data.downloader - INFO - Saved U03735.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U03735.1.gb
+2025-09-23 15:24:42,588 - data.downloader - INFO - Saved U10116.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U10116.1.gb
+2025-09-23 15:24:42,603 - data.downloader - INFO - Saved U10273.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U10273.1.gb
+2025-09-23 15:24:42,624 - data.downloader - INFO - Saved U10360.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U10360.1.gb
+2025-09-23 15:24:42,645 - data.downloader - INFO - Saved U10554.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U10554.1.gb
+2025-09-23 15:24:43,650 - data.downloader - INFO - Downloading batch 26/30 (10 accessions)
+2025-09-23 15:24:43,653 - data.downloader - INFO - Fetching records: U11424, U13666, U13695, U16812, U17894, U18548, U20734, U21051, U22346, L10381
+2025-09-23 15:24:45,734 - data.downloader - INFO - Saved U11424.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U11424.1.gb
+2025-09-23 15:24:45,736 - data.downloader - INFO - Saved U13666.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U13666.1.gb
+2025-09-23 15:24:45,737 - data.downloader - INFO - Saved U13695.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U13695.1.gb
+2025-09-23 15:24:45,739 - data.downloader - INFO - Saved U16812.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U16812.1.gb
+2025-09-23 15:24:45,744 - data.downloader - INFO - Saved U17894.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U17894.1.gb
+2025-09-23 15:24:45,746 - data.downloader - INFO - Saved U18548.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U18548.1.gb
+2025-09-23 15:24:45,752 - data.downloader - INFO - Saved U20734.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U20734.1.gb
+2025-09-23 15:24:45,754 - data.downloader - INFO - Saved U21051.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U21051.1.gb
+2025-09-23 15:24:45,759 - data.downloader - INFO - Saved U22346.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U22346.1.gb
+2025-09-23 15:24:45,761 - data.downloader - INFO - Saved L10381.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L10381.1.gb
+2025-09-23 15:24:46,767 - data.downloader - INFO - Downloading batch 27/30 (10 accessions)
+2025-09-23 15:24:46,767 - data.downloader - INFO - Fetching records: D13538, L19704, M11567, L18972, L37019, M35160, M27394, M90355, M90356, M92269
+2025-09-23 15:24:48,777 - data.downloader - INFO - Saved D13538.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D13538.1.gb
+2025-09-23 15:24:48,780 - data.downloader - INFO - Saved L19704.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L19704.1.gb
+2025-09-23 15:24:48,782 - data.downloader - INFO - Saved M11567.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M11567.1.gb
+2025-09-23 15:24:48,792 - data.downloader - INFO - Saved L18972.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L18972.1.gb
+2025-09-23 15:24:48,793 - data.downloader - INFO - Saved L37019.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L37019.1.gb
+2025-09-23 15:24:48,795 - data.downloader - INFO - Saved M35160.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M35160.1.gb
+2025-09-23 15:24:48,796 - data.downloader - INFO - Saved M27394.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27394.1.gb
+2025-09-23 15:24:48,797 - data.downloader - INFO - Saved M90355.2 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M90355.2.gb
+2025-09-23 15:24:48,799 - data.downloader - INFO - Saved M90356.2 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M90356.2.gb
+2025-09-23 15:24:48,811 - data.downloader - INFO - Saved M92269.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M92269.1.gb
+2025-09-23 15:24:49,815 - data.downloader - INFO - Downloading batch 28/30 (10 accessions)
+2025-09-23 15:24:49,816 - data.downloader - INFO - Fetching records: M31423, J00119, L15296, M28170, M14333, L35240, M60119, M90439, M55267, M60830
+2025-09-23 15:24:51,934 - data.downloader - INFO - Saved M31423.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M31423.1.gb
+2025-09-23 15:24:51,940 - data.downloader - INFO - Saved J00119.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J00119.1.gb
+2025-09-23 15:24:51,951 - data.downloader - INFO - Saved L15296.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L15296.1.gb
+2025-09-23 15:24:51,960 - data.downloader - INFO - Saved M28170.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M28170.1.gb
+2025-09-23 15:24:51,968 - data.downloader - INFO - Saved M14333.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M14333.1.gb
+2025-09-23 15:24:51,977 - data.downloader - INFO - Saved L35240.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L35240.1.gb
+2025-09-23 15:24:51,990 - data.downloader - INFO - Saved M60119.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M60119.1.gb
+2025-09-23 15:24:51,995 - data.downloader - INFO - Saved M90439.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M90439.1.gb
+2025-09-23 15:24:52,017 - data.downloader - INFO - Saved M55267.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M55267.1.gb
+2025-09-23 15:24:52,036 - data.downloader - INFO - Saved M60830.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M60830.1.gb
+2025-09-23 15:24:53,037 - data.downloader - INFO - Downloading batch 29/30 (10 accessions)
+2025-09-23 15:24:53,037 - data.downloader - INFO - Fetching records: L10820, D16826, M69199, J04152, M86522, M16514, M22403, M80478, L36149, M60094
+2025-09-23 15:24:54,913 - data.downloader - INFO - Saved L10820.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L10820.1.gb
+2025-09-23 15:24:54,915 - data.downloader - INFO - Saved D16826.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D16826.1.gb
+2025-09-23 15:24:54,918 - data.downloader - INFO - Saved M69199.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M69199.1.gb
+2025-09-23 15:24:54,921 - data.downloader - INFO - Saved J04152.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04152.1.gb
+2025-09-23 15:24:54,923 - data.downloader - INFO - Saved M86522.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M86522.1.gb
+2025-09-23 15:24:54,924 - data.downloader - INFO - Saved M16514.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M16514.1.gb
+2025-09-23 15:24:54,927 - data.downloader - INFO - Saved M22403.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M22403.1.gb
+2025-09-23 15:24:54,937 - data.downloader - INFO - Saved M80478.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M80478.1.gb
+2025-09-23 15:24:54,938 - data.downloader - INFO - Saved L36149.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L36149.1.gb
+2025-09-23 15:24:54,939 - data.downloader - INFO - Saved M60094.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M60094.1.gb
+2025-09-23 15:24:55,944 - data.downloader - INFO - Downloading batch 30/30 (5 accessions)
+2025-09-23 15:24:55,945 - data.downloader - INFO - Fetching records: M97508, M64799, D29685, M22005, M26685
+2025-09-23 15:24:57,676 - data.downloader - INFO - Saved M97508.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M97508.1.gb
+2025-09-23 15:24:57,678 - data.downloader - INFO - Saved M64799.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M64799.1.gb
+2025-09-23 15:24:57,679 - data.downloader - INFO - Saved D29685.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D29685.1.gb
+2025-09-23 15:24:57,680 - data.downloader - INFO - Saved M22005.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M22005.1.gb
+2025-09-23 15:24:57,681 - data.downloader - INFO - Saved M26685.1 to /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M26685.1.gb
+2025-09-23 15:24:58,684 - root - INFO - Downloaded 293 GenBank files
+2025-09-23 15:24:58,685 - root - INFO - Extracting sequences from GenBank files
+2025-09-23 15:24:58,747 - data.extractor - INFO - Extracted 727 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z49258.1.gb (pos=38, neg=689)
+2025-09-23 15:24:58,752 - data.extractor - INFO - Extracted 48 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X73428.1.gb (pos=18, neg=30)
+2025-09-23 15:24:58,765 - data.extractor - INFO - Extracted 49 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X66114.1.gb (pos=21, neg=28)
+2025-09-23 15:24:58,779 - data.extractor - INFO - Extracted 128 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14487.1.gb (pos=44, neg=84)
+2025-09-23 15:24:58,894 - data.extractor - INFO - Extracted 317 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X64467.1.gb (pos=27, neg=290)
+2025-09-23 15:24:58,900 - data.extractor - INFO - Extracted 120 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X01392.1.gb (pos=11, neg=109)
+2025-09-23 15:24:58,913 - data.extractor - INFO - Extracted 66 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X04898.1.gb (pos=10, neg=56)
+2025-09-23 15:24:58,917 - data.extractor - INFO - Extracted 43 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X01038.1.gb (pos=18, neg=25)
+2025-09-23 15:24:58,923 - data.extractor - INFO - Extracted 75 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X05151.1.gb (pos=10, neg=65)
+2025-09-23 15:24:58,928 - data.extractor - INFO - Extracted 71 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52150.1.gb (pos=41, neg=30)
+2025-09-23 15:24:58,936 - data.extractor - INFO - Extracted 85 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X63600.1.gb (pos=38, neg=47)
+2025-09-23 15:24:58,947 - data.extractor - INFO - Extracted 283 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X68793.1.gb (pos=30, neg=253)
+2025-09-23 15:24:58,957 - data.extractor - INFO - Extracted 188 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X69907.1.gb (pos=12, neg=176)
+2025-09-23 15:24:58,962 - data.extractor - INFO - Extracted 72 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X72861.1.gb (pos=41, neg=31)
+2025-09-23 15:24:58,967 - data.extractor - INFO - Extracted 63 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X12706.1.gb (pos=7, neg=56)
+2025-09-23 15:24:58,969 - data.extractor - INFO - Extracted 32 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X04143.1.gb (pos=6, neg=26)
+2025-09-23 15:24:58,976 - data.extractor - INFO - Extracted 118 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00081.1.gb (pos=13, neg=105)
+2025-09-23 15:24:58,996 - data.extractor - INFO - Extracted 372 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X54486.1.gb (pos=35, neg=337)
+2025-09-23 15:24:59,020 - data.extractor - INFO - Extracted 499 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52889.1.gb (pos=115, neg=384)
+2025-09-23 15:24:59,024 - data.extractor - INFO - Extracted 30 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X06882.1.gb (pos=28, neg=2)
+2025-09-23 15:24:59,032 - data.extractor - INFO - Extracted 125 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14974.1.gb (pos=35, neg=90)
+2025-09-23 15:24:59,034 - data.extractor - INFO - Extracted 32 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X06180.1.gb (pos=14, neg=18)
+2025-09-23 15:24:59,042 - data.extractor - INFO - Extracted 83 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X15334.1.gb (pos=31, neg=52)
+2025-09-23 15:24:59,065 - data.extractor - INFO - Extracted 117 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X57152.1.gb (pos=24, neg=93)
+2025-09-23 15:24:59,072 - data.extractor - INFO - Extracted 72 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z26491.1.gb (pos=25, neg=47)
+2025-09-23 15:24:59,078 - data.extractor - INFO - Extracted 69 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X62891.1.gb (pos=11, neg=58)
+2025-09-23 15:24:59,085 - data.extractor - INFO - Extracted 133 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52851.1.gb (pos=15, neg=118)
+2025-09-23 15:24:59,104 - data.extractor - INFO - Extracted 701 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14720.7.gb (pos=64, neg=637)
+2025-09-23 15:24:59,112 - data.extractor - INFO - Extracted 144 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52255.1.gb (pos=15, neg=129)
+2025-09-23 15:24:59,120 - data.extractor - INFO - Extracted 198 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z18859.1.gb (pos=30, neg=168)
+2025-09-23 15:24:59,130 - data.extractor - INFO - Extracted 166 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X68303.1.gb (pos=26, neg=140)
+2025-09-23 15:24:59,135 - data.extractor - INFO - Extracted 159 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X02612.1.gb (pos=30, neg=129)
+2025-09-23 15:24:59,142 - data.extractor - INFO - Extracted 197 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X78212.1.gb (pos=50, neg=147)
+2025-09-23 15:24:59,147 - data.extractor - INFO - Extracted 70 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X84707.1.gb (pos=11, neg=59)
+2025-09-23 15:24:59,153 - data.extractor - INFO - Extracted 42 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z46254.0.gb (pos=7, neg=35)
+2025-09-23 15:24:59,163 - data.extractor - INFO - Extracted 143 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X15215.1.gb (pos=12, neg=131)
+2025-09-23 15:24:59,240 - data.extractor - INFO - Extracted 354 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X79198.1.gb (pos=156, neg=198)
+2025-09-23 15:24:59,251 - data.extractor - INFO - Extracted 64 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z48950.1.gb (pos=33, neg=31)
+2025-09-23 15:24:59,307 - data.extractor - INFO - Extracted 137 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X76776.1.gb (pos=20, neg=117)
+2025-09-23 15:24:59,318 - data.extractor - INFO - Extracted 112 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X02882.1.gb (pos=19, neg=93)
+2025-09-23 15:24:59,327 - data.extractor - INFO - Extracted 73 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X00492.1.gb (pos=20, neg=53)
+2025-09-23 15:24:59,344 - data.extractor - INFO - Extracted 98 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X61755.1.gb (pos=32, neg=66)
+2025-09-23 15:24:59,354 - data.extractor - INFO - Extracted 107 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00371.1.gb (pos=41, neg=66)
+2025-09-23 15:24:59,389 - data.extractor - INFO - Extracted 657 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60459.1.gb (pos=64, neg=593)
+2025-09-23 15:24:59,398 - data.extractor - INFO - Extracted 118 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V00536.1.gb (pos=25, neg=93)
+2025-09-23 15:24:59,401 - data.extractor - INFO - Extracted 46 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z00010.1.gb (pos=7, neg=39)
+2025-09-23 15:24:59,411 - data.extractor - INFO - Extracted 132 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X00695.1.gb (pos=8, neg=124)
+2025-09-23 15:24:59,426 - data.extractor - INFO - Extracted 238 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X03833.1.gb (pos=38, neg=200)
+2025-09-23 15:24:59,447 - data.extractor - INFO - Extracted 193 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X04500.1.gb (pos=31, neg=162)
+2025-09-23 15:24:59,457 - data.extractor - INFO - Extracted 250 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X64532.1.gb (pos=33, neg=217)
+2025-09-23 15:24:59,463 - data.extractor - INFO - Extracted 98 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V00565.1.gb (pos=7, neg=91)
+2025-09-23 15:24:59,470 - data.extractor - INFO - Extracted 89 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X03072.1.gb (pos=23, neg=66)
+2025-09-23 15:24:59,482 - data.extractor - INFO - Extracted 231 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14445.1.gb (pos=22, neg=209)
+2025-09-23 15:24:59,486 - data.extractor - INFO - Extracted 109 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52138.1.gb (pos=19, neg=90)
+2025-09-23 15:24:59,492 - data.extractor - INFO - Extracted 137 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X04981.1.gb (pos=27, neg=110)
+2025-09-23 15:24:59,497 - data.extractor - INFO - Extracted 86 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X62654.1.gb (pos=17, neg=69)
+2025-09-23 15:24:59,508 - data.extractor - INFO - Extracted 104 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00477.1.gb (pos=17, neg=87)
+2025-09-23 15:24:59,510 - data.extractor - INFO - Extracted 36 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X54489.1.gb (pos=21, neg=15)
+2025-09-23 15:24:59,519 - data.extractor - INFO - Extracted 115 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z14977.1.gb (pos=14, neg=101)
+2025-09-23 15:24:59,533 - data.extractor - INFO - Extracted 349 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z48051.1.gb (pos=46, neg=303)
+2025-09-23 15:24:59,537 - data.extractor - INFO - Extracted 59 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z33457.1.gb (pos=8, neg=51)
+2025-09-23 15:24:59,548 - data.extractor - INFO - Extracted 324 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z29373.1.gb (pos=76, neg=248)
+2025-09-23 15:24:59,560 - data.extractor - INFO - Extracted 123 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00067.1.gb (pos=65, neg=58)
+2025-09-23 15:24:59,573 - data.extractor - INFO - Extracted 179 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X16277.1.gb (pos=42, neg=137)
+2025-09-23 15:24:59,578 - data.extractor - INFO - Extracted 27 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X74614.1.gb (pos=15, neg=12)
+2025-09-23 15:24:59,594 - data.extractor - INFO - Extracted 405 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X54156.1.gb (pos=49, neg=356)
+2025-09-23 15:24:59,599 - data.extractor - INFO - Extracted 73 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X69438.1.gb (pos=44, neg=29)
+2025-09-23 15:24:59,610 - data.extractor - INFO - Extracted 84 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X75755.1.gb (pos=13, neg=71)
+2025-09-23 15:24:59,616 - data.extractor - INFO - Extracted 89 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X07881.1.gb (pos=21, neg=68)
+2025-09-23 15:24:59,628 - data.extractor - INFO - Extracted 163 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X70872.1.gb (pos=33, neg=130)
+2025-09-23 15:24:59,634 - data.extractor - INFO - Extracted 128 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X62025.1.gb (pos=22, neg=106)
+2025-09-23 15:24:59,638 - data.extractor - INFO - Extracted 40 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z23102.1.gb (pos=9, neg=31)
+2025-09-23 15:24:59,650 - data.extractor - INFO - Extracted 45 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U08198.1.gb (pos=10, neg=35)
+2025-09-23 15:24:59,655 - data.extractor - INFO - Extracted 109 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U09954.1.gb (pos=13, neg=96)
+2025-09-23 15:24:59,662 - data.extractor - INFO - Extracted 84 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U12421.1.gb (pos=17, neg=67)
+2025-09-23 15:24:59,669 - data.extractor - INFO - Extracted 96 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U17969.1.gb (pos=25, neg=71)
+2025-09-23 15:24:59,677 - data.extractor - INFO - Extracted 137 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U19765.1.gb (pos=49, neg=88)
+2025-09-23 15:24:59,681 - data.extractor - INFO - Extracted 64 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U19816.1.gb (pos=27, neg=37)
+2025-09-23 15:24:59,693 - data.extractor - INFO - Extracted 48 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U20325.1.gb (pos=15, neg=33)
+2025-09-23 15:24:59,700 - data.extractor - INFO - Extracted 167 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U20499.1.gb (pos=31, neg=136)
+2025-09-23 15:24:59,705 - data.extractor - INFO - Extracted 91 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U20982.1.gb (pos=43, neg=48)
+2025-09-23 15:24:59,709 - data.extractor - INFO - Extracted 76 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U23143.1.gb (pos=30, neg=46)
+2025-09-23 15:24:59,723 - data.extractor - INFO - Extracted 44 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U23853.1.gb (pos=18, neg=26)
+2025-09-23 15:24:59,887 - data.extractor - INFO - Extracted 109 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U25826.1.gb (pos=22, neg=87)
+2025-09-23 15:24:59,976 - data.extractor - INFO - Extracted 384 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U26425.1.gb (pos=89, neg=295)
+2025-09-23 15:24:59,999 - data.extractor - INFO - Extracted 90 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X56997.1.gb (pos=10, neg=80)
+2025-09-23 15:25:00,016 - data.extractor - INFO - Extracted 65 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X76498.1.gb (pos=23, neg=42)
+2025-09-23 15:25:00,036 - data.extractor - INFO - Extracted 195 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X69953.1.gb (pos=19, neg=176)
+2025-09-23 15:25:00,049 - data.extractor - INFO - Extracted 13 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D25234.1.gb (pos=9, neg=4)
+2025-09-23 15:25:00,080 - data.extractor - INFO - Extracted 243 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K02212.1.gb (pos=26, neg=217)
+2025-09-23 15:25:00,101 - data.extractor - INFO - Extracted 97 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M21540.1.gb (pos=12, neg=85)
+2025-09-23 15:25:00,110 - data.extractor - INFO - Extracted 71 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M10277.1.gb (pos=23, neg=48)
+2025-09-23 15:25:00,278 - data.extractor - INFO - Extracted 733 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M13792.1.gb (pos=22, neg=711)
+2025-09-23 15:25:00,326 - data.extractor - INFO - Extracted 102 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M74493.1.gb (pos=68, neg=34)
+2025-09-23 15:25:00,367 - data.extractor - INFO - Extracted 550 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M16110.1.gb (pos=35, neg=515)
+2025-09-23 15:25:00,373 - data.extractor - INFO - Extracted 43 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M61831.1.gb (pos=26, neg=17)
+2025-09-23 15:25:00,382 - data.extractor - INFO - Extracted 243 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04809.1.gb (pos=43, neg=200)
+2025-09-23 15:25:00,386 - data.extractor - INFO - Extracted 151 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M63420.1.gb (pos=74, neg=77)
+2025-09-23 15:25:00,390 - data.extractor - INFO - Extracted 53 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K02043.1.gb (pos=8, neg=45)
+2025-09-23 15:25:00,395 - data.extractor - INFO - Extracted 114 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04982.1.gb (pos=18, neg=96)
+2025-09-23 15:25:00,399 - data.extractor - INFO - Extracted 71 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M14642.1.gb (pos=22, neg=49)
+2025-09-23 15:25:00,403 - data.extractor - INFO - Extracted 106 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M20902.1.gb (pos=5, neg=101)
+2025-09-23 15:25:00,413 - data.extractor - INFO - Extracted 109 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M10065.1.gb (pos=20, neg=89)
+2025-09-23 15:25:00,432 - data.extractor - INFO - Extracted 532 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J05096.1.gb (pos=110, neg=422)
+2025-09-23 15:25:00,446 - data.extractor - INFO - Extracted 359 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D28126.1.gb (pos=36, neg=323)
+2025-09-23 15:25:00,452 - data.extractor - INFO - Extracted 202 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27132.1.gb (pos=38, neg=164)
+2025-09-23 15:25:00,491 - data.extractor - INFO - Extracted 663 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M64554.1.gb (pos=43, neg=620)
+2025-09-23 15:25:00,496 - data.extractor - INFO - Extracted 187 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M38180.1.gb (pos=32, neg=155)
+2025-09-23 15:25:00,500 - data.extractor - INFO - Extracted 19 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K01884.1.gb (pos=4, neg=15)
+2025-09-23 15:25:00,509 - data.extractor - INFO - Extracted 450 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D26535.1.gb (pos=56, neg=394)
+2025-09-23 15:25:00,513 - data.extractor - INFO - Extracted 95 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27138.1.gb (pos=20, neg=75)
+2025-09-23 15:25:00,523 - data.extractor - INFO - Extracted 248 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J05008.1.gb (pos=39, neg=209)
+2025-09-23 15:25:00,532 - data.extractor - INFO - Extracted 92 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04617.1.gb (pos=29, neg=63)
+2025-09-23 15:25:00,534 - data.extractor - INFO - Extracted 36 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D13156.1.gb (pos=12, neg=24)
+2025-09-23 15:25:00,546 - data.extractor - INFO - Extracted 494 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L29766.1.gb (pos=37, neg=457)
+2025-09-23 15:25:00,549 - data.extractor - INFO - Extracted 103 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M18079.1.gb (pos=10, neg=93)
+2025-09-23 15:25:00,563 - data.extractor - INFO - Extracted 760 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K02402.1.gb (pos=56, neg=704)
+2025-09-23 15:25:00,572 - data.extractor - INFO - Extracted 145 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L13391.1.gb (pos=27, neg=118)
+2025-09-23 15:25:00,577 - data.extractor - INFO - Extracted 106 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L24498.1.gb (pos=8, neg=98)
+2025-09-23 15:25:00,582 - data.extractor - INFO - Extracted 94 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L10822.1.gb (pos=27, neg=67)
+2025-09-23 15:25:00,584 - data.extractor - INFO - Extracted 23 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K01254.1.gb (pos=6, neg=17)
+2025-09-23 15:25:00,588 - data.extractor - INFO - Extracted 80 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L36861.1.gb (pos=32, neg=48)
+2025-09-23 15:25:00,597 - data.extractor - INFO - Extracted 176 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J03059.1.gb (pos=60, neg=116)
+2025-09-23 15:25:00,602 - data.extractor - INFO - Extracted 155 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M93280.gb (pos=57, neg=98)
+2025-09-23 15:25:00,607 - data.extractor - INFO - Extracted 167 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M91463.1.gb (pos=64, neg=103)
+2025-09-23 15:25:00,620 - data.extractor - INFO - Extracted 315 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M58600.1.gb (pos=43, neg=272)
+2025-09-23 15:25:00,627 - data.extractor - INFO - Extracted 150 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L04132.1.gb (pos=5, neg=145)
+2025-09-23 15:25:00,632 - data.extractor - INFO - Extracted 176 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M21339.1.gb (pos=3, neg=173)
+2025-09-23 15:25:00,638 - data.extractor - INFO - Extracted 85 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M83665.1.gb (pos=21, neg=64)
+2025-09-23 15:25:00,649 - data.extractor - INFO - Extracted 201 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L17131.1.gb (pos=44, neg=157)
+2025-09-23 15:25:00,690 - data.extractor - INFO - Extracted 1133 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M26434.1.gb (pos=11, neg=1122)
+2025-09-23 15:25:00,691 - data.extractor - INFO - Extracted 0 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M18006.1.gb (pos=0, neg=0)
+2025-09-23 15:25:00,694 - data.extractor - INFO - Extracted 48 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L39370.1.gb (pos=17, neg=31)
+2025-09-23 15:25:00,702 - data.extractor - INFO - Extracted 146 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27024.1.gb (pos=59, neg=87)
+2025-09-23 15:25:00,713 - data.extractor - INFO - Extracted 735 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L35485.1.gb (pos=31, neg=704)
+2025-09-23 15:25:00,720 - data.extractor - INFO - Extracted 153 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L05072.1.gb (pos=43, neg=110)
+2025-09-23 15:25:00,727 - data.extractor - INFO - Extracted 152 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L14075.1.gb (pos=21, neg=131)
+2025-09-23 15:25:00,732 - data.extractor - INFO - Extracted 79 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L19546.1.gb (pos=26, neg=53)
+2025-09-23 15:25:00,739 - data.extractor - INFO - Extracted 197 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M23442.1.gb (pos=12, neg=185)
+2025-09-23 15:25:00,749 - data.extractor - INFO - Extracted 340 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L39064.1.gb (pos=92, neg=248)
+2025-09-23 15:25:00,753 - data.extractor - INFO - Extracted 122 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L33842.1.gb (pos=35, neg=87)
+2025-09-23 15:25:00,758 - data.extractor - INFO - Extracted 193 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J05253.1.gb (pos=75, neg=118)
+2025-09-23 15:25:00,774 - data.extractor - INFO - Extracted 646 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D16583.1.gb (pos=50, neg=596)
+2025-09-23 15:25:00,779 - data.extractor - INFO - Extracted 90 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M22638.1.gb (pos=30, neg=60)
+2025-09-23 15:25:00,783 - data.extractor - INFO - Extracted 125 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L11016.1.gb (pos=16, neg=109)
+2025-09-23 15:25:00,785 - data.extractor - INFO - Extracted 54 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M37719.1.gb (pos=6, neg=48)
+2025-09-23 15:25:00,793 - data.extractor - INFO - Extracted 344 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D49493.1.gb (pos=52, neg=292)
+2025-09-23 15:25:00,796 - data.extractor - INFO - Extracted 125 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04718.1.gb (pos=17, neg=108)
+2025-09-23 15:25:00,804 - data.extractor - INFO - Extracted 340 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D90084.1.gb (pos=30, neg=310)
+2025-09-23 15:25:00,806 - data.extractor - INFO - Extracted 46 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L25648.1.gb (pos=11, neg=35)
+2025-09-23 15:25:00,809 - data.extractor - INFO - Extracted 74 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J05073.1.gb (pos=16, neg=58)
+2025-09-23 15:25:00,814 - data.extractor - INFO - Extracted 96 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L12760.1.gb (pos=45, neg=51)
+2025-09-23 15:25:00,819 - data.extractor - INFO - Extracted 121 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27903.1.gb (pos=19, neg=102)
+2025-09-23 15:25:00,847 - data.extractor - INFO - Extracted 1069 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L39891.1.gb (pos=239, neg=830)
+2025-09-23 15:25:00,850 - data.extractor - INFO - Extracted 54 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M11726.1.gb (pos=6, neg=48)
+2025-09-23 15:25:00,855 - data.extractor - INFO - Extracted 123 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M31951.1.gb (pos=34, neg=89)
+2025-09-23 15:25:00,858 - data.extractor - INFO - Extracted 94 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M30838.1.gb (pos=15, neg=79)
+2025-09-23 15:25:00,861 - data.extractor - INFO - Extracted 22 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J00301.1.gb (pos=6, neg=16)
+2025-09-23 15:25:00,868 - data.extractor - INFO - Extracted 271 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L34219.1.gb (pos=29, neg=242)
+2025-09-23 15:25:00,885 - data.extractor - INFO - Extracted 691 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D00591.1.gb (pos=54, neg=637)
+2025-09-23 15:25:01,012 - data.extractor - INFO - Extracted 3606 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L11910.1.gb (pos=54, neg=3552)
+2025-09-23 15:25:01,047 - data.extractor - INFO - Extracted 56 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M32405.1.gb (pos=9, neg=47)
+2025-09-23 15:25:01,094 - data.extractor - INFO - Extracted 224 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M89796.1.gb (pos=75, neg=149)
+2025-09-23 15:25:01,135 - data.extractor - INFO - Extracted 55 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M96759.1.gb (pos=27, neg=28)
+2025-09-23 15:25:01,181 - data.extractor - INFO - Extracted 79 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M18000.1.gb (pos=7, neg=72)
+2025-09-23 15:25:01,248 - data.extractor - INFO - Extracted 82 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M81650.1.gb (pos=32, neg=50)
+2025-09-23 15:25:01,252 - data.extractor - INFO - Extracted 52 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J00306.1.gb (pos=8, neg=44)
+2025-09-23 15:25:01,275 - data.extractor - INFO - Extracted 208 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M24461.1.gb (pos=42, neg=166)
+2025-09-23 15:25:01,283 - data.extractor - INFO - Extracted 151 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M64231.1.gb (pos=33, neg=118)
+2025-09-23 15:25:01,287 - data.extractor - INFO - Extracted 93 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M32639.1.gb (pos=3, neg=90)
+2025-09-23 15:25:01,293 - data.extractor - INFO - Extracted 152 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D32046.1.gb (pos=35, neg=117)
+2025-09-23 15:25:01,319 - data.extractor - INFO - Extracted 174 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L13470.1.gb (pos=31, neg=143)
+2025-09-23 15:25:01,393 - data.extractor - INFO - Extracted 146 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M96955.1.gb (pos=42, neg=104)
+2025-09-23 15:25:01,504 - data.extractor - INFO - Extracted 276 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J02846.1.gb (pos=18, neg=258)
+2025-09-23 15:25:01,558 - data.extractor - INFO - Extracted 55 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M11749.1.gb (pos=9, neg=46)
+2025-09-23 15:25:01,615 - data.extractor - INFO - Extracted 33 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M59924.1.gb (pos=3, neg=30)
+2025-09-23 15:25:01,679 - data.extractor - INFO - Extracted 730 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/K03021.1.gb (pos=51, neg=679)
+2025-09-23 15:25:01,711 - data.extractor - INFO - Extracted 122 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L14927.1.gb (pos=15, neg=107)
+2025-09-23 15:25:01,718 - data.extractor - INFO - Extracted 90 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M37984.1.gb (pos=12, neg=78)
+2025-09-23 15:25:01,732 - data.extractor - INFO - Extracted 370 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D00596.1.gb (pos=22, neg=348)
+2025-09-23 15:25:01,734 - data.extractor - INFO - Extracted 18 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M21024.1.gb (pos=8, neg=10)
+2025-09-23 15:25:01,737 - data.extractor - INFO - Extracted 70 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J03589.1.gb (pos=8, neg=62)
+2025-09-23 15:25:01,741 - data.extractor - INFO - Extracted 111 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M73255.1.gb (pos=62, neg=49)
+2025-09-23 15:25:01,744 - data.extractor - INFO - Extracted 72 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X57436.1.gb (pos=27, neg=45)
+2025-09-23 15:25:01,746 - data.extractor - INFO - Extracted 33 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X80536.1.gb (pos=15, neg=18)
+2025-09-23 15:25:01,749 - data.extractor - INFO - Extracted 36 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X14672.1.gb (pos=17, neg=19)
+2025-09-23 15:25:01,751 - data.extractor - INFO - Extracted 36 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X65633.1.gb (pos=18, neg=18)
+2025-09-23 15:25:01,753 - data.extractor - INFO - Extracted 30 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X63128.1.gb (pos=30, neg=0)
+2025-09-23 15:25:01,755 - data.extractor - INFO - Extracted 37 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X66503.1.gb (pos=27, neg=10)
+2025-09-23 15:25:01,758 - data.extractor - INFO - Extracted 51 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z11162.1.gb (pos=21, neg=30)
+2025-09-23 15:25:01,760 - data.extractor - INFO - Extracted 45 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Y00106.1.gb (pos=25, neg=20)
+2025-09-23 15:25:01,763 - data.extractor - INFO - Extracted 25 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52473.1.gb (pos=18, neg=7)
+2025-09-23 15:25:01,772 - data.extractor - INFO - Extracted 230 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V01511.1.gb (pos=18, neg=212)
+2025-09-23 15:25:01,773 - data.extractor - INFO - Extracted 15 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X68790.1.gb (pos=15, neg=0)
+2025-09-23 15:25:01,775 - data.extractor - INFO - Extracted 8 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X65784.1.gb (pos=8, neg=0)
+2025-09-23 15:25:01,779 - data.extractor - INFO - Extracted 73 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55039.1.gb (pos=36, neg=37)
+2025-09-23 15:25:01,781 - data.extractor - INFO - Extracted 60 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z25587.1.gb (pos=59, neg=1)
+2025-09-23 15:25:01,782 - data.extractor - INFO - Extracted 24 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X70251.1.gb (pos=24, neg=0)
+2025-09-23 15:25:01,784 - data.extractor - INFO - Extracted 13 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60542.1.gb (pos=12, neg=1)
+2025-09-23 15:25:01,796 - data.extractor - INFO - Extracted 63 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60382.1.gb (pos=41, neg=22)
+2025-09-23 15:25:01,802 - data.extractor - INFO - Extracted 24 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55545.1.gb (pos=21, neg=3)
+2025-09-23 15:25:01,825 - data.extractor - INFO - Extracted 65 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55760.1.gb (pos=27, neg=38)
+2025-09-23 15:25:01,832 - data.extractor - INFO - Extracted 29 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X62421.1.gb (pos=21, neg=8)
+2025-09-23 15:25:01,838 - data.extractor - INFO - Extracted 60 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X68302.1.gb (pos=51, neg=9)
+2025-09-23 15:25:01,845 - data.extractor - INFO - Extracted 46 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X12794.1.gb (pos=24, neg=22)
+2025-09-23 15:25:01,854 - data.extractor - INFO - Extracted 28 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X16545.1.gb (pos=14, neg=14)
+2025-09-23 15:25:01,855 - data.extractor - INFO - Extracted 10 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55741.1.gb (pos=6, neg=4)
+2025-09-23 15:25:01,862 - data.extractor - INFO - Extracted 53 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X80915.1.gb (pos=30, neg=23)
+2025-09-23 15:25:01,866 - data.extractor - INFO - Extracted 64 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X66310.1.gb (pos=33, neg=31)
+2025-09-23 15:25:01,870 - data.extractor - INFO - Extracted 148 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z23091.1.gb (pos=64, neg=84)
+2025-09-23 15:25:01,871 - data.extractor - INFO - Extracted 19 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X57130.1.gb (pos=13, neg=6)
+2025-09-23 15:25:01,873 - data.extractor - INFO - Extracted 16 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X57127.1.gb (pos=7, neg=9)
+2025-09-23 15:25:01,874 - data.extractor - INFO - Extracted 12 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60481.1.gb (pos=6, neg=6)
+2025-09-23 15:25:01,877 - data.extractor - INFO - Extracted 43 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X65858.1.gb (pos=22, neg=21)
+2025-09-23 15:25:01,878 - data.extractor - INFO - Extracted 23 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X63337.1.gb (pos=10, neg=13)
+2025-09-23 15:25:01,880 - data.extractor - INFO - Extracted 36 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X64994.1.gb (pos=19, neg=17)
+2025-09-23 15:25:01,882 - data.extractor - INFO - Extracted 27 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X64995.1.gb (pos=19, neg=8)
+2025-09-23 15:25:01,884 - data.extractor - INFO - Extracted 49 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X03473.1.gb (pos=12, neg=37)
+2025-09-23 15:25:01,885 - data.extractor - INFO - Extracted 28 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X76786.1.gb (pos=28, neg=0)
+2025-09-23 15:25:01,887 - data.extractor - INFO - Extracted 16 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X00089.1.gb (pos=7, neg=9)
+2025-09-23 15:25:01,888 - data.extractor - INFO - Extracted 33 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X15265.1.gb (pos=29, neg=4)
+2025-09-23 15:25:01,891 - data.extractor - INFO - Extracted 36 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V00532.1.gb (pos=12, neg=24)
+2025-09-23 15:25:01,892 - data.extractor - INFO - Extracted 19 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55293.1.gb (pos=10, neg=9)
+2025-09-23 15:25:01,894 - data.extractor - INFO - Extracted 37 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52560.1.gb (pos=21, neg=16)
+2025-09-23 15:25:01,895 - data.extractor - INFO - Extracted 26 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X60201.1.gb (pos=15, neg=11)
+2025-09-23 15:25:01,898 - data.extractor - INFO - Extracted 38 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z11901.1.gb (pos=22, neg=16)
+2025-09-23 15:25:01,900 - data.extractor - INFO - Extracted 86 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X12458.1.gb (pos=42, neg=44)
+2025-09-23 15:25:01,902 - data.extractor - INFO - Extracted 35 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X73424.1.gb (pos=32, neg=3)
+2025-09-23 15:25:01,904 - data.extractor - INFO - Extracted 52 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/V00571.1.gb (pos=26, neg=26)
+2025-09-23 15:25:01,906 - data.extractor - INFO - Extracted 37 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X05246.1.gb (pos=25, neg=12)
+2025-09-23 15:25:01,907 - data.extractor - INFO - Extracted 30 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X13556.1.gb (pos=25, neg=5)
+2025-09-23 15:25:01,909 - data.extractor - INFO - Extracted 45 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X83416.1.gb (pos=45, neg=0)
+2025-09-23 15:25:01,911 - data.extractor - INFO - Extracted 8 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X79235.1.gb (pos=8, neg=0)
+2025-09-23 15:25:01,912 - data.extractor - INFO - Extracted 9 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/Z27113.1.gb (pos=8, neg=1)
+2025-09-23 15:25:01,913 - data.extractor - INFO - Extracted 9 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52259.1.gb (pos=7, neg=2)
+2025-09-23 15:25:01,918 - data.extractor - INFO - Extracted 129 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X52075.1.gb (pos=24, neg=105)
+2025-09-23 15:25:01,919 - data.extractor - INFO - Extracted 49 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X71135.1.gb (pos=27, neg=22)
+2025-09-23 15:25:01,921 - data.extractor - INFO - Extracted 29 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X82554.1.gb (pos=4, neg=25)
+2025-09-23 15:25:01,923 - data.extractor - INFO - Extracted 35 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X55543.1.gb (pos=16, neg=19)
+2025-09-23 15:25:01,925 - data.extractor - INFO - Extracted 71 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X73534.1.gb (pos=19, neg=52)
+2025-09-23 15:25:01,930 - data.extractor - INFO - Extracted 77 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/X82676.1.gb (pos=72, neg=5)
+2025-09-23 15:25:01,933 - data.extractor - INFO - Extracted 73 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U01212.1.gb (pos=10, neg=63)
+2025-09-23 15:25:01,935 - data.extractor - INFO - Extracted 24 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U03486.2.gb (pos=21, neg=3)
+2025-09-23 15:25:01,939 - data.extractor - INFO - Extracted 83 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U03735.1.gb (pos=33, neg=50)
+2025-09-23 15:25:01,945 - data.extractor - INFO - Extracted 200 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U10116.1.gb (pos=29, neg=171)
+2025-09-23 15:25:01,947 - data.extractor - INFO - Extracted 48 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U10273.1.gb (pos=22, neg=26)
+2025-09-23 15:25:01,949 - data.extractor - INFO - Extracted 14 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U10360.1.gb (pos=14, neg=0)
+2025-09-23 15:25:01,954 - data.extractor - INFO - Extracted 147 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U10554.1.gb (pos=48, neg=99)
+2025-09-23 15:25:01,956 - data.extractor - INFO - Extracted 37 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U11424.1.gb (pos=15, neg=22)
+2025-09-23 15:25:01,958 - data.extractor - INFO - Extracted 27 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U13666.1.gb (pos=21, neg=6)
+2025-09-23 15:25:01,964 - data.extractor - INFO - Extracted 60 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U13695.1.gb (pos=56, neg=4)
+2025-09-23 15:25:01,971 - data.extractor - INFO - Extracted 128 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U16812.1.gb (pos=13, neg=115)
+2025-09-23 15:25:01,974 - data.extractor - INFO - Extracted 41 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U17894.1.gb (pos=20, neg=21)
+2025-09-23 15:25:01,992 - data.extractor - INFO - Extracted 23 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U18548.1.gb (pos=21, neg=2)
+2025-09-23 15:25:02,118 - data.extractor - INFO - Extracted 171 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U20734.1.gb (pos=21, neg=150)
+2025-09-23 15:25:02,129 - data.extractor - INFO - Extracted 57 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U21051.1.gb (pos=22, neg=35)
+2025-09-23 15:25:02,139 - data.extractor - INFO - Extracted 82 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/U22346.1.gb (pos=21, neg=61)
+2025-09-23 15:25:02,142 - data.extractor - INFO - Extracted 57 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L10381.1.gb (pos=44, neg=13)
+2025-09-23 15:25:02,144 - data.extractor - INFO - Extracted 26 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D13538.1.gb (pos=26, neg=0)
+2025-09-23 15:25:02,150 - data.extractor - INFO - Extracted 49 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L19704.1.gb (pos=49, neg=0)
+2025-09-23 15:25:02,159 - data.extractor - INFO - Extracted 92 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M11567.1.gb (pos=9, neg=83)
+2025-09-23 15:25:02,161 - data.extractor - INFO - Extracted 54 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L18972.1.gb (pos=41, neg=13)
+2025-09-23 15:25:02,162 - data.extractor - INFO - Extracted 10 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L37019.1.gb (pos=10, neg=0)
+2025-09-23 15:25:02,165 - data.extractor - INFO - Extracted 33 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M35160.1.gb (pos=28, neg=5)
+2025-09-23 15:25:02,168 - data.extractor - INFO - Extracted 21 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M27394.1.gb (pos=18, neg=3)
+2025-09-23 15:25:02,171 - data.extractor - INFO - Extracted 10 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M90355.2.gb (pos=3, neg=7)
+2025-09-23 15:25:02,173 - data.extractor - INFO - Extracted 13 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M90356.2.gb (pos=10, neg=3)
+2025-09-23 15:25:02,178 - data.extractor - INFO - Extracted 140 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M92269.1.gb (pos=133, neg=7)
+2025-09-23 15:25:02,180 - data.extractor - INFO - Extracted 47 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M31423.1.gb (pos=13, neg=34)
+2025-09-23 15:25:02,181 - data.extractor - INFO - Extracted 25 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J00119.1.gb (pos=21, neg=4)
+2025-09-23 15:25:02,183 - data.extractor - INFO - Extracted 67 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L15296.1.gb (pos=54, neg=13)
+2025-09-23 15:25:02,186 - data.extractor - INFO - Extracted 40 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M28170.1.gb (pos=33, neg=7)
+2025-09-23 15:25:02,189 - data.extractor - INFO - Extracted 51 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M14333.1.gb (pos=32, neg=19)
+2025-09-23 15:25:02,191 - data.extractor - INFO - Extracted 33 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L35240.1.gb (pos=28, neg=5)
+2025-09-23 15:25:02,196 - data.extractor - INFO - Extracted 185 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M60119.1.gb (pos=110, neg=75)
+2025-09-23 15:25:02,198 - data.extractor - INFO - Extracted 22 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M90439.1.gb (pos=21, neg=1)
+2025-09-23 15:25:02,200 - data.extractor - INFO - Extracted 34 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M55267.1.gb (pos=14, neg=20)
+2025-09-23 15:25:02,201 - data.extractor - INFO - Extracted 42 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M60830.1.gb (pos=41, neg=1)
+2025-09-23 15:25:02,206 - data.extractor - INFO - Extracted 137 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L10820.1.gb (pos=27, neg=110)
+2025-09-23 15:25:02,207 - data.extractor - INFO - Extracted 25 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D16826.1.gb (pos=24, neg=1)
+2025-09-23 15:25:02,209 - data.extractor - INFO - Extracted 16 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M69199.1.gb (pos=6, neg=10)
+2025-09-23 15:25:02,211 - data.extractor - INFO - Extracted 44 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/J04152.1.gb (pos=19, neg=25)
+2025-09-23 15:25:02,212 - data.extractor - INFO - Extracted 34 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M86522.1.gb (pos=34, neg=0)
+2025-09-23 15:25:02,215 - data.extractor - INFO - Extracted 27 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M16514.1.gb (pos=20, neg=7)
+2025-09-23 15:25:02,219 - data.extractor - INFO - Extracted 120 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M22403.1.gb (pos=47, neg=73)
+2025-09-23 15:25:02,222 - data.extractor - INFO - Extracted 63 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M80478.1.gb (pos=18, neg=45)
+2025-09-23 15:25:02,223 - data.extractor - INFO - Extracted 24 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/L36149.1.gb (pos=20, neg=4)
+2025-09-23 15:25:02,225 - data.extractor - INFO - Extracted 34 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M60094.1.gb (pos=13, neg=21)
+2025-09-23 15:25:02,227 - data.extractor - INFO - Extracted 42 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M97508.1.gb (pos=8, neg=34)
+2025-09-23 15:25:02,229 - data.extractor - INFO - Extracted 22 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M64799.1.gb (pos=21, neg=1)
+2025-09-23 15:25:02,231 - data.extractor - INFO - Extracted 46 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/D29685.1.gb (pos=41, neg=5)
+2025-09-23 15:25:02,232 - data.extractor - INFO - Extracted 7 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M22005.1.gb (pos=7, neg=0)
+2025-09-23 15:25:02,233 - data.extractor - INFO - Extracted 7 sequences from /Users/apple/Documents/first_commit/detection_of_exons_using_pso/output/data/raw/M26685.1.gb (pos=7, neg=0)
+2025-09-23 15:25:02,234 - root - INFO - Extracted 42167 sequences with 8345 exons and 33822 introns
+2025-09-23 15:25:02,234 - root - INFO - Preprocessing data
+2025-09-23 15:25:07,460 - data.preprocessor - INFO - Encoded 42167 sequences with shape (42167, 100, 5)
+2025-09-23 15:25:07,767 - data.preprocessor - INFO - Applying SMOTE to balance classes. Original class distribution: [27057  6676]
+2025-09-23 15:25:13,628 - data.preprocessor - INFO - After SMOTE, class distribution: [27057 27057]
+2025-09-23 15:25:13,662 - root - INFO - Preprocessed data: 54114 training samples, 8434 test samples
+2025-09-23 15:25:13,665 - root - INFO - Training and evaluating model
+2025-09-23 15:25:13,668 - training.trainer - INFO - Starting 5-fold cross-validation
+2025-09-23 15:25:13,688 - training.trainer - INFO - Training fold 1/5
+2025-09-23 15:25:49,452 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
