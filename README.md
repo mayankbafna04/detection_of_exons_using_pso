@@ -1,6 +1,3 @@
-Here is the complete, finalized `README.md` block for your project. You can copy and paste this directly into your file:
-
-markdown
 # Detection of Exons Using Particle Swarm Optimization (PSO)
 
 A hybrid computational biology framework that optimizes a Convolutional Neural Network (CNN) architecture using Particle Swarm Optimization (PSO) for high-accuracy exon mapping and genomic sequence splice-site detection in eukaryotic genomes.
